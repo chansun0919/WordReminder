@@ -1,12 +1,16 @@
 package com.chenxin.wordreminder
 
 import android.Manifest
+import android.app.AlarmManager
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.content.Context
+import android.content.Intent
 import android.content.pm.PackageManager
+import android.net.Uri
 import android.os.Build
 import android.os.Bundle
+import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
@@ -34,12 +38,15 @@ class MainActivity : AppCompatActivity() {
         showDue()
         binding.btnDone.setOnClickListener { markDone() }
         binding.btnSettings.setOnClickListener { openTimePicker() }
+
+        ensureExactAlarmPermission()
     }
 
-    /** 重新计算今天到期的单词并展示第一个。 */
+    /** 重新计算今天到期的单词并展示第一个。任何异常都兜底，不让界面崩溃。 */
     private fun showDue() {
-        val words = WordRepository.all(this)
-        dueList = Srs.dueIndices(this, words.size)
+        try {
+            val words = WordRepository.all(this)
+            dueList = Srs.dueIndices(this, words.size)
 
         if (dueList.isEmpty()) {
             binding.tvWord.text = "今日复习完成 🎉"
@@ -55,6 +62,15 @@ class MainActivity : AppCompatActivity() {
 
         binding.tvStreak.text = "连续 ${prefs.streak} 天 · 累计复习 ${prefs.total} 次"
         binding.tvDate.text = LocalDate.now().format(DateTimeFormatter.ofPattern("M月d日"))
+        } catch (t: Throwable) {
+            t.printStackTrace()
+            binding.tvWord.text = "加载出错"
+            binding.tvPhonetic.text = ""
+            binding.tvMeaning.text = "词库加载失败：${t.message}"
+            binding.tvExample.text = ""
+            binding.btnDone.isEnabled = false
+            binding.tvQueue.text = "请重新安装或联系开发者"
+        }
     }
 
     private fun renderCurrent(words: List<Word>) {
@@ -111,6 +127,31 @@ class MainActivity : AppCompatActivity() {
                 CHANNEL_ID, "背单词提醒", NotificationManager.IMPORTANCE_HIGH
             ).apply { description = "每日背单词" }
             nm.createNotificationChannel(ch)
+        }
+    }
+
+    /**
+     * Android 12+ 的精确闹钟权限默认可能不授予侧载应用，导致提醒不精准。
+     * 未授予时弹窗引导用户去设置里开启（开启后下次排程即为精准闹钟）。
+     */
+    private fun ensureExactAlarmPermission() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
+            val am = getSystemService(AlarmManager::class.java)
+            if (!am.canScheduleExactAlarms()) {
+                AlertDialog.Builder(this)
+                    .setTitle("开启精准提醒")
+                    .setMessage("为保证每天准时提醒，请在设置里允许本应用的「闹钟和提醒（精确闹钟）」权限。")
+                    .setPositiveButton("去设置") { _, _ ->
+                        try {
+                            startActivity(
+                                Intent(AlarmManager.ACTION_REQUEST_SCHEDULE_EXACT_ALARM)
+                                    .setData(Uri.parse("package:$packageName"))
+                            )
+                        } catch (_: Exception) { /* 部分 ROM 无此页，忽略 */ }
+                    }
+                    .setNegativeButton("稍后", null)
+                    .show()
+            }
         }
     }
 

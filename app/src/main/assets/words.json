@@ -1,41 +1,10274 @@
 [
-  {"word":"abandon","phonetic":"/əˈbændən/","meaning":"v. 抛弃；放弃","example":"He abandoned his car in the snow."},
-  {"word":"ability","phonetic":"/əˈbɪləti/","meaning":"n. 能力；才能","example":"She has the ability to solve hard problems."},
-  {"word":"absence","phonetic":"/ˈæbsəns/","meaning":"n. 缺席；缺乏","example":"His absence was noticed by the teacher."},
-  {"word":"absorb","phonetic":"/əbˈzɔːrb/","meaning":"v. 吸收；使专注","example":"The sponge absorbed all the water."},
-  {"word":"abundant","phonetic":"/əˈbʌndənt/","meaning":"adj. 丰富的；充裕的","example":"The forest is abundant in wild animals."},
-  {"word":"accomplish","phonetic":"/əˈkʌmplɪʃ/","meaning":"v. 完成；实现","example":"We accomplished our goal ahead of time."},
-  {"word":"accurate","phonetic":"/ˈækjərət/","meaning":"adj. 准确的；精确的","example":"The watch gives an accurate time."},
-  {"word":"achieve","phonetic":"/əˈtʃiːv/","meaning":"v. 达到；实现","example":"Hard work helps you achieve your dream."},
-  {"word":"acquire","phonetic":"/əˈkwaɪər/","meaning":"v. 获得；学到","example":"Children acquire language quickly."},
-  {"word":"adapt","phonetic":"/əˈdæpt/","meaning":"v. 适应；改编","example":"Plants adapt to the climate."},
-  {"word":"adequate","phonetic":"/ˈædɪkwət/","meaning":"adj. 足够的；适当的","example":"The food was adequate for the trip."},
-  {"word":"adjust","phonetic":"/əˈdʒʌst/","meaning":"v. 调整；使适应","example":"He adjusted the seat to sit comfortably."},
-  {"word":"adopt","phonetic":"/əˈdɑːpt/","meaning":"v. 采纳；收养","example":"They adopted a healthier lifestyle."},
-  {"word":"advance","phonetic":"/ədˈvæns/","meaning":"v./n. 前进；进步","example":"Technology continues to advance."},
-  {"word":"adverse","phonetic":"/ˈædvɜːrs/","meaning":"adj. 不利的；相反的","example":"Adverse weather delayed the flight."},
-  {"word":"advocate","phonetic":"/ˈædvəkeɪt/","meaning":"v. 提倡；主张","example":"She advocates reading every day."},
-  {"word":"affect","phonetic":"/əˈfekt/","meaning":"v. 影响；打动","example":"The rain affected our plan."},
-  {"word":"ambitious","phonetic":"/æmˈbɪʃəs/","meaning":"adj. 有雄心的；野心勃勃的","example":"He is ambitious to learn English well."},
-  {"word":"analyze","phonetic":"/ˈænəlaɪz/","meaning":"v. 分析","example":"We analyzed the data carefully."},
-  {"word":"ancient","phonetic":"/ˈeɪnʃənt/","meaning":"adj. 古代的；古老的","example":"They visited an ancient temple."},
-  {"word":"anticipate","phonetic":"/ænˈtɪsɪpeɪt/","meaning":"v. 预期；期待","example":"We anticipate a busy morning."},
-  {"word":"apparent","phonetic":"/əˈpærənt/","meaning":"adj. 明显的；表面的","example":"It is apparent that he is tired."},
-  {"word":"appreciate","phonetic":"/əˈpriːʃieɪt/","meaning":"v. 欣赏；感激","example":"I appreciate your help."},
-  {"word":"appropriate","phonetic":"/əˈproʊpriət/","meaning":"adj. 合适的；恰当的","example":"Wear appropriate clothes for the meeting."},
-  {"word":"aspect","phonetic":"/ˈæspekt/","meaning":"n. 方面；面貌","example":"We discussed every aspect of the plan."},
-  {"word":"assume","phonetic":"/əˈsuːm/","meaning":"v. 假定；承担","example":"Do not assume the answer is right."},
-  {"word":"attribute","phonetic":"/əˈtrɪbjuːt/","meaning":"v. 把…归因于","example":"She attributes her success to effort."},
-  {"word":"automatic","phonetic":"/ˌɔːtəˈmætɪk/","meaning":"adj. 自动的","example":"The door is automatic."},
-  {"word":"available","phonetic":"/əˈveɪləbl/","meaning":"adj. 可获得的；有空的","example":"Is the book available online?"},
-  {"word":"aware","phonetic":"/əˈwer/","meaning":"adj. 意识到的；知道的","example":"Be aware of the risk."},
-  {"word":"benefit","phonetic":"/ˈbenɪfɪt/","meaning":"n./v. 益处；受益","example":"Exercise benefits your health."},
-  {"word":"brilliant","phonetic":"/ˈbrɪljənt/","meaning":"adj. 杰出的；明亮的","example":"She had a brilliant idea."},
-  {"word":"circumstance","phonetic":"/ˈsɜːrkəmstæns/","meaning":"n. 情况；环境","example":"Under the circumstances, we waited."},
-  {"word":"commit","phonetic":"/kəˈmɪt/","meaning":"v. 承诺；犯（错）","example":"He committed to practicing daily."},
-  {"word":"compensate","phonetic":"/ˈkɑːmpenseɪt/","meaning":"v. 补偿；弥补","example":"Nothing can compensate for lost time."},
-  {"word":"competent","phonetic":"/ˈkɑːmpɪtənt/","meaning":"adj. 胜任的；能干的","example":"She is competent for the job."},
-  {"word":"complex","phonetic":"/kəmˈpleks/","meaning":"adj. 复杂的","example":"The machine is complex."},
-  {"word":"comprehensive","phonetic":"/ˌkɑːmprɪˈhensɪv/","meaning":"adj. 全面的；综合的","example":"We need a comprehensive plan."},
-  {"word":"conclude","phonetic":"/kənˈkluːd/","meaning":"v. 总结；断定","example":"He concluded the speech."}
+  {
+    "word": "junior high",
+    "phonetic": "",
+    "meaning": "初级中学",
+    "example": ""
+  },
+  {
+    "word": "ready",
+    "phonetic": "",
+    "meaning": "准备好的",
+    "example": ""
+  },
+  {
+    "word": "textbook",
+    "phonetic": "",
+    "meaning": "教科书，课本",
+    "example": ""
+  },
+  {
+    "word": "forget",
+    "phonetic": "",
+    "meaning": "忘记，遗忘",
+    "example": ""
+  },
+  {
+    "word": "pack",
+    "phonetic": "",
+    "meaning": "(把..)打包",
+    "example": ""
+  },
+  {
+    "word": "eraser",
+    "phonetic": "",
+    "meaning": "橡皮",
+    "example": ""
+  },
+  {
+    "word": "history",
+    "phonetic": "",
+    "meaning": "历史",
+    "example": ""
+  },
+  {
+    "word": "geography",
+    "phonetic": "",
+    "meaning": "地理",
+    "example": ""
+  },
+  {
+    "word": "biology",
+    "phonetic": "",
+    "meaning": "生物",
+    "example": ""
+  },
+  {
+    "word": "physics",
+    "phonetic": "",
+    "meaning": "物理",
+    "example": ""
+  },
+  {
+    "word": "information technology",
+    "phonetic": "",
+    "meaning": "信息技术",
+    "example": ""
+  },
+  {
+    "word": "chemistry",
+    "phonetic": "",
+    "meaning": "化学",
+    "example": ""
+  },
+  {
+    "word": "jacket",
+    "phonetic": "",
+    "meaning": "夹克",
+    "example": ""
+  },
+  {
+    "word": "red scarf",
+    "phonetic": "",
+    "meaning": "红围巾",
+    "example": ""
+  },
+  {
+    "word": "jeans",
+    "phonetic": "",
+    "meaning": "牛仔裤",
+    "example": ""
+  },
+  {
+    "word": "hat",
+    "phonetic": "",
+    "meaning": "帽子",
+    "example": ""
+  },
+  {
+    "word": "T-shirt",
+    "phonetic": "",
+    "meaning": "T恤(衫)",
+    "example": ""
+  },
+  {
+    "word": "grey",
+    "phonetic": "",
+    "meaning": "adj灰色的",
+    "example": ""
+  },
+  {
+    "word": "uniform",
+    "phonetic": "",
+    "meaning": "制服",
+    "example": ""
+  },
+  {
+    "word": "future",
+    "phonetic": "",
+    "meaning": "未来的",
+    "example": ""
+  },
+  {
+    "word": "passage",
+    "phonetic": "",
+    "meaning": "文章",
+    "example": ""
+  },
+  {
+    "word": "teaching building",
+    "phonetic": "",
+    "meaning": "教学楼",
+    "example": ""
+  },
+  {
+    "word": "dining hall",
+    "phonetic": "",
+    "meaning": "食堂",
+    "example": ""
+  },
+  {
+    "word": "volunteer",
+    "phonetic": "",
+    "meaning": "志愿者",
+    "example": ""
+  },
+  {
+    "word": "around",
+    "phonetic": "",
+    "meaning": "到处，四处",
+    "example": ""
+  },
+  {
+    "word": "follow",
+    "phonetic": "",
+    "meaning": "跟随",
+    "example": ""
+  },
+  {
+    "word": "lab",
+    "phonetic": "",
+    "meaning": "实验室",
+    "example": ""
+  },
+  {
+    "word": "hold",
+    "phonetic": "",
+    "meaning": "召开，举行",
+    "example": ""
+  },
+  {
+    "word": "event",
+    "phonetic": "",
+    "meaning": "活动",
+    "example": ""
+  },
+  {
+    "word": "delicious",
+    "phonetic": "",
+    "meaning": "美味的",
+    "example": ""
+  },
+  {
+    "word": "join",
+    "phonetic": "",
+    "meaning": "参与.加入",
+    "example": ""
+  },
+  {
+    "word": "club",
+    "phonetic": "",
+    "meaning": "俱乐部",
+    "example": ""
+  },
+  {
+    "word": "life",
+    "phonetic": "",
+    "meaning": "生活",
+    "example": ""
+  },
+  {
+    "word": "introduce",
+    "phonetic": "",
+    "meaning": "介绍",
+    "example": ""
+  },
+  {
+    "word": "yourself",
+    "phonetic": "",
+    "meaning": "你自己",
+    "example": ""
+  },
+  {
+    "word": "everyone",
+    "phonetic": "",
+    "meaning": "每个人",
+    "example": ""
+  },
+  {
+    "word": "holiday",
+    "phonetic": "",
+    "meaning": "假期，休日",
+    "example": ""
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "",
+    "meaning": "喜欢，享受",
+    "example": ""
+  },
+  {
+    "word": "nervous",
+    "phonetic": "",
+    "meaning": "adj神经紧张的",
+    "example": ""
+  },
+  {
+    "word": "classmate",
+    "phonetic": "",
+    "meaning": "同班同学",
+    "example": ""
+  },
+  {
+    "word": "hobby",
+    "phonetic": "",
+    "meaning": "爱好",
+    "example": ""
+  },
+  {
+    "word": "organise",
+    "phonetic": "",
+    "meaning": "组织，策划",
+    "example": ""
+  },
+  {
+    "word": "need",
+    "phonetic": "",
+    "meaning": "需要",
+    "example": ""
+  },
+  {
+    "word": "snack",
+    "phonetic": "",
+    "meaning": "小吃，点心",
+    "example": ""
+  },
+  {
+    "word": "activity",
+    "phonetic": "",
+    "meaning": "活动",
+    "example": ""
+  },
+  {
+    "word": "decoration",
+    "phonetic": "",
+    "meaning": "装饰物",
+    "example": ""
+  },
+  {
+    "word": "balloon",
+    "phonetic": "",
+    "meaning": "气球",
+    "example": ""
+  },
+  {
+    "word": "leaf",
+    "phonetic": "",
+    "meaning": "叶，叶子",
+    "example": ""
+  },
+  {
+    "word": "grow",
+    "phonetic": "",
+    "meaning": "成长，长大",
+    "example": ""
+  },
+  {
+    "word": "paint",
+    "phonetic": "",
+    "meaning": "(给..)涂颜料",
+    "example": ""
+  },
+  {
+    "word": "star",
+    "phonetic": "",
+    "meaning": "创办：建立",
+    "example": ""
+  },
+  {
+    "word": "better",
+    "phonetic": "",
+    "meaning": "更好的",
+    "example": ""
+  },
+  {
+    "word": "plan",
+    "phonetic": "",
+    "meaning": "计划",
+    "example": ""
+  },
+  {
+    "word": "complete",
+    "phonetic": "",
+    "meaning": "使完整",
+    "example": ""
+  },
+  {
+    "word": "without",
+    "phonetic": "",
+    "meaning": "缺乏：没有",
+    "example": ""
+  },
+  {
+    "word": "sentence",
+    "phonetic": "",
+    "meaning": "句子",
+    "example": ""
+  },
+  {
+    "word": "mistake",
+    "phonetic": "",
+    "meaning": "错误",
+    "example": ""
+  },
+  {
+    "word": "polite",
+    "phonetic": "",
+    "meaning": "有礼貌的",
+    "example": ""
+  },
+  {
+    "word": "mind",
+    "phonetic": "",
+    "meaning": "头脑：思想",
+    "example": ""
+  },
+  {
+    "word": "hers",
+    "phonetic": "",
+    "meaning": "她的",
+    "example": ""
+  },
+  {
+    "word": "dry",
+    "phonetic": "",
+    "meaning": "干的,干燥的",
+    "example": ""
+  },
+  {
+    "word": "meaning",
+    "phonetic": "",
+    "meaning": "意义；意思",
+    "example": ""
+  },
+  {
+    "word": "fact",
+    "phonetic": "",
+    "meaning": "事实：真相",
+    "example": ""
+  },
+  {
+    "word": "in fact",
+    "phonetic": "",
+    "meaning": "事实上",
+    "example": ""
+  },
+  {
+    "word": "important",
+    "phonetic": "",
+    "meaning": "重要的,重人",
+    "example": ""
+  },
+  {
+    "word": "remember",
+    "phonetic": "",
+    "meaning": "记住，记得",
+    "example": ""
+  },
+  {
+    "word": "really",
+    "phonetic": "",
+    "meaning": "很，十分",
+    "example": ""
+  },
+  {
+    "word": "choose",
+    "phonetic": "",
+    "meaning": "选择：进取",
+    "example": ""
+  },
+  {
+    "word": "main",
+    "phonetic": "",
+    "meaning": "主要的",
+    "example": ""
+  },
+  {
+    "word": "expression",
+    "phonetic": "",
+    "meaning": "词；词组；",
+    "example": ""
+  },
+  {
+    "word": "point",
+    "phonetic": "",
+    "meaning": "指：用手指指",
+    "example": ""
+  },
+  {
+    "word": "point out",
+    "phonetic": "",
+    "meaning": "指出，指明",
+    "example": ""
+  },
+  {
+    "word": "praise",
+    "phonetic": "",
+    "meaning": "称赞，表扬",
+    "example": ""
+  },
+  {
+    "word": "other",
+    "phonetic": "",
+    "meaning": "另外的",
+    "example": ""
+  },
+  {
+    "word": "grammar",
+    "phonetic": "",
+    "meaning": "语法",
+    "example": ""
+  },
+  {
+    "word": "rule",
+    "phonetic": "",
+    "meaning": "规则,定律",
+    "example": ""
+  },
+  {
+    "word": "circle",
+    "phonetic": "",
+    "meaning": "在...上面圈",
+    "example": ""
+  },
+  {
+    "word": "mine",
+    "phonetic": "",
+    "meaning": "我的",
+    "example": ""
+  },
+  {
+    "word": "diary",
+    "phonetic": "",
+    "meaning": "日记，日表",
+    "example": ""
+  },
+  {
+    "word": "bell",
+    "phonetic": "",
+    "meaning": "铃；电铃",
+    "example": ""
+  },
+  {
+    "word": "ring",
+    "phonetic": "",
+    "meaning": "(钟，铃)响",
+    "example": ""
+  },
+  {
+    "word": "into",
+    "phonetic": "",
+    "meaning": "进入",
+    "example": ""
+  },
+  {
+    "word": "ourselves",
+    "phonetic": "",
+    "meaning": "我们自己",
+    "example": ""
+  },
+  {
+    "word": "silly",
+    "phonetic": "",
+    "meaning": "可笑的，愚",
+    "example": ""
+  },
+  {
+    "word": "sir",
+    "phonetic": "",
+    "meaning": "(对男教师的称呼）",
+    "example": ""
+  },
+  {
+    "word": "just",
+    "phonetic": "",
+    "meaning": "正好，恰好",
+    "example": ""
+  },
+  {
+    "word": "smile",
+    "phonetic": "",
+    "meaning": "微笑，笑容",
+    "example": ""
+  },
+  {
+    "word": "lucky",
+    "phonetic": "",
+    "meaning": "幸运的",
+    "example": ""
+  },
+  {
+    "word": "journey",
+    "phonetic": "",
+    "meaning": "旅行，旅程",
+    "example": ""
+  },
+  {
+    "word": "of course",
+    "phonetic": "",
+    "meaning": "当然，自然",
+    "example": ""
+  },
+  {
+    "word": "together",
+    "phonetic": "",
+    "meaning": "一起，共同",
+    "example": ""
+  },
+  {
+    "word": "pool",
+    "phonetic": "",
+    "meaning": "水塘，水注",
+    "example": ""
+  },
+  {
+    "word": "sail",
+    "phonetic": "",
+    "meaning": "起航",
+    "example": ""
+  },
+  {
+    "word": "away",
+    "phonetic": "",
+    "meaning": "朝另一方向",
+    "example": ""
+  },
+  {
+    "word": "thought",
+    "phonetic": "",
+    "meaning": "意见，观点",
+    "example": ""
+  },
+  {
+    "word": "primary",
+    "phonetic": "",
+    "meaning": "初级的",
+    "example": ""
+  },
+  {
+    "word": "primary school",
+    "phonetic": "",
+    "meaning": "小学",
+    "example": ""
+  },
+  {
+    "word": "protect",
+    "phonetic": "",
+    "meaning": "保护；防护",
+    "example": ""
+  },
+  {
+    "word": "wind",
+    "phonetic": "",
+    "meaning": "风",
+    "example": ""
+  },
+  {
+    "word": "wide",
+    "phonetic": "",
+    "meaning": "宽的，宽阔的",
+    "example": ""
+  },
+  {
+    "word": "problem",
+    "phonetic": "",
+    "meaning": "问题，难题",
+    "example": ""
+  },
+  {
+    "word": "still",
+    "phonetic": "",
+    "meaning": "仍然，还",
+    "example": ""
+  },
+  {
+    "word": "pain",
+    "phonetic": "",
+    "meaning": "疼，痛，疼痛",
+    "example": ""
+  },
+  {
+    "word": "gain",
+    "phonetic": "",
+    "meaning": "(得的好处）",
+    "example": ""
+  },
+  {
+    "word": "through",
+    "phonetic": "",
+    "meaning": "穿过，通过",
+    "example": ""
+  },
+  {
+    "word": "storm",
+    "phonetic": "",
+    "meaning": "暴风雨(雪)",
+    "example": ""
+  },
+  {
+    "word": "towands",
+    "phonetic": "",
+    "meaning": "prep（向,朝)",
+    "example": ""
+  },
+  {
+    "word": "hope",
+    "phonetic": "",
+    "meaning": "希望，期望",
+    "example": ""
+  },
+  {
+    "word": "rock music",
+    "phonetic": "",
+    "meaning": "摇滚乐",
+    "example": ""
+  },
+  {
+    "word": "as",
+    "phonetic": "",
+    "meaning": "像，如同",
+    "example": ""
+  },
+  {
+    "word": "electric",
+    "phonetic": "",
+    "meaning": "用电的",
+    "example": ""
+  },
+  {
+    "word": "guitar",
+    "phonetic": "",
+    "meaning": "吉他",
+    "example": ""
+  },
+  {
+    "word": "band",
+    "phonetic": "",
+    "meaning": "乐队，乐团",
+    "example": ""
+  },
+  {
+    "word": "online",
+    "phonetic": "",
+    "meaning": "在网上",
+    "example": ""
+  },
+  {
+    "word": "fun",
+    "phonetic": "",
+    "meaning": "乐趣",
+    "example": ""
+  },
+  {
+    "word": "moment",
+    "phonetic": "",
+    "meaning": "某一时刻",
+    "example": ""
+  },
+  {
+    "word": "sound",
+    "phonetic": "",
+    "meaning": "声音",
+    "example": ""
+  },
+  {
+    "word": "different",
+    "phonetic": "",
+    "meaning": "不同的",
+    "example": ""
+  },
+  {
+    "word": "suddenly",
+    "phonetic": "",
+    "meaning": "突然",
+    "example": ""
+  },
+  {
+    "word": "hit",
+    "phonetic": "",
+    "meaning": "使(某人)突然意识",
+    "example": ""
+  },
+  {
+    "word": "check",
+    "phonetic": "",
+    "meaning": "检查，核查",
+    "example": ""
+  },
+  {
+    "word": "rush",
+    "phonetic": "",
+    "meaning": "冲，奔",
+    "example": ""
+  },
+  {
+    "word": "festival",
+    "phonetic": "",
+    "meaning": "节，节庆，",
+    "example": ""
+  },
+  {
+    "word": "practice",
+    "phonetic": "",
+    "meaning": "练习",
+    "example": ""
+  },
+  {
+    "word": "stage",
+    "phonetic": "",
+    "meaning": "舞台",
+    "example": ""
+  },
+  {
+    "word": "nod",
+    "phonetic": "",
+    "meaning": "点头",
+    "example": ""
+  },
+  {
+    "word": "instrument",
+    "phonetic": "",
+    "meaning": "乐器",
+    "example": ""
+  },
+  {
+    "word": "everybody",
+    "phonetic": "",
+    "meaning": "每个人，人",
+    "example": ""
+  },
+  {
+    "word": "understand",
+    "phonetic": "",
+    "meaning": "懂得，理解明",
+    "example": ""
+  },
+  {
+    "word": "feeling",
+    "phonetic": "",
+    "meaning": "感觉",
+    "example": ""
+  },
+  {
+    "word": "directly",
+    "phonetic": "",
+    "meaning": "直接",
+    "example": ""
+  },
+  {
+    "word": "describe",
+    "phonetic": "",
+    "meaning": "描述，描写",
+    "example": ""
+  },
+  {
+    "word": "action",
+    "phonetic": "",
+    "meaning": "行为，行动",
+    "example": ""
+  },
+  {
+    "word": "group",
+    "phonetic": "",
+    "meaning": "组，团体，群体",
+    "example": ""
+  },
+  {
+    "word": "member",
+    "phonetic": "",
+    "meaning": "成员，会员",
+    "example": ""
+  },
+  {
+    "word": "skate",
+    "phonetic": "",
+    "meaning": "滑冰，湖冰",
+    "example": ""
+  },
+  {
+    "word": "volleybal",
+    "phonetic": "",
+    "meaning": "排球(运动）",
+    "example": ""
+  },
+  {
+    "word": "photograph",
+    "phonetic": "",
+    "meaning": "摄影",
+    "example": ""
+  },
+  {
+    "word": "correct",
+    "phonetic": "",
+    "meaning": "正确，无误的",
+    "example": ""
+  },
+  {
+    "word": "form",
+    "phonetic": "",
+    "meaning": "形式",
+    "example": ""
+  },
+  {
+    "word": "tradition",
+    "phonetic": "",
+    "meaning": "传统",
+    "example": ""
+  },
+  {
+    "word": "interest",
+    "phonetic": "",
+    "meaning": "兴趣",
+    "example": ""
+  },
+  {
+    "word": "lover",
+    "phonetic": "",
+    "meaning": "爱好者",
+    "example": ""
+  },
+  {
+    "word": "prize",
+    "phonetic": "",
+    "meaning": "奖品，奖金",
+    "example": ""
+  },
+  {
+    "word": "competition",
+    "phonetic": "",
+    "meaning": "竞争",
+    "example": ""
+  },
+  {
+    "word": "programme",
+    "phonetic": "",
+    "meaning": "节日",
+    "example": ""
+  },
+  {
+    "word": "paper-cutting",
+    "phonetic": "",
+    "meaning": "剪纸",
+    "example": ""
+  },
+  {
+    "word": "only",
+    "phonetic": "",
+    "meaning": "adv,只有，仅仅",
+    "example": ""
+  },
+  {
+    "word": "few",
+    "phonetic": "",
+    "meaning": "一些，几个",
+    "example": ""
+  },
+  {
+    "word": "same seim",
+    "phonetic": "",
+    "meaning": "相同的",
+    "example": ""
+  },
+  {
+    "word": "social",
+    "phonetic": "",
+    "meaning": "adj,社会的",
+    "example": ""
+  },
+  {
+    "word": "media",
+    "phonetic": "",
+    "meaning": "新闻煤体",
+    "example": ""
+  },
+  {
+    "word": "social media",
+    "phonetic": "",
+    "meaning": "社交媒体",
+    "example": ""
+  },
+  {
+    "word": "chance",
+    "phonetic": "",
+    "meaning": "机会，可能性",
+    "example": ""
+  },
+  {
+    "word": "partner",
+    "phonetic": "",
+    "meaning": "搭档，伙伴",
+    "example": ""
+  },
+  {
+    "word": "note",
+    "phonetic": "",
+    "meaning": "笔记，记录",
+    "example": ""
+  },
+  {
+    "word": "example",
+    "phonetic": "",
+    "meaning": "例子，例证",
+    "example": ""
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "",
+    "meaning": "知识：学问",
+    "example": ""
+  },
+  {
+    "word": "wild",
+    "phonetic": "",
+    "meaning": "野生的",
+    "example": ""
+  },
+  {
+    "word": "nature",
+    "phonetic": "",
+    "meaning": "大自然，自然",
+    "example": ""
+  },
+  {
+    "word": "report",
+    "phonetic": "",
+    "meaning": "新闻报道",
+    "example": ""
+  },
+  {
+    "word": "awake",
+    "phonetic": "",
+    "meaning": "醒着的",
+    "example": ""
+  },
+  {
+    "word": "midnight",
+    "phonetic": "",
+    "meaning": "午夜",
+    "example": ""
+  },
+  {
+    "word": "appear",
+    "phonetic": "",
+    "meaning": "出现，呈现",
+    "example": ""
+  },
+  {
+    "word": "heart",
+    "phonetic": "",
+    "meaning": "心(脏)",
+    "example": ""
+  },
+  {
+    "word": "almost",
+    "phonetic": "",
+    "meaning": "几乎，差不",
+    "example": ""
+  },
+  {
+    "word": "tap",
+    "phonetic": "",
+    "meaning": "轻拍，轻敲",
+    "example": ""
+  },
+  {
+    "word": "shake",
+    "phonetic": "",
+    "meaning": "摇动",
+    "example": ""
+  },
+  {
+    "word": "bit",
+    "phonetic": "",
+    "meaning": "有点儿，稍得",
+    "example": ""
+  },
+  {
+    "word": "lonely",
+    "phonetic": "",
+    "meaning": "孤单的",
+    "example": ""
+  },
+  {
+    "word": "magic",
+    "phonetic": "",
+    "meaning": "神奇的",
+    "example": ""
+  },
+  {
+    "word": "joy",
+    "phonetic": "",
+    "meaning": "欢欣，愉快",
+    "example": ""
+  },
+  {
+    "word": "adventure",
+    "phonetic": "",
+    "meaning": "历险，奇遇",
+    "example": ""
+  },
+  {
+    "word": "notebook",
+    "phonetic": "",
+    "meaning": "笔记本",
+    "example": ""
+  },
+  {
+    "word": "shelf",
+    "phonetic": "",
+    "meaning": "书架",
+    "example": ""
+  },
+  {
+    "word": "leave",
+    "phonetic": "",
+    "meaning": "图开",
+    "example": ""
+  },
+  {
+    "word": "nervously",
+    "phonetic": "",
+    "meaning": "紧张地，不安地",
+    "example": ""
+  },
+  {
+    "word": "page",
+    "phonetic": "",
+    "meaning": "页，面",
+    "example": ""
+  },
+  {
+    "word": "writing",
+    "phonetic": "",
+    "meaning": "文字",
+    "example": ""
+  },
+  {
+    "word": "ending",
+    "phonetic": "",
+    "meaning": "结局。结尽",
+    "example": ""
+  },
+  {
+    "word": "silent",
+    "phonetic": "",
+    "meaning": "adj不作声的",
+    "example": ""
+  },
+  {
+    "word": "along",
+    "phonetic": "",
+    "meaning": "沿着，顺着",
+    "example": ""
+  },
+  {
+    "word": "mountain",
+    "phonetic": "",
+    "meaning": "山，高山",
+    "example": ""
+  },
+  {
+    "word": "road",
+    "phonetic": "",
+    "meaning": "道路，公路",
+    "example": ""
+  },
+  {
+    "word": "handsome",
+    "phonetic": "",
+    "meaning": "英俊的，帅气的",
+    "example": ""
+  },
+  {
+    "word": "strict",
+    "phonetic": "",
+    "meaning": "严格的，严厉的",
+    "example": ""
+  },
+  {
+    "word": "postman",
+    "phonetic": "",
+    "meaning": "邮递员：邮差",
+    "example": ""
+  },
+  {
+    "word": "touching",
+    "phonetic": "",
+    "meaning": "感人的",
+    "example": ""
+  },
+  {
+    "word": "son",
+    "phonetic": "",
+    "meaning": "儿子",
+    "example": ""
+  },
+  {
+    "word": "serve",
+    "phonetic": "",
+    "meaning": "为，工作",
+    "example": ""
+  },
+  {
+    "word": "area",
+    "phonetic": "",
+    "meaning": "地区区城",
+    "example": ""
+  },
+  {
+    "word": "abscnt",
+    "phonetic": "",
+    "meaning": "缺席的",
+    "example": ""
+  },
+  {
+    "word": "seldom",
+    "phonetic": "",
+    "meaning": "很少",
+    "example": ""
+  },
+  {
+    "word": "position",
+    "phonetic": "",
+    "meaning": "职位，职务",
+    "example": ""
+  },
+  {
+    "word": "cach",
+    "phonetic": "",
+    "meaning": "每个，各",
+    "example": ""
+  },
+  {
+    "word": "carry",
+    "phonetic": "",
+    "meaning": "带",
+    "example": ""
+  },
+  {
+    "word": "across",
+    "phonetic": "",
+    "meaning": "模跨,跨越",
+    "example": ""
+  },
+  {
+    "word": "memory",
+    "phonetic": "",
+    "meaning": "记忆，回忆",
+    "example": ""
+  },
+  {
+    "word": "tear",
+    "phonetic": "",
+    "meaning": "眼泪：泪水",
+    "example": ""
+  },
+  {
+    "word": "growth",
+    "phonetic": "",
+    "meaning": "成长，生长",
+    "example": ""
+  },
+  {
+    "word": "hide",
+    "phonetic": "",
+    "meaning": "把...藏起，隐藏",
+    "example": ""
+  },
+  {
+    "word": "care",
+    "phonetic": "",
+    "meaning": "担心：优虎",
+    "example": ""
+  },
+  {
+    "word": "hug",
+    "phonetic": "",
+    "meaning": "拥抱",
+    "example": ""
+  },
+  {
+    "word": "kiss",
+    "phonetic": "",
+    "meaning": "吻",
+    "example": ""
+  },
+  {
+    "word": "review",
+    "phonetic": "",
+    "meaning": "复习，重读",
+    "example": ""
+  },
+  {
+    "word": "character",
+    "phonetic": "",
+    "meaning": "人物，角色",
+    "example": ""
+  },
+  {
+    "word": "quote",
+    "phonetic": "",
+    "meaning": "引语，引文",
+    "example": ""
+  },
+  {
+    "word": "reason",
+    "phonetic": "",
+    "meaning": "原因，理由",
+    "example": ""
+  },
+  {
+    "word": "comment",
+    "phonetic": "",
+    "meaning": "意见，评论",
+    "example": ""
+  },
+  {
+    "word": "loud",
+    "phonetic": "",
+    "meaning": "大声的，喧闹的",
+    "example": ""
+  },
+  {
+    "word": "than",
+    "phonetic": "",
+    "meaning": "比",
+    "example": ""
+  },
+  {
+    "word": "theme",
+    "phonetic": "",
+    "meaning": "主题",
+    "example": ""
+  },
+  {
+    "word": "marry",
+    "phonetic": "",
+    "meaning": "嫁，娶",
+    "example": ""
+  },
+  {
+    "word": "screen",
+    "phonetic": "",
+    "meaning": "屏幕，荧光屏",
+    "example": ""
+  },
+  {
+    "word": "abroad",
+    "phonetic": "",
+    "meaning": "在国外",
+    "example": ""
+  },
+  {
+    "word": "build",
+    "phonetic": "",
+    "meaning": "建筑，建造",
+    "example": ""
+  },
+  {
+    "word": "high-speed",
+    "phonetic": "",
+    "meaning": "高速的，快进",
+    "example": ""
+  },
+  {
+    "word": "railway",
+    "phonetic": "",
+    "meaning": "铁路，铁道",
+    "example": ""
+  },
+  {
+    "word": "alive",
+    "phonetic": "",
+    "meaning": "仍然存在的",
+    "example": ""
+  },
+  {
+    "word": "meeting",
+    "phonetic": "",
+    "meaning": "会议",
+    "example": ""
+  },
+  {
+    "word": "cheese",
+    "phonetic": "",
+    "meaning": "奶酪，干酪",
+    "example": ""
+  },
+  {
+    "word": "harmony",
+    "phonetic": "",
+    "meaning": "和谐，融洽",
+    "example": ""
+  },
+  {
+    "word": "solve",
+    "phonetic": "",
+    "meaning": "解决(问题)",
+    "example": ""
+  },
+  {
+    "word": "relationship",
+    "phonetic": "",
+    "meaning": "联系，关联",
+    "example": ""
+  },
+  {
+    "word": "parent",
+    "phonetic": "",
+    "meaning": "父，母",
+    "example": ""
+  },
+  {
+    "word": "race",
+    "phonetic": "",
+    "meaning": "比赛；n.赛车",
+    "example": ""
+  },
+  {
+    "word": "finish",
+    "phonetic": "",
+    "meaning": "完成，做完",
+    "example": ""
+  },
+  {
+    "word": "serious",
+    "phonetic": "",
+    "meaning": "严厉的",
+    "example": ""
+  },
+  {
+    "word": "disease",
+    "phonetic": "",
+    "meaning": "疾病，病",
+    "example": ""
+  },
+  {
+    "word": "trailer",
+    "phonetic": "",
+    "meaning": "拖车，排车",
+    "example": ""
+  },
+  {
+    "word": "pull",
+    "phonetic": "",
+    "meaning": "拉：扯；拖",
+    "example": ""
+  },
+  {
+    "word": "refuse",
+    "phonetic": "",
+    "meaning": "拒绝，回绝",
+    "example": ""
+  },
+  {
+    "word": "result",
+    "phonetic": "",
+    "meaning": "结果，后果",
+    "example": ""
+  },
+  {
+    "word": "matter",
+    "phonetic": "",
+    "meaning": "要紧，有关系",
+    "example": ""
+  },
+  {
+    "word": "power",
+    "phonetic": "",
+    "meaning": "力量；权力；能力",
+    "example": ""
+  },
+  {
+    "word": "unusual",
+    "phonetic": "",
+    "meaning": "不寻常的，与众不同的",
+    "example": ""
+  },
+  {
+    "word": "trea",
+    "phonetic": "",
+    "meaning": "请客，款待",
+    "example": ""
+  },
+  {
+    "word": "British",
+    "phonetic": "",
+    "meaning": "英国的；英国人的",
+    "example": ""
+  },
+  {
+    "word": "however",
+    "phonetic": "",
+    "meaning": "然而，可是",
+    "example": ""
+  },
+  {
+    "word": "could",
+    "phonetic": "",
+    "meaning": "（can的过去式）能，会",
+    "example": ""
+  },
+  {
+    "word": "anything",
+    "phonetic": "",
+    "meaning": "任何东西，任何事物",
+    "example": ""
+  },
+  {
+    "word": "myself",
+    "phonetic": "",
+    "meaning": "我白已",
+    "example": ""
+  },
+  {
+    "word": "dumpling",
+    "phonetic": "",
+    "meaning": "水饺",
+    "example": ""
+  },
+  {
+    "word": "whole",
+    "phonetic": "",
+    "meaning": "全部的",
+    "example": ""
+  },
+  {
+    "word": "become",
+    "phonetic": "",
+    "meaning": "成为，变成",
+    "example": ""
+  },
+  {
+    "word": "chef",
+    "phonetic": "",
+    "meaning": "厨师",
+    "example": ""
+  },
+  {
+    "word": "even",
+    "phonetic": "",
+    "meaning": "adv,甚至，固使",
+    "example": ""
+  },
+  {
+    "word": "cucumber",
+    "phonetic": "",
+    "meaning": "黄瓜",
+    "example": ""
+  },
+  {
+    "word": "hang",
+    "phonetic": "",
+    "meaning": "悬挂",
+    "example": ""
+  },
+  {
+    "word": "lanter",
+    "phonetic": "",
+    "meaning": "提灯；灯笼",
+    "example": ""
+  },
+  {
+    "word": "dish",
+    "phonetic": "",
+    "meaning": "菜合， 一道菜",
+    "example": ""
+  },
+  {
+    "word": "joke",
+    "phonetic": "",
+    "meaning": "说笑话；开玩笑",
+    "example": ""
+  },
+  {
+    "word": "against",
+    "phonetic": "",
+    "meaning": "违背",
+    "example": ""
+  },
+  {
+    "word": "shocked",
+    "phonetic": "",
+    "meaning": "震惊的",
+    "example": ""
+  },
+  {
+    "word": "laugh",
+    "phonetic": "",
+    "meaning": "大笑",
+    "example": ""
+  },
+  {
+    "word": "pork",
+    "phonetic": "",
+    "meaning": "猪肉",
+    "example": ""
+  },
+  {
+    "word": "round",
+    "phonetic": "",
+    "meaning": "周形的",
+    "example": ""
+  },
+  {
+    "word": "shape",
+    "phonetic": "",
+    "meaning": "形，形状，外",
+    "example": ""
+  },
+  {
+    "word": "reunion",
+    "phonetic": "",
+    "meaning": "团，团聚",
+    "example": ""
+  },
+  {
+    "word": "piece",
+    "phonetic": "",
+    "meaning": "片：块：",
+    "example": ""
+  },
+  {
+    "word": "knife",
+    "phonetic": "",
+    "meaning": "刀",
+    "example": ""
+  },
+  {
+    "word": "smell",
+    "phonetic": "",
+    "meaning": "气味",
+    "example": ""
+  },
+  {
+    "word": "laughter",
+    "phonetic": "",
+    "meaning": "笑：笑声",
+    "example": ""
+  },
+  {
+    "word": "fill",
+    "phonetic": "",
+    "meaning": "(使)充满；装",
+    "example": ""
+  },
+  {
+    "word": "meal",
+    "phonetic": "",
+    "meaning": "一餐；饭",
+    "example": ""
+  },
+  {
+    "word": "hate",
+    "phonetic": "",
+    "meaning": "讨厌，不喜欢",
+    "example": ""
+  },
+  {
+    "word": "spend",
+    "phonetic": "",
+    "meaning": "度过，消磨",
+    "example": ""
+  },
+  {
+    "word": "alone",
+    "phonetic": "",
+    "meaning": "adv,独自；单独",
+    "example": ""
+  },
+  {
+    "word": "miss",
+    "phonetic": "",
+    "meaning": "思念，错过",
+    "example": ""
+  },
+  {
+    "word": "special",
+    "phonetic": "",
+    "meaning": "特殊的",
+    "example": ""
+  },
+  {
+    "word": "solution",
+    "phonetic": "",
+    "meaning": "解决方法",
+    "example": ""
+  },
+  {
+    "word": "taste",
+    "phonetic": "",
+    "meaning": "味道，滋味",
+    "example": ""
+  },
+  {
+    "word": "common",
+    "phonetic": "",
+    "meaning": "常见的，普遍的",
+    "example": ""
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "",
+    "meaning": "庆祝",
+    "example": ""
+  },
+  {
+    "word": "stay",
+    "phonetic": "",
+    "meaning": "保持原状，维持",
+    "example": ""
+  },
+  {
+    "word": "post",
+    "phonetic": "",
+    "meaning": "帖子",
+    "example": ""
+  },
+  {
+    "word": "dragon",
+    "phonetic": "",
+    "meaning": "龙",
+    "example": ""
+  },
+  {
+    "word": "culture",
+    "phonetic": "",
+    "meaning": "文化",
+    "example": ""
+  },
+  {
+    "word": "double",
+    "phonetic": "",
+    "meaning": "成双的",
+    "example": ""
+  },
+  {
+    "word": "part",
+    "phonetic": "",
+    "meaning": "部分",
+    "example": ""
+  },
+  {
+    "word": "riverside",
+    "phonetic": "",
+    "meaning": "河边",
+    "example": ""
+  },
+  {
+    "word": "crowded",
+    "phonetic": "",
+    "meaning": "拥挤的",
+    "example": ""
+  },
+  {
+    "word": "north",
+    "phonetic": "",
+    "meaning": "北，北方",
+    "example": ""
+  },
+  {
+    "word": "sweet",
+    "phonetic": "",
+    "meaning": "甜的，味甜的",
+    "example": ""
+  },
+  {
+    "word": "south",
+    "phonetic": "",
+    "meaning": "南。南方",
+    "example": ""
+  },
+  {
+    "word": "salty",
+    "phonetic": "",
+    "meaning": "咸的，含盐的",
+    "example": ""
+  },
+  {
+    "word": "prefer",
+    "phonetic": "",
+    "meaning": "更喜欢",
+    "example": ""
+  },
+  {
+    "word": "usually",
+    "phonetic": "",
+    "meaning": "通常地",
+    "example": ""
+  },
+  {
+    "word": "Christmas",
+    "phonetic": "",
+    "meaning": "圣诞节",
+    "example": ""
+  },
+  {
+    "word": "waste",
+    "phonetic": "",
+    "meaning": "浪费",
+    "example": ""
+  },
+  {
+    "word": "present",
+    "phonetic": "",
+    "meaning": "礼物，赠品",
+    "example": ""
+  },
+  {
+    "word": "pollution",
+    "phonetic": "",
+    "meaning": "污染",
+    "example": ""
+  },
+  {
+    "word": "plastic",
+    "phonetic": "",
+    "meaning": "塑料制的",
+    "example": ""
+  },
+  {
+    "word": "cause",
+    "phonetic": "",
+    "meaning": "导攻，引起",
+    "example": ""
+  },
+  {
+    "word": "duty",
+    "phonetic": "",
+    "meaning": "义务，责任",
+    "example": ""
+  },
+  {
+    "word": "shine",
+    "phonetic": "",
+    "meaning": "发光，发亮",
+    "example": ""
+  },
+  {
+    "word": "mean",
+    "phonetic": "",
+    "meaning": "意思是",
+    "example": ""
+  },
+  {
+    "word": "break",
+    "phonetic": "",
+    "meaning": "体息",
+    "example": ""
+  },
+  {
+    "word": "emergency",
+    "phonetic": "",
+    "meaning": "紧急情况",
+    "example": ""
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "",
+    "meaning": "渴的",
+    "example": ""
+  },
+  {
+    "word": "challenge",
+    "phonetic": "",
+    "meaning": "挑战",
+    "example": ""
+  },
+  {
+    "word": "patient",
+    "phonetic": "",
+    "meaning": "病人，患者",
+    "example": ""
+  },
+  {
+    "word": "situation",
+    "phonetic": "",
+    "meaning": "形势，状况",
+    "example": ""
+  },
+  {
+    "word": "regret",
+    "phonetic": "",
+    "meaning": "后悔",
+    "example": ""
+  },
+  {
+    "word": "decision",
+    "phonetic": "",
+    "meaning": "决定，决择",
+    "example": ""
+  },
+  {
+    "word": "most",
+    "phonetic": "",
+    "meaning": "大多数",
+    "example": ""
+  },
+  {
+    "word": "support",
+    "phonetic": "",
+    "meaning": "支持",
+    "example": ""
+  },
+  {
+    "word": "medical",
+    "phonetic": "",
+    "meaning": "医学的",
+    "example": ""
+  },
+  {
+    "word": "bright",
+    "phonetic": "",
+    "meaning": "明齐地",
+    "example": ""
+  },
+  {
+    "word": "festive",
+    "phonetic": "",
+    "meaning": "欢乐的，欢庆",
+    "example": ""
+  },
+  {
+    "word": "firework",
+    "phonetic": "",
+    "meaning": "烟火，烟花",
+    "example": ""
+  },
+  {
+    "word": "view",
+    "phonetic": "",
+    "meaning": "观点，意见",
+    "example": ""
+  },
+  {
+    "word": "pigeon",
+    "phonetic": "",
+    "meaning": "鸽子",
+    "example": ""
+  },
+  {
+    "word": "surprise",
+    "phonetic": "",
+    "meaning": "意想不到的事",
+    "example": ""
+  },
+  {
+    "word": "knock",
+    "phonetic": "",
+    "meaning": "敲门(窗)",
+    "example": ""
+  },
+  {
+    "word": "knock around",
+    "phonetic": "",
+    "meaning": "悠闲地度过",
+    "example": ""
+  },
+  {
+    "word": "droppings",
+    "phonetic": "",
+    "meaning": "兽或鸟的）粪",
+    "example": ""
+  },
+  {
+    "word": "boring",
+    "phonetic": "",
+    "meaning": "无聊的",
+    "example": ""
+  },
+  {
+    "word": "feed",
+    "phonetic": "",
+    "meaning": "喂养，饲养",
+    "example": ""
+  },
+  {
+    "word": "madly",
+    "phonetic": "",
+    "meaning": "发狂地",
+    "example": ""
+  },
+  {
+    "word": "scary",
+    "phonetic": "",
+    "meaning": "可怕的",
+    "example": ""
+  },
+  {
+    "word": "research",
+    "phonetic": "",
+    "meaning": "研究，探索",
+    "example": ""
+  },
+  {
+    "word": "recognise",
+    "phonetic": "",
+    "meaning": "认出；辨认出",
+    "example": ""
+  },
+  {
+    "word": "themselves",
+    "phonetic": "",
+    "meaning": "他们自己",
+    "example": ""
+  },
+  {
+    "word": "mirror",
+    "phonetic": "",
+    "meaning": "镜子",
+    "example": ""
+  },
+  {
+    "word": "surprsing",
+    "phonetic": "",
+    "meaning": "令人惊奇的",
+    "example": ""
+  },
+  {
+    "word": "would",
+    "phonetic": "",
+    "meaning": "将，将会",
+    "example": ""
+  },
+  {
+    "word": "itself",
+    "phonetic": "",
+    "meaning": "自己，自身",
+    "example": ""
+  },
+  {
+    "word": "maybe",
+    "phonetic": "",
+    "meaning": "也许，大概",
+    "example": ""
+  },
+  {
+    "word": "several",
+    "phonetic": "",
+    "meaning": "几个",
+    "example": ""
+  },
+  {
+    "word": "kilometre",
+    "phonetic": "",
+    "meaning": "千米，公里",
+    "example": ""
+  },
+  {
+    "word": "lost",
+    "phonetic": "",
+    "meaning": "迷路的",
+    "example": ""
+  },
+  {
+    "word": "get lost",
+    "phonetic": "",
+    "meaning": "迷路",
+    "example": ""
+  },
+  {
+    "word": "speed",
+    "phonetic": "",
+    "meaning": "速度，速率",
+    "example": ""
+  },
+  {
+    "word": "amazing",
+    "phonetic": "",
+    "meaning": "惊人的",
+    "example": ""
+  },
+  {
+    "word": "enough",
+    "phonetic": "",
+    "meaning": "足够的",
+    "example": ""
+  },
+  {
+    "word": "another",
+    "phonetic": "",
+    "meaning": "另一个",
+    "example": ""
+  },
+  {
+    "word": "tone",
+    "phonetic": "",
+    "meaning": "语气，口气",
+    "example": ""
+  },
+  {
+    "word": "change",
+    "phonetic": "",
+    "meaning": "变化，改变",
+    "example": ""
+  },
+  {
+    "word": "dolphin",
+    "phonetic": "",
+    "meaning": "海豚",
+    "example": ""
+  },
+  {
+    "word": "believe",
+    "phonetic": "",
+    "meaning": "相信",
+    "example": ""
+  },
+  {
+    "word": "camera",
+    "phonetic": "",
+    "meaning": "照相机；摄像机",
+    "example": ""
+  },
+  {
+    "word": "real",
+    "phonetic": "",
+    "meaning": "真的，真正的",
+    "example": ""
+  },
+  {
+    "word": "beaver",
+    "phonetic": "",
+    "meaning": "河狸，海狸",
+    "example": ""
+  },
+  {
+    "word": "tooth",
+    "phonetic": "",
+    "meaning": "牙，牙肉",
+    "example": ""
+  },
+  {
+    "word": "stick",
+    "phonetic": "",
+    "meaning": "柴枝，枝条",
+    "example": ""
+  },
+  {
+    "word": "create",
+    "phonetic": "",
+    "meaning": "造；创建",
+    "example": ""
+  },
+  {
+    "word": "pond",
+    "phonetic": "",
+    "meaning": "池塘",
+    "example": ""
+  },
+  {
+    "word": "wolf",
+    "phonetic": "",
+    "meaning": "狼",
+    "example": ""
+  },
+  {
+    "word": "fox",
+    "phonetic": "",
+    "meaning": "狐狸",
+    "example": ""
+  },
+  {
+    "word": "such",
+    "phonetic": "",
+    "meaning": "这样，如此",
+    "example": ""
+  },
+  {
+    "word": "wonder",
+    "phonetic": "",
+    "meaning": "奇事",
+    "example": ""
+  },
+  {
+    "word": "no wonder",
+    "phonetic": "",
+    "meaning": "难怪",
+    "example": ""
+  },
+  {
+    "word": "engineer",
+    "phonetic": "",
+    "meaning": "工程师，设计师",
+    "example": ""
+  },
+  {
+    "word": "video",
+    "phonetic": "",
+    "meaning": "视频",
+    "example": ""
+  },
+  {
+    "word": "opinion",
+    "phonetic": "",
+    "meaning": "意见，看法",
+    "example": ""
+  },
+  {
+    "word": "human",
+    "phonetic": "",
+    "meaning": "人",
+    "example": ""
+  },
+  {
+    "word": "guide",
+    "phonetic": "",
+    "meaning": "指南，指导手册",
+    "example": ""
+  },
+  {
+    "word": "hero",
+    "phonetic": "",
+    "meaning": "英雄；偶像",
+    "example": ""
+  },
+  {
+    "word": "rescue",
+    "phonetic": "",
+    "meaning": "营救，救援",
+    "example": ""
+  },
+  {
+    "word": "missing",
+    "phonetic": "",
+    "meaning": "找不到的",
+    "example": ""
+  },
+  {
+    "word": "dead",
+    "phonetic": "",
+    "meaning": "死的，去世的",
+    "example": ""
+  },
+  {
+    "word": "dodo",
+    "phonetic": "",
+    "meaning": "渡渡鸟",
+    "example": ""
+  },
+  {
+    "word": "as dead as a dodo",
+    "phonetic": "",
+    "meaning": "彻底死亡",
+    "example": ""
+  },
+  {
+    "word": "actually",
+    "phonetic": "",
+    "meaning": "实际上",
+    "example": ""
+  },
+  {
+    "word": "museum",
+    "phonetic": "",
+    "meaning": "博物馆",
+    "example": ""
+  },
+  {
+    "word": "island",
+    "phonetic": "",
+    "meaning": "岛，岛屿",
+    "example": ""
+  },
+  {
+    "word": "ocean",
+    "phonetic": "",
+    "meaning": "海洋，大海",
+    "example": ""
+  },
+  {
+    "word": "plenty",
+    "phonetic": "",
+    "meaning": "大量",
+    "example": ""
+  },
+  {
+    "word": "friendly",
+    "phonetic": "",
+    "meaning": "友好的，友善的",
+    "example": ""
+  },
+  {
+    "word": "peaceful",
+    "phonetic": "",
+    "meaning": "和平的",
+    "example": ""
+  },
+  {
+    "word": "arrive",
+    "phonetic": "",
+    "meaning": "到达，抵达",
+    "example": ""
+  },
+  {
+    "word": "forest",
+    "phonetic": "",
+    "meaning": "森林，林区",
+    "example": ""
+  },
+  {
+    "word": "hunt",
+    "phonetic": "",
+    "meaning": "打猎；猎杀",
+    "example": ""
+  },
+  {
+    "word": "soon",
+    "phonetic": "",
+    "meaning": "不久，即刻",
+    "example": ""
+  },
+  {
+    "word": "die",
+    "phonetic": "",
+    "meaning": "死去，死亡",
+    "example": ""
+  },
+  {
+    "word": "die out",
+    "phonetic": "",
+    "meaning": "消失；绝迹，灭绝",
+    "example": ""
+  },
+  {
+    "word": "full",
+    "phonetic": "",
+    "meaning": "满的",
+    "example": ""
+  },
+  {
+    "word": "fantastic",
+    "phonetic": "",
+    "meaning": "极好的",
+    "example": ""
+  },
+  {
+    "word": "clam",
+    "phonetic": "",
+    "meaning": "蛤蜊",
+    "example": ""
+  },
+  {
+    "word": "as happy as a clam",
+    "phonetic": "",
+    "meaning": "相当满足的",
+    "example": ""
+  },
+  {
+    "word": "within",
+    "phonetic": "",
+    "meaning": "在，之内",
+    "example": ""
+  },
+  {
+    "word": "quarter",
+    "phonetic": "",
+    "meaning": "一刻钟",
+    "example": ""
+  },
+  {
+    "word": "past",
+    "phonetic": "",
+    "meaning": "晚于",
+    "example": ""
+  },
+  {
+    "word": "No",
+    "phonetic": "",
+    "meaning": "的缩写",
+    "example": ""
+  },
+  {
+    "word": "workshop",
+    "phonetic": "",
+    "meaning": "车间，工场",
+    "example": ""
+  },
+  {
+    "word": "collect",
+    "phonetic": "",
+    "meaning": "收集，采集",
+    "example": ""
+  },
+  {
+    "word": "sunlight",
+    "phonetic": "",
+    "meaning": "阳光",
+    "example": ""
+  },
+  {
+    "word": "root",
+    "phonetic": "",
+    "meaning": "根",
+    "example": ""
+  },
+  {
+    "word": "send",
+    "phonetic": "",
+    "meaning": "送出，发出",
+    "example": ""
+  },
+  {
+    "word": "rise",
+    "phonetic": "",
+    "meaning": "升高，上升",
+    "example": ""
+  },
+  {
+    "word": "stem",
+    "phonetic": "",
+    "meaning": "(植物的)茎",
+    "example": ""
+  },
+  {
+    "word": "mix",
+    "phonetic": "",
+    "meaning": "(使)混合，拌和",
+    "example": ""
+  },
+  {
+    "word": "produce",
+    "phonetic": "",
+    "meaning": "生产；产生",
+    "example": ""
+  },
+  {
+    "word": "importantly",
+    "phonetic": "",
+    "meaning": "重要的是",
+    "example": ""
+  },
+  {
+    "word": "sugar",
+    "phonetic": "",
+    "meaning": "糖",
+    "example": ""
+  },
+  {
+    "word": "product",
+    "phonetic": "",
+    "meaning": "产品",
+    "example": ""
+  },
+  {
+    "word": "oxygen",
+    "phonetic": "",
+    "meaning": "氧",
+    "example": ""
+  },
+  {
+    "word": "though",
+    "phonetic": "",
+    "meaning": "虽然，尽管",
+    "example": ""
+  },
+  {
+    "word": "breathe",
+    "phonetic": "",
+    "meaning": "呼吸",
+    "example": ""
+  },
+  {
+    "word": "dark",
+    "phonetic": "",
+    "meaning": "昏暗的;黑暗的",
+    "example": ""
+  },
+  {
+    "word": "rest",
+    "phonetic": "",
+    "meaning": "休息(时间）",
+    "example": ""
+  },
+  {
+    "word": "natural",
+    "phonetic": "",
+    "meaning": "自然的，天然的",
+    "example": ""
+  },
+  {
+    "word": "pun",
+    "phonetic": "",
+    "meaning": "双关语",
+    "example": ""
+  },
+  {
+    "word": "text",
+    "phonetic": "",
+    "meaning": "文本",
+    "example": ""
+  },
+  {
+    "word": "enter",
+    "phonetic": "",
+    "meaning": "进入",
+    "example": ""
+  },
+  {
+    "word": "simple",
+    "phonetic": "",
+    "meaning": "简单的，简易的",
+    "example": ""
+  },
+  {
+    "word": "sunflower",
+    "phonetic": "",
+    "meaning": "向日葵",
+    "example": ""
+  },
+  {
+    "word": "seed",
+    "phonetic": "",
+    "meaning": "种子，籽",
+    "example": ""
+  },
+  {
+    "word": "rainforest",
+    "phonetic": "",
+    "meaning": "(热带)雨林",
+    "example": ""
+  },
+  {
+    "word": "raincoat",
+    "phonetic": "",
+    "meaning": "雨衣",
+    "example": ""
+  },
+  {
+    "word": "own",
+    "phonetic": "",
+    "meaning": "自己的",
+    "example": ""
+  },
+  {
+    "word": "cloud",
+    "phonetic": "",
+    "meaning": "云",
+    "example": ""
+  },
+  {
+    "word": "somewherde",
+    "phonetic": "",
+    "meaning": "在某处",
+    "example": ""
+  },
+  {
+    "word": "influence",
+    "phonetic": "",
+    "meaning": "影响",
+    "example": ""
+  },
+  {
+    "word": "climate",
+    "phonetic": "",
+    "meaning": "气候",
+    "example": ""
+  },
+  {
+    "word": "corn",
+    "phonetic": "",
+    "meaning": "玉米",
+    "example": ""
+  },
+  {
+    "word": "silk",
+    "phonetic": "",
+    "meaning": "丝绸",
+    "example": ""
+  },
+  {
+    "word": "rose",
+    "phonetic": "",
+    "meaning": "攻瑰；蔷薇",
+    "example": ""
+  },
+  {
+    "word": "cotton",
+    "phonetic": "",
+    "meaning": "棉花",
+    "example": ""
+  },
+  {
+    "word": "bamboo",
+    "phonetic": "",
+    "meaning": "竹，竹子",
+    "example": ""
+  },
+  {
+    "word": "popular",
+    "phonetic": "",
+    "meaning": "受欢迎的",
+    "example": ""
+  },
+  {
+    "word": "health",
+    "phonetic": "",
+    "meaning": "健康(状况）",
+    "example": ""
+  },
+  {
+    "word": "key",
+    "phonetic": "",
+    "meaning": "关键的",
+    "example": ""
+  },
+  {
+    "word": "teahouse",
+    "phonetic": "",
+    "meaning": "茶馆",
+    "example": ""
+  },
+  {
+    "word": "news",
+    "phonetic": "",
+    "meaning": "消息",
+    "example": ""
+  },
+  {
+    "word": "coffee",
+    "phonetic": "",
+    "meaning": "咖啡",
+    "example": ""
+  },
+  {
+    "word": "secret",
+    "phonetic": "",
+    "meaning": "秘案",
+    "example": ""
+  },
+  {
+    "word": "husband",
+    "phonetic": "",
+    "meaning": "丈夫",
+    "example": ""
+  },
+  {
+    "word": "adult",
+    "phonetic": "",
+    "meaning": "成人，成年人",
+    "example": ""
+  },
+  {
+    "word": "weekend",
+    "phonetic": "",
+    "meaning": "周末",
+    "example": ""
+  },
+  {
+    "word": "chat",
+    "phonetic": "",
+    "meaning": "闲聊，聊天",
+    "example": ""
+  },
+  {
+    "word": "relax",
+    "phonetic": "",
+    "meaning": "放松，休息",
+    "example": ""
+  },
+  {
+    "word": "yard",
+    "phonetic": "",
+    "meaning": "庭院",
+    "example": ""
+  },
+  {
+    "word": "biscuit",
+    "phonetic": "",
+    "meaning": "饼干",
+    "example": ""
+  },
+  {
+    "word": "connect",
+    "phonetic": "",
+    "meaning": "联结，连接",
+    "example": ""
+  },
+  {
+    "word": "review",
+    "phonetic": "",
+    "meaning": "书评",
+    "example": ""
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "",
+    "meaning": "巧克力，朱古力",
+    "example": ""
+  },
+  {
+    "word": "factory",
+    "phonetic": "",
+    "meaning": "工厂，制造厂",
+    "example": ""
+  },
+  {
+    "word": "exciting",
+    "phonetic": "",
+    "meaning": "令人兴奋的；使人激动的；刺激的",
+    "example": ""
+  },
+  {
+    "word": "most",
+    "phonetic": "",
+    "meaning": "最",
+    "example": ""
+  },
+  {
+    "word": "magical",
+    "phonetic": "",
+    "meaning": "奇异的，美妙的，迷人的",
+    "example": ""
+  },
+  {
+    "word": "side",
+    "phonetic": "",
+    "meaning": "边，面，侧",
+    "example": ""
+  },
+  {
+    "word": "town",
+    "phonetic": "",
+    "meaning": "镇，城镇，市镇",
+    "example": ""
+  },
+  {
+    "word": "poor",
+    "phonetic": "",
+    "meaning": "贫穷的，贫困的",
+    "example": ""
+  },
+  {
+    "word": "stay",
+    "phonetic": "",
+    "meaning": "停留",
+    "example": ""
+  },
+  {
+    "word": "only",
+    "phonetic": "",
+    "meaning": "唯一的，仅有的",
+    "example": ""
+  },
+  {
+    "word": "watery",
+    "phonetic": "",
+    "meaning": "(食物) 稀薄的，含水太多的；(饮 料) 味淡的",
+    "example": ""
+  },
+  {
+    "word": "cabbage",
+    "phonetic": "",
+    "meaning": "卷心菜，洋白菜，甘蓝",
+    "example": ""
+  },
+  {
+    "word": "freezing",
+    "phonetic": "",
+    "meaning": "极冷的，严寒的",
+    "example": ""
+  },
+  {
+    "word": "touch",
+    "phonetic": "",
+    "meaning": "感动，触动，打动",
+    "example": ""
+  },
+  {
+    "word": "once",
+    "phonetic": "",
+    "meaning": "曾经，过去",
+    "example": ""
+  },
+  {
+    "word": "sunless",
+    "phonetic": "",
+    "meaning": "无阳 (日) 光的",
+    "example": ""
+  },
+  {
+    "word": "choose",
+    "phonetic": "",
+    "meaning": "选择",
+    "example": ""
+  },
+  {
+    "word": "everything",
+    "phonetic": "",
+    "meaning": "每件事物；所有事物",
+    "example": ""
+  },
+  {
+    "word": "rich",
+    "phonetic": "",
+    "meaning": "有钱的，富有的",
+    "example": ""
+  },
+  {
+    "word": "complete",
+    "phonetic": "",
+    "meaning": "完成",
+    "example": ""
+  },
+  {
+    "word": "expression",
+    "phonetic": "",
+    "meaning": "词组",
+    "example": ""
+  },
+  {
+    "word": "passage",
+    "phonetic": "",
+    "meaning": "一段，一节",
+    "example": ""
+  },
+  {
+    "word": "description",
+    "phonetic": "",
+    "meaning": "描述，描写，叙述，形容",
+    "example": ""
+  },
+  {
+    "word": "agree",
+    "phonetic": "",
+    "meaning": "同意，赞同",
+    "example": ""
+  },
+  {
+    "word": "paragraph",
+    "phonetic": "",
+    "meaning": "(文章的) 段，段落，节",
+    "example": ""
+  },
+  {
+    "word": "understand",
+    "phonetic": "",
+    "meaning": "理解",
+    "example": ""
+  },
+  {
+    "word": "other",
+    "phonetic": "",
+    "meaning": "另外的人，其他的人",
+    "example": ""
+  },
+  {
+    "word": "relate",
+    "phonetic": "",
+    "meaning": "相联系，有关联",
+    "example": ""
+  },
+  {
+    "word": "experience",
+    "phonetic": "",
+    "meaning": "经验",
+    "example": ""
+  },
+  {
+    "word": "opinion",
+    "phonetic": "",
+    "meaning": "看法，观点",
+    "example": ""
+  },
+  {
+    "word": "topic",
+    "phonetic": "",
+    "meaning": "话题，论题",
+    "example": ""
+  },
+  {
+    "word": "rule",
+    "phonetic": "",
+    "meaning": "规则",
+    "example": ""
+  },
+  {
+    "word": "more",
+    "phonetic": "",
+    "meaning": "另外的，更多的",
+    "example": ""
+  },
+  {
+    "word": "correct",
+    "phonetic": "",
+    "meaning": "正确的",
+    "example": ""
+  },
+  {
+    "word": "chess",
+    "phonetic": "",
+    "meaning": "国际象棋",
+    "example": ""
+  },
+  {
+    "word": "trip",
+    "phonetic": "",
+    "meaning": "旅游；旅行，出行",
+    "example": ""
+  },
+  {
+    "word": "bath",
+    "phonetic": "",
+    "meaning": "给 … … 洗澡",
+    "example": ""
+  },
+  {
+    "word": "decide",
+    "phonetic": "",
+    "meaning": "决定，决断，判断",
+    "example": ""
+  },
+  {
+    "word": "princess",
+    "phonetic": "",
+    "meaning": "公主",
+    "example": ""
+  },
+  {
+    "word": "example",
+    "phonetic": "",
+    "meaning": "例子",
+    "example": ""
+  },
+  {
+    "word": "believe",
+    "phonetic": "",
+    "meaning": "认为",
+    "example": ""
+  },
+  {
+    "word": "survey",
+    "phonetic": "",
+    "meaning": "调查",
+    "example": ""
+  },
+  {
+    "word": "empty",
+    "phonetic": "",
+    "meaning": "空的",
+    "example": ""
+  },
+  {
+    "word": "happen",
+    "phonetic": "",
+    "meaning": "发生",
+    "example": ""
+  },
+  {
+    "word": "presentation",
+    "phonetic": "",
+    "meaning": "报告",
+    "example": ""
+  },
+  {
+    "word": "positive",
+    "phonetic": "",
+    "meaning": "有信心的；积极乐观的",
+    "example": ""
+  },
+  {
+    "word": "blow",
+    "phonetic": "",
+    "meaning": "吹动；刮动",
+    "example": ""
+  },
+  {
+    "word": "wave",
+    "phonetic": "",
+    "meaning": "挥动，摆动（某物）；（某物）上下起伏，",
+    "example": ""
+  },
+  {
+    "word": "voice",
+    "phonetic": "",
+    "meaning": "说话声，嗓音；发声能力",
+    "example": ""
+  },
+  {
+    "word": "just",
+    "phonetic": "",
+    "meaning": "只不过，只是",
+    "example": ""
+  },
+  {
+    "word": "himself",
+    "phonetic": "",
+    "meaning": "他自己",
+    "example": ""
+  },
+  {
+    "word": "shame",
+    "phonetic": "",
+    "meaning": "羞愧，羞耻，惭愧",
+    "example": ""
+  },
+  {
+    "word": "finally",
+    "phonetic": "",
+    "meaning": "最后，终于",
+    "example": ""
+  },
+  {
+    "word": "into",
+    "phonetic": "",
+    "meaning": "进入，到……里面",
+    "example": ""
+  },
+  {
+    "word": "barber",
+    "phonetic": "",
+    "meaning": "(为男性剪发或刮脸的) 男理发师",
+    "example": ""
+  },
+  {
+    "word": "fall",
+    "phonetic": "",
+    "meaning": "落下，降落，跌落",
+    "example": ""
+  },
+  {
+    "word": "shoulder",
+    "phonetic": "",
+    "meaning": "肩膀",
+    "example": ""
+  },
+  {
+    "word": "customer",
+    "phonetic": "",
+    "meaning": "顾客，客户",
+    "example": ""
+  },
+  {
+    "word": "surprised",
+    "phonetic": "",
+    "meaning": "吃惊的，惊奇的，惊讶的，诧异的",
+    "example": ""
+  },
+  {
+    "word": "scissors",
+    "phonetic": "",
+    "meaning": "剪刀；剪子",
+    "example": ""
+  },
+  {
+    "word": "office",
+    "phonetic": "",
+    "meaning": "办公楼，办事处，公司",
+    "example": ""
+  },
+  {
+    "word": "receive",
+    "phonetic": "",
+    "meaning": "得到，收到",
+    "example": ""
+  },
+  {
+    "word": "cancer",
+    "phonetic": "",
+    "meaning": "癌 (症)",
+    "example": ""
+  },
+  {
+    "word": "wig",
+    "phonetic": "",
+    "meaning": "假发",
+    "example": ""
+  },
+  {
+    "word": "smart",
+    "phonetic": "",
+    "meaning": "聪颖的，机灵的；明智的",
+    "example": ""
+  },
+  {
+    "word": "smile",
+    "phonetic": "",
+    "meaning": "微笑",
+    "example": ""
+  },
+  {
+    "word": "last but not least",
+    "phonetic": "",
+    "meaning": "最后单同样重要的一点",
+    "example": ""
+  },
+  {
+    "word": "marathon",
+    "phonetic": "",
+    "meaning": "马拉松赛跑",
+    "example": ""
+  },
+  {
+    "word": "however",
+    "phonetic": "",
+    "meaning": "然而",
+    "example": ""
+  },
+  {
+    "word": "still",
+    "phonetic": "",
+    "meaning": "还，仍然",
+    "example": ""
+  },
+  {
+    "word": "metre",
+    "phonetic": "",
+    "meaning": "米，公尺",
+    "example": ""
+  },
+  {
+    "word": "line",
+    "phonetic": "",
+    "meaning": "线",
+    "example": ""
+  },
+  {
+    "word": "breath",
+    "phonetic": "",
+    "meaning": "呼出的气；吸入的气",
+    "example": ""
+  },
+  {
+    "word": "hold your breath",
+    "phonetic": "",
+    "meaning": "屏住呼吸；屏息静气",
+    "example": ""
+  },
+  {
+    "word": "would",
+    "phonetic": "",
+    "meaning": "会",
+    "example": ""
+  },
+  {
+    "word": "confident",
+    "phonetic": "",
+    "meaning": "有信心的， 自信的",
+    "example": ""
+  },
+  {
+    "word": "stomachache",
+    "phonetic": "",
+    "meaning": "胃痛；肚子痛",
+    "example": ""
+  },
+  {
+    "word": "shall",
+    "phonetic": "",
+    "meaning": "要不要 … …？",
+    "example": ""
+  },
+  {
+    "word": "either",
+    "phonetic": "",
+    "meaning": "(两者中的) 任何一个",
+    "example": ""
+  },
+  {
+    "word": "choice",
+    "phonetic": "",
+    "meaning": "选择；选择权",
+    "example": ""
+  },
+  {
+    "word": "seem",
+    "phonetic": "",
+    "meaning": "看来，似乎，好像",
+    "example": ""
+  },
+  {
+    "word": "someone",
+    "phonetic": "",
+    "meaning": "某人，有人",
+    "example": ""
+  },
+  {
+    "word": "neither",
+    "phonetic": "",
+    "meaning": "两者都不 (的) ，两者中无一的",
+    "example": ""
+  },
+  {
+    "word": "cheer",
+    "phonetic": "",
+    "meaning": "(为 … …) 欢呼，喝彩；(为 … …) 加油",
+    "example": ""
+  },
+  {
+    "word": "cross",
+    "phonetic": "",
+    "meaning": "穿过，越过，跑过 (终点线、小径等)",
+    "example": ""
+  },
+  {
+    "word": "lifelong",
+    "phonetic": "",
+    "meaning": "终身的，毕生的",
+    "example": ""
+  },
+  {
+    "word": "dream",
+    "phonetic": "",
+    "meaning": "梦想，愿望，理想",
+    "example": ""
+  },
+  {
+    "word": "past",
+    "phonetic": "",
+    "meaning": "经过",
+    "example": ""
+  },
+  {
+    "word": "record",
+    "phonetic": "",
+    "meaning": "记录，记载",
+    "example": ""
+  },
+  {
+    "word": "none",
+    "phonetic": "",
+    "meaning": "全无，没有一点",
+    "example": ""
+  },
+  {
+    "word": "member",
+    "phonetic": "",
+    "meaning": "成员",
+    "example": ""
+  },
+  {
+    "word": "if",
+    "phonetic": "",
+    "meaning": "假若，要是，如果",
+    "example": ""
+  },
+  {
+    "word": "possible",
+    "phonetic": "",
+    "meaning": "可能的，能做到的，可能实现的",
+    "example": ""
+  },
+  {
+    "word": "purpose",
+    "phonetic": "",
+    "meaning": "目的，意图",
+    "example": ""
+  },
+  {
+    "word": "raise",
+    "phonetic": "",
+    "meaning": "筹集；筹募",
+    "example": ""
+  },
+  {
+    "word": "charity",
+    "phonetic": "",
+    "meaning": "慈善事业",
+    "example": ""
+  },
+  {
+    "word": "encourage",
+    "phonetic": "",
+    "meaning": "鼓励，激励",
+    "example": ""
+  },
+  {
+    "word": "teach",
+    "phonetic": "",
+    "meaning": "教",
+    "example": ""
+  },
+  {
+    "word": "note",
+    "phonetic": "",
+    "meaning": "笔记",
+    "example": ""
+  },
+  {
+    "word": "during",
+    "phonetic": "",
+    "meaning": "在 … … 期间",
+    "example": ""
+  },
+  {
+    "word": "consider",
+    "phonetic": "",
+    "meaning": "考虑，细想",
+    "example": ""
+  },
+  {
+    "word": "both",
+    "phonetic": "",
+    "meaning": "两者，双方，两个都",
+    "example": ""
+  },
+  {
+    "word": "sink",
+    "phonetic": "",
+    "meaning": "下沉，沉没",
+    "example": ""
+  },
+  {
+    "word": "sink or swim",
+    "phonetic": "",
+    "meaning": "自生自灭，成败全靠自己",
+    "example": ""
+  },
+  {
+    "word": "as",
+    "phonetic": "",
+    "meaning": "当 … … 时；如同",
+    "example": ""
+  },
+  {
+    "word": "surfer",
+    "phonetic": "",
+    "meaning": "冲浪者",
+    "example": ""
+  },
+  {
+    "word": "shark",
+    "phonetic": "",
+    "meaning": "鲨鱼",
+    "example": ""
+  },
+  {
+    "word": "attack",
+    "phonetic": "",
+    "meaning": "袭击，殴打，破坏",
+    "example": ""
+  },
+  {
+    "word": "nearly",
+    "phonetic": "",
+    "meaning": "几乎，差不多，将近",
+    "example": ""
+  },
+  {
+    "word": "die",
+    "phonetic": "",
+    "meaning": "死亡",
+    "example": ""
+  },
+  {
+    "word": "surfing",
+    "phonetic": "",
+    "meaning": "冲浪",
+    "example": ""
+  },
+  {
+    "word": "competition",
+    "phonetic": "",
+    "meaning": "比赛",
+    "example": ""
+  },
+  {
+    "word": "compare",
+    "phonetic": "",
+    "meaning": "相比较；可媲美",
+    "example": ""
+  },
+  {
+    "word": "achievement",
+    "phonetic": "",
+    "meaning": "成绩；成就",
+    "example": ""
+  },
+  {
+    "word": "surfboard",
+    "phonetic": "",
+    "meaning": "冲浪板",
+    "example": ""
+  },
+  {
+    "word": "ride",
+    "phonetic": "",
+    "meaning": "漂浮",
+    "example": ""
+  },
+  {
+    "word": "gold",
+    "phonetic": "",
+    "meaning": "金质的",
+    "example": ""
+  },
+  {
+    "word": "medal",
+    "phonetic": "",
+    "meaning": "奖牌；勋章",
+    "example": ""
+  },
+  {
+    "word": "fit",
+    "phonetic": "",
+    "meaning": "健壮的，健康的",
+    "example": ""
+  },
+  {
+    "word": "final",
+    "phonetic": "",
+    "meaning": "决赛",
+    "example": ""
+  },
+  {
+    "word": "team",
+    "phonetic": "",
+    "meaning": "(游戏或体育比赛的) 队",
+    "example": ""
+  },
+  {
+    "word": "even",
+    "phonetic": "",
+    "meaning": "甚至",
+    "example": ""
+  },
+  {
+    "word": "worse",
+    "phonetic": "",
+    "meaning": "(badly 的比较级) 更严重地；更厉害地",
+    "example": ""
+  },
+  {
+    "word": "pay attention",
+    "phonetic": "",
+    "meaning": "认真看，仔细听，用心思考",
+    "example": ""
+  },
+  {
+    "word": "continue",
+    "phonetic": "",
+    "meaning": "(使) 继续；(使) 延续",
+    "example": ""
+  },
+  {
+    "word": "brave",
+    "phonetic": "",
+    "meaning": "勇敢的，无畏的",
+    "example": ""
+  },
+  {
+    "word": "action",
+    "phonetic": "",
+    "meaning": "行为",
+    "example": ""
+  },
+  {
+    "word": "fight",
+    "phonetic": "",
+    "meaning": "努力争取，为 (… …) 斗争",
+    "example": ""
+  },
+  {
+    "word": "score",
+    "phonetic": "",
+    "meaning": "(在运动、比赛或考试中) 得 (分)",
+    "example": ""
+  },
+  {
+    "word": "goal",
+    "phonetic": "",
+    "meaning": "进球；进球得分",
+    "example": ""
+  },
+  {
+    "word": "victory",
+    "phonetic": "",
+    "meaning": "胜利，成功，赢",
+    "example": ""
+  },
+  {
+    "word": "lead",
+    "phonetic": "",
+    "meaning": "带路，领路；引领",
+    "example": ""
+  },
+  {
+    "word": "international",
+    "phonetic": "",
+    "meaning": "国际的",
+    "example": ""
+  },
+  {
+    "word": "chance",
+    "phonetic": "",
+    "meaning": "机会",
+    "example": ""
+  },
+  {
+    "word": "improve",
+    "phonetic": "",
+    "meaning": "改善，改进；变得更好",
+    "example": ""
+  },
+  {
+    "word": "create",
+    "phonetic": "",
+    "meaning": "创造",
+    "example": ""
+  },
+  {
+    "word": "wonder",
+    "phonetic": "",
+    "meaning": "想要知道",
+    "example": ""
+  },
+  {
+    "word": "success",
+    "phonetic": "",
+    "meaning": "成功，成就，胜利",
+    "example": ""
+  },
+  {
+    "word": "explain",
+    "phonetic": "",
+    "meaning": "解释，说明",
+    "example": ""
+  },
+  {
+    "word": "simple",
+    "phonetic": "",
+    "meaning": "单纯的，纯粹的，完全的",
+    "example": ""
+  },
+  {
+    "word": "same",
+    "phonetic": "",
+    "meaning": "相同的，同一个的",
+    "example": ""
+  },
+  {
+    "word": "courage",
+    "phonetic": "",
+    "meaning": "勇气，胆量，勇敢",
+    "example": ""
+  },
+  {
+    "word": "ahead",
+    "phonetic": "",
+    "meaning": "在前面",
+    "example": ""
+  },
+  {
+    "word": "spirit",
+    "phonetic": "",
+    "meaning": "精神，风气",
+    "example": ""
+  },
+  {
+    "word": "delicious",
+    "phonetic": "",
+    "meaning": "令人愉快的；美味的",
+    "example": ""
+  },
+  {
+    "word": "certain",
+    "phonetic": "",
+    "meaning": "某个；某些",
+    "example": ""
+  },
+  {
+    "word": "mine",
+    "phonetic": "",
+    "meaning": "我的 (东西)",
+    "example": ""
+  },
+  {
+    "word": "beef",
+    "phonetic": "",
+    "meaning": "牛肉",
+    "example": ""
+  },
+  {
+    "word": "carrot",
+    "phonetic": "",
+    "meaning": "胡萝 卜",
+    "example": ""
+  },
+  {
+    "word": "mutton",
+    "phonetic": "",
+    "meaning": "羊肉",
+    "example": ""
+  },
+  {
+    "word": "fat",
+    "phonetic": "",
+    "meaning": "肥胖的",
+    "example": ""
+  },
+  {
+    "word": "hen",
+    "phonetic": "",
+    "meaning": "母鸡",
+    "example": ""
+  },
+  {
+    "word": "pot",
+    "phonetic": "",
+    "meaning": "(通常为金属制成的圆而深的) 锅",
+    "example": ""
+  },
+  {
+    "word": "onion",
+    "phonetic": "",
+    "meaning": "洋葱 (头)",
+    "example": ""
+  },
+  {
+    "word": "pancake",
+    "phonetic": "",
+    "meaning": "薄煎 (烤、烙) 饼",
+    "example": ""
+  },
+  {
+    "word": "porridge",
+    "phonetic": "",
+    "meaning": "粥",
+    "example": ""
+  },
+  {
+    "word": "sweet",
+    "phonetic": "",
+    "meaning": "甜的",
+    "example": ""
+  },
+  {
+    "word": "plain",
+    "phonetic": "",
+    "meaning": "无装饰的，简单的，朴素的，单纯 的",
+    "example": ""
+  },
+  {
+    "word": "menu",
+    "phonetic": "",
+    "meaning": "(尤指餐馆的) 菜单",
+    "example": ""
+  },
+  {
+    "word": "medicine",
+    "phonetic": "",
+    "meaning": "药，药物 (尤指口服的药水)",
+    "example": ""
+  },
+  {
+    "word": "pill",
+    "phonetic": "",
+    "meaning": "药丸；药片",
+    "example": ""
+  },
+  {
+    "word": "remain",
+    "phonetic": "",
+    "meaning": "继续，依然 (保持某种状态)",
+    "example": ""
+  },
+  {
+    "word": "another",
+    "phonetic": "",
+    "meaning": "另一个，别的",
+    "example": ""
+  },
+  {
+    "word": "connection",
+    "phonetic": "",
+    "meaning": "联系，关联",
+    "example": ""
+  },
+  {
+    "word": "prove",
+    "phonetic": "",
+    "meaning": "证明，证实",
+    "example": ""
+  },
+  {
+    "word": "similar",
+    "phonetic": "",
+    "meaning": "相似的，近似的，类似的",
+    "example": ""
+  },
+  {
+    "word": "special",
+    "phonetic": "",
+    "meaning": "特殊的，特别的",
+    "example": ""
+  },
+  {
+    "word": "order",
+    "phonetic": "",
+    "meaning": "顺序，次序",
+    "example": ""
+  },
+  {
+    "word": "pie",
+    "phonetic": "",
+    "meaning": "水果馅饼，派",
+    "example": ""
+  },
+  {
+    "word": "sandwich",
+    "phonetic": "",
+    "meaning": "三明治，夹心面包",
+    "example": ""
+  },
+  {
+    "word": "circle",
+    "phonetic": "",
+    "meaning": "圈出",
+    "example": ""
+  },
+  {
+    "word": "scramble",
+    "phonetic": "",
+    "meaning": "(炒) 蛋",
+    "example": ""
+  },
+  {
+    "word": "slice",
+    "phonetic": "",
+    "meaning": "片，薄片，切片",
+    "example": ""
+  },
+  {
+    "word": "beat",
+    "phonetic": "",
+    "meaning": "搅拌，搅打",
+    "example": ""
+  },
+  {
+    "word": "add",
+    "phonetic": "",
+    "meaning": "添加，增加",
+    "example": ""
+  },
+  {
+    "word": "salt",
+    "phonetic": "",
+    "meaning": "盐，食盐",
+    "example": ""
+  },
+  {
+    "word": "pepper",
+    "phonetic": "",
+    "meaning": "胡椒粉",
+    "example": ""
+  },
+  {
+    "word": "oil",
+    "phonetic": "",
+    "meaning": "植物 油，动物油",
+    "example": ""
+  },
+  {
+    "word": "pan",
+    "phonetic": "",
+    "meaning": "(长柄有盖的) 锅，平底锅",
+    "example": ""
+  },
+  {
+    "word": "mixture",
+    "phonetic": "",
+    "meaning": "(尤指烹饪中的) 混合液，混合料",
+    "example": ""
+  },
+  {
+    "word": "stir",
+    "phonetic": "",
+    "meaning": "搅，搅拌，搅动",
+    "example": ""
+  },
+  {
+    "word": "until",
+    "phonetic": "",
+    "meaning": "直到 … … 为止",
+    "example": ""
+  },
+  {
+    "word": "golden",
+    "phonetic": "",
+    "meaning": "金色的，金黄色的",
+    "example": ""
+  },
+  {
+    "word": "plate",
+    "phonetic": "",
+    "meaning": "盘，碟",
+    "example": ""
+  },
+  {
+    "word": "heat",
+    "phonetic": "",
+    "meaning": "(烹饪或加热时的) 温度",
+    "example": ""
+  },
+  {
+    "word": "firm",
+    "phonetic": "",
+    "meaning": "结实的，坚实的",
+    "example": ""
+  },
+  {
+    "word": "recipe",
+    "phonetic": "",
+    "meaning": "烹饪法；食谱",
+    "example": ""
+  },
+  {
+    "word": "ingredient",
+    "phonetic": "",
+    "meaning": "(烹饪用的) 成分，食材",
+    "example": ""
+  },
+  {
+    "word": "step",
+    "phonetic": "",
+    "meaning": "步骤",
+    "example": ""
+  },
+  {
+    "word": "diet",
+    "phonetic": "",
+    "meaning": "节食；规定饮食",
+    "example": ""
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "",
+    "meaning": "饭店，餐厅",
+    "example": ""
+  },
+  {
+    "word": "salad",
+    "phonetic": "",
+    "meaning": "(生吃的) 蔬菜沙拉",
+    "example": ""
+  },
+  {
+    "word": "snack",
+    "phonetic": "",
+    "meaning": "(正餐以外的) 小吃，点心",
+    "example": ""
+  },
+  {
+    "word": "chip",
+    "phonetic": "",
+    "meaning": "炸马铃薯条",
+    "example": ""
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "",
+    "meaning": "危险的，有危害的",
+    "example": ""
+  },
+  {
+    "word": "border",
+    "phonetic": "",
+    "meaning": "边界；边境",
+    "example": ""
+  },
+  {
+    "word": "Western",
+    "phonetic": "",
+    "meaning": "(观念或方式) 西方的，欧美的",
+    "example": ""
+  },
+  {
+    "word": "dessert",
+    "phonetic": "",
+    "meaning": "(饭后的) 甜点，甜食，甜品",
+    "example": ""
+  },
+  {
+    "word": "actually",
+    "phonetic": "",
+    "meaning": "实际上，事实上",
+    "example": ""
+  },
+  {
+    "word": "dynasty",
+    "phonetic": "",
+    "meaning": "朝代",
+    "example": ""
+  },
+  {
+    "word": "store",
+    "phonetic": "",
+    "meaning": "贮藏，贮存，积蓄",
+    "example": ""
+  },
+  {
+    "word": "modern",
+    "phonetic": "",
+    "meaning": "现代的，近代的",
+    "example": ""
+  },
+  {
+    "word": "folk",
+    "phonetic": "",
+    "meaning": "民间的，民俗的",
+    "example": ""
+  },
+  {
+    "word": "tale",
+    "phonetic": "",
+    "meaning": "故事",
+    "example": ""
+  },
+  {
+    "word": "emperor",
+    "phonetic": "",
+    "meaning": "皇帝",
+    "example": ""
+  },
+  {
+    "word": "suffer",
+    "phonetic": "",
+    "meaning": "(身体或精神上) 受苦，遭受 (痛苦)",
+    "example": ""
+  },
+  {
+    "word": "stomach",
+    "phonetic": "",
+    "meaning": "胃",
+    "example": ""
+  },
+  {
+    "word": "totally",
+    "phonetic": "",
+    "meaning": "完全地，彻底地",
+    "example": ""
+  },
+  {
+    "word": "Iranian",
+    "phonetic": "",
+    "meaning": "伊朗人",
+    "example": ""
+  },
+  {
+    "word": "flat",
+    "phonetic": "",
+    "meaning": "平的，平坦的",
+    "example": ""
+  },
+  {
+    "word": "stone",
+    "phonetic": "",
+    "meaning": "石块，石子",
+    "example": ""
+  },
+  {
+    "word": "symbol",
+    "phonetic": "",
+    "meaning": "(某一特性或思想的)代表，代表性人物",
+    "example": ""
+  },
+  {
+    "word": "American",
+    "phonetic": "",
+    "meaning": "美国的；美国人的",
+    "example": ""
+  },
+  {
+    "word": "twin",
+    "phonetic": "",
+    "meaning": "双胞胎之一的",
+    "example": ""
+  },
+  {
+    "word": "bridge",
+    "phonetic": "",
+    "meaning": "(事物之间的) 桥梁，纽带",
+    "example": ""
+  },
+  {
+    "word": "imagine",
+    "phonetic": "",
+    "meaning": "想象",
+    "example": ""
+  },
+  {
+    "word": "alone",
+    "phonetic": "",
+    "meaning": "单独，独自",
+    "example": ""
+  },
+  {
+    "word": "might",
+    "phonetic": "",
+    "meaning": "也许，可能，大概",
+    "example": ""
+  },
+  {
+    "word": "tool",
+    "phonetic": "",
+    "meaning": "工具",
+    "example": ""
+  },
+  {
+    "word": "list",
+    "phonetic": "",
+    "meaning": "名单，清单， 目录",
+    "example": ""
+  },
+  {
+    "word": "something",
+    "phonetic": "",
+    "meaning": "某物；某事；某种东西",
+    "example": ""
+  },
+  {
+    "word": "novel",
+    "phonetic": "",
+    "meaning": "(长篇) 小说",
+    "example": ""
+  },
+  {
+    "word": "magazine",
+    "phonetic": "",
+    "meaning": "杂志，期刊",
+    "example": ""
+  },
+  {
+    "word": "solar",
+    "phonetic": "",
+    "meaning": "利用太阳能的",
+    "example": ""
+  },
+  {
+    "word": "media",
+    "phonetic": "",
+    "meaning": "媒介物",
+    "example": ""
+  },
+  {
+    "word": "bored",
+    "phonetic": "",
+    "meaning": "厌烦的，不感兴趣的；烦闷的",
+    "example": ""
+  },
+  {
+    "word": "funny",
+    "phonetic": "",
+    "meaning": "使人发笑的，有趣的；滑稽的",
+    "example": ""
+  },
+  {
+    "word": "youthful",
+    "phonetic": "",
+    "meaning": "年轻的",
+    "example": ""
+  },
+  {
+    "word": "invite",
+    "phonetic": "",
+    "meaning": "邀请",
+    "example": ""
+  },
+  {
+    "word": "number",
+    "phonetic": "",
+    "meaning": "数目，数量",
+    "example": ""
+  },
+  {
+    "word": "a number of",
+    "phonetic": "",
+    "meaning": "一些",
+    "example": ""
+  },
+  {
+    "word": "able",
+    "phonetic": "",
+    "meaning": "有能力做 … … 的，会 … … 的",
+    "example": ""
+  },
+  {
+    "word": "importance",
+    "phonetic": "",
+    "meaning": "重要 (性)",
+    "example": ""
+  },
+  {
+    "word": "detail",
+    "phonetic": "",
+    "meaning": "细节，细微之处",
+    "example": ""
+  },
+  {
+    "word": "conclusion",
+    "phonetic": "",
+    "meaning": "结论",
+    "example": ""
+  },
+  {
+    "word": "open - minded",
+    "phonetic": "",
+    "meaning": "愿意考虑不同意见的；思想开明的",
+    "example": ""
+  },
+  {
+    "word": "differently",
+    "phonetic": "",
+    "meaning": "不同地；相异地",
+    "example": ""
+  },
+  {
+    "word": "instruction",
+    "phonetic": "",
+    "meaning": "命令，指示",
+    "example": ""
+  },
+  {
+    "word": "daily",
+    "phonetic": "",
+    "meaning": "每日，每天",
+    "example": ""
+  },
+  {
+    "word": "daily life",
+    "phonetic": "",
+    "meaning": "日常生活",
+    "example": ""
+  },
+  {
+    "word": "while",
+    "phonetic": "",
+    "meaning": "当 … … 时，在 … … 时",
+    "example": ""
+  },
+  {
+    "word": "housework",
+    "phonetic": "",
+    "meaning": "(家务) 劳动",
+    "example": ""
+  },
+  {
+    "word": "explore",
+    "phonetic": "",
+    "meaning": "探讨，探究",
+    "example": ""
+  },
+  {
+    "word": "discussion",
+    "phonetic": "",
+    "meaning": "讨论，谈论，商讨",
+    "example": ""
+  },
+  {
+    "word": "unforgettable",
+    "phonetic": "",
+    "meaning": "难以忘怀的",
+    "example": ""
+  },
+  {
+    "word": "discover",
+    "phonetic": "",
+    "meaning": "发现，找到",
+    "example": ""
+  },
+  {
+    "word": "large",
+    "phonetic": "",
+    "meaning": "巨大的",
+    "example": ""
+  },
+  {
+    "word": "mosquito",
+    "phonetic": "",
+    "meaning": "蚊子",
+    "example": ""
+  },
+  {
+    "word": "insect",
+    "phonetic": "",
+    "meaning": "昆虫",
+    "example": ""
+  },
+  {
+    "word": "set",
+    "phonetic": "",
+    "meaning": "确立",
+    "example": ""
+  },
+  {
+    "word": "butterfly",
+    "phonetic": "",
+    "meaning": "蝴蝶",
+    "example": ""
+  },
+  {
+    "word": "prince",
+    "phonetic": "",
+    "meaning": "王子",
+    "example": ""
+  },
+  {
+    "word": "monster",
+    "phonetic": "",
+    "meaning": "妖怪；怪物；怪兽",
+    "example": ""
+  },
+  {
+    "word": "ever",
+    "phonetic": "",
+    "meaning": "在任何时候",
+    "example": ""
+  },
+  {
+    "word": "notice",
+    "phonetic": "",
+    "meaning": "看到；听到；感觉到；注意到",
+    "example": ""
+  },
+  {
+    "word": "social",
+    "phonetic": "",
+    "meaning": "社交的",
+    "example": ""
+  },
+  {
+    "word": "screen",
+    "phonetic": "",
+    "meaning": "屏幕",
+    "example": ""
+  },
+  {
+    "word": "couch",
+    "phonetic": "",
+    "meaning": "长沙发",
+    "example": ""
+  },
+  {
+    "word": "couch potato",
+    "phonetic": "",
+    "meaning": "老泡在电视机前的人",
+    "example": ""
+  },
+  {
+    "word": "sore",
+    "phonetic": "",
+    "meaning": "疼痛的；酸痛的",
+    "example": ""
+  },
+  {
+    "word": "neck",
+    "phonetic": "",
+    "meaning": "颈，脖子",
+    "example": ""
+  },
+  {
+    "word": "deaf",
+    "phonetic": "",
+    "meaning": "不愿听的，不肯听取的",
+    "example": ""
+  },
+  {
+    "word": "real",
+    "phonetic": "",
+    "meaning": "实际存在的，非想象的",
+    "example": ""
+  },
+  {
+    "word": "balanced",
+    "phonetic": "",
+    "meaning": "均衡的",
+    "example": ""
+  },
+  {
+    "word": "outside",
+    "phonetic": "",
+    "meaning": "在室外",
+    "example": ""
+  },
+  {
+    "word": "jog",
+    "phonetic": "",
+    "meaning": "慢跑",
+    "example": ""
+  },
+  {
+    "word": "fresh",
+    "phonetic": "",
+    "meaning": "新鲜的",
+    "example": ""
+  },
+  {
+    "word": "tennis",
+    "phonetic": "",
+    "meaning": "网球 (运动)",
+    "example": ""
+  },
+  {
+    "word": "hike",
+    "phonetic": "",
+    "meaning": "(在 … …) 徒步旅行，远足",
+    "example": ""
+  },
+  {
+    "word": "ours",
+    "phonetic": "",
+    "meaning": "(属于) 我们的",
+    "example": ""
+  },
+  {
+    "word": "soft",
+    "phonetic": "",
+    "meaning": "柔软的",
+    "example": ""
+  },
+  {
+    "word": "brightly",
+    "phonetic": "",
+    "meaning": "明亮地",
+    "example": ""
+  },
+  {
+    "word": "lotus",
+    "phonetic": "",
+    "meaning": "莲花 (图案) ，荷花 (图案)",
+    "example": ""
+  },
+  {
+    "word": "sky",
+    "phonetic": "",
+    "meaning": "天，天空",
+    "example": ""
+  },
+  {
+    "word": "calm",
+    "phonetic": "",
+    "meaning": "镇静的，沉着的；心平气和的",
+    "example": ""
+  },
+  {
+    "word": "above",
+    "phonetic": "",
+    "meaning": "在(… …) 上方",
+    "example": ""
+  },
+  {
+    "word": "express",
+    "phonetic": "",
+    "meaning": "表达；表示；表现",
+    "example": ""
+  },
+  {
+    "word": "grassland",
+    "phonetic": "",
+    "meaning": "草原",
+    "example": ""
+  },
+  {
+    "word": "field",
+    "phonetic": "",
+    "meaning": "田地，田野",
+    "example": ""
+  },
+  {
+    "word": "few",
+    "phonetic": "",
+    "meaning": "很少，不多",
+    "example": ""
+  },
+  {
+    "word": "likely",
+    "phonetic": "",
+    "meaning": "可能的；可能发生的；可 能属实的",
+    "example": ""
+  },
+  {
+    "word": "local",
+    "phonetic": "",
+    "meaning": "地方性的，当地 (本 地) 的",
+    "example": ""
+  },
+  {
+    "word": "designer",
+    "phonetic": "",
+    "meaning": "(服装、家具、设备 等的) 设计师，设计者",
+    "example": ""
+  },
+  {
+    "word": "landscape",
+    "phonetic": "",
+    "meaning": "(陆上的) 风景，景 致，景色",
+    "example": ""
+  },
+  {
+    "word": "Mount",
+    "phonetic": "",
+    "meaning": "… … 山， … … 峰",
+    "example": ""
+  },
+  {
+    "word": "tide",
+    "phonetic": "",
+    "meaning": "海潮，潮汐",
+    "example": ""
+  },
+  {
+    "word": "exhibition",
+    "phonetic": "",
+    "meaning": "展览 (会)",
+    "example": ""
+  },
+  {
+    "word": "tour",
+    "phonetic": "",
+    "meaning": "参观，游览",
+    "example": ""
+  },
+  {
+    "word": "pound",
+    "phonetic": "",
+    "meaning": "英镑",
+    "example": ""
+  },
+  {
+    "word": "lungfish",
+    "phonetic": "",
+    "meaning": "肺鱼",
+    "example": ""
+  },
+  {
+    "word": "lung",
+    "phonetic": "",
+    "meaning": "肺",
+    "example": ""
+  },
+  {
+    "word": "scientist",
+    "phonetic": "",
+    "meaning": "科学家",
+    "example": ""
+  },
+  {
+    "word": "behaviour",
+    "phonetic": "",
+    "meaning": "行为，举止",
+    "example": ""
+  },
+  {
+    "word": "land",
+    "phonetic": "",
+    "meaning": "陆地",
+    "example": ""
+  },
+  {
+    "word": "aloud",
+    "phonetic": "",
+    "meaning": "出声地",
+    "example": ""
+  },
+  {
+    "word": "lie",
+    "phonetic": "",
+    "meaning": "躺，平卧",
+    "example": ""
+  },
+  {
+    "word": "surface",
+    "phonetic": "",
+    "meaning": "表面，面",
+    "example": ""
+  },
+  {
+    "word": "level",
+    "phonetic": "",
+    "meaning": "水平高度；相对高度",
+    "example": ""
+  },
+  {
+    "word": "less",
+    "phonetic": "",
+    "meaning": "不那么多，更 (较) 少",
+    "example": ""
+  },
+  {
+    "word": "suggest",
+    "phonetic": "",
+    "meaning": "暗示，暗指",
+    "example": ""
+  },
+  {
+    "word": "such as",
+    "phonetic": "",
+    "meaning": "诸如，例如",
+    "example": ""
+  },
+  {
+    "word": "snake",
+    "phonetic": "",
+    "meaning": "蛇",
+    "example": ""
+  },
+  {
+    "word": "wood",
+    "phonetic": "",
+    "meaning": "木头；木材，木料",
+    "example": ""
+  },
+  {
+    "word": "disappear",
+    "phonetic": "",
+    "meaning": "消失，不见",
+    "example": ""
+  },
+  {
+    "word": "glacier",
+    "phonetic": "",
+    "meaning": "冰川",
+    "example": ""
+  },
+  {
+    "word": "national",
+    "phonetic": "",
+    "meaning": "国家的，全国性的",
+    "example": ""
+  },
+  {
+    "word": "airport",
+    "phonetic": "",
+    "meaning": "机场，航空站 (港)",
+    "example": ""
+  },
+  {
+    "word": "burn",
+    "phonetic": "",
+    "meaning": "(使)(身体部位) 灼痛，(使) 火辣辣地 痛",
+    "example": ""
+  },
+  {
+    "word": "expect",
+    "phonetic": "",
+    "meaning": "预料，预期，预计",
+    "example": ""
+  },
+  {
+    "word": "deep",
+    "phonetic": "",
+    "meaning": "(呼吸或叹息) 深深的",
+    "example": ""
+  },
+  {
+    "word": "lemon",
+    "phonetic": "",
+    "meaning": "柠檬",
+    "example": ""
+  },
+  {
+    "word": "reply",
+    "phonetic": "",
+    "meaning": "回答，答复",
+    "example": ""
+  },
+  {
+    "word": "mouthful",
+    "phonetic": "",
+    "meaning": "(食物或饮料的) 一口，一满口",
+    "example": ""
+  },
+  {
+    "word": "surprisingly",
+    "phonetic": "",
+    "meaning": "惊人地，使人吃惊地，出人意料地",
+    "example": ""
+  },
+  {
+    "word": "mask",
+    "phonetic": "",
+    "meaning": "假面具，假面",
+    "example": ""
+  },
+  {
+    "word": "normal",
+    "phonetic": "",
+    "meaning": "正常",
+    "example": ""
+  },
+  {
+    "word": "ancient",
+    "phonetic": "",
+    "meaning": "古代的",
+    "example": ""
+  },
+  {
+    "word": "further",
+    "phonetic": "",
+    "meaning": "更远",
+    "example": ""
+  },
+  {
+    "word": "look forward to",
+    "phonetic": "",
+    "meaning": "(兴奋地) 期待，盼望",
+    "example": ""
+  },
+  {
+    "word": "general",
+    "phonetic": "",
+    "meaning": "大体的，大致的； 通常，",
+    "example": ""
+  },
+  {
+    "word": "in general",
+    "phonetic": "",
+    "meaning": "一般情况下；普遍地，总的说来",
+    "example": ""
+  },
+  {
+    "word": "curious",
+    "phonetic": "",
+    "meaning": "好奇的，好打听的",
+    "example": ""
+  },
+  {
+    "word": "cultural",
+    "phonetic": "",
+    "meaning": "文化的；文化上的",
+    "example": ""
+  },
+  {
+    "word": "main",
+    "phonetic": "",
+    "meaning": "最大的，最重要的",
+    "example": ""
+  },
+  {
+    "word": "interest",
+    "phonetic": "",
+    "meaning": "吸引力",
+    "example": ""
+  },
+  {
+    "word": "places of interest",
+    "phonetic": "",
+    "meaning": "名胜",
+    "example": ""
+  },
+  {
+    "word": "hotel",
+    "phonetic": "",
+    "meaning": "宾馆，酒店",
+    "example": ""
+  },
+  {
+    "word": "comfortable",
+    "phonetic": "",
+    "meaning": "舒适的，令人舒服的",
+    "example": ""
+  },
+  {
+    "word": "postcard",
+    "phonetic": "",
+    "meaning": "明信片",
+    "example": ""
+  },
+  {
+    "word": "waterfall",
+    "phonetic": "",
+    "meaning": "瀑布",
+    "example": ""
+  },
+  {
+    "word": "south",
+    "phonetic": "",
+    "meaning": "在南方的",
+    "example": ""
+  },
+  {
+    "word": "powerful",
+    "phonetic": "",
+    "meaning": "猛烈的，有力的",
+    "example": ""
+  },
+  {
+    "word": "thunder",
+    "phonetic": "",
+    "meaning": "雷声",
+    "example": ""
+  },
+  {
+    "word": "painting",
+    "phonetic": "",
+    "meaning": "绘画 (作品)",
+    "example": ""
+  },
+  {
+    "word": "roller coaster",
+    "phonetic": "",
+    "meaning": "过山车，云霄飞车",
+    "example": ""
+  },
+  {
+    "word": "huge",
+    "phonetic": "",
+    "meaning": "巨大的，庞大的；极大量的",
+    "example": ""
+  },
+  {
+    "word": "ant",
+    "phonetic": "",
+    "meaning": "蚂蚁",
+    "example": ""
+  },
+  {
+    "word": "beauty",
+    "phonetic": "",
+    "meaning": "美，美丽，漂亮",
+    "example": ""
+  },
+  {
+    "word": "discuss",
+    "phonetic": "",
+    "meaning": "商讨，谈论，讨论",
+    "example": ""
+  },
+  {
+    "word": "accept",
+    "phonetic": "",
+    "meaning": "接受；同意做",
+    "example": ""
+  },
+  {
+    "word": "award",
+    "phonetic": "",
+    "meaning": "奖，奖赏；奖品；奖金",
+    "example": ""
+  },
+  {
+    "word": "traffic",
+    "phonetic": "",
+    "meaning": "路上行驶的车辆，交通",
+    "example": ""
+  },
+  {
+    "word": "unexplored",
+    "phonetic": "",
+    "meaning": "(地方) 未曾探索的，未经勘察的",
+    "example": ""
+  },
+  {
+    "word": "seriously",
+    "phonetic": "",
+    "meaning": "严重地，非常",
+    "example": ""
+  },
+  {
+    "word": "achieve",
+    "phonetic": "",
+    "meaning": "实现；(尤指经过努力) 取得，达到",
+    "example": ""
+  },
+  {
+    "word": "geographical",
+    "phonetic": "",
+    "meaning": "地理的，地理位置的",
+    "example": ""
+  },
+  {
+    "word": "discovery",
+    "phonetic": "",
+    "meaning": "被发现的事实 (事物)",
+    "example": ""
+  },
+  {
+    "word": "peak",
+    "phonetic": "",
+    "meaning": "山顶，山峰；山，山岳",
+    "example": ""
+  },
+  {
+    "word": "truth",
+    "phonetic": "",
+    "meaning": "事实，真相，实情",
+    "example": ""
+  },
+  {
+    "word": "climb",
+    "phonetic": "",
+    "meaning": "爬 (山) ，登 (山)",
+    "example": ""
+  },
+  {
+    "word": "suppose",
+    "phonetic": "",
+    "meaning": "假设，认为",
+    "example": ""
+  },
+  {
+    "word": "birthmark",
+    "phonetic": "",
+    "meaning": "胎记，胎痣",
+    "example": ""
+  },
+  {
+    "word": "strawberry",
+    "phonetic": "",
+    "meaning": "草莓",
+    "example": ""
+  },
+  {
+    "word": "secretly",
+    "phonetic": "",
+    "meaning": "暗自",
+    "example": ""
+  },
+  {
+    "word": "crowded",
+    "phonetic": "",
+    "meaning": "挤满人（物）的；拥挤的",
+    "example": ""
+  },
+  {
+    "word": "disaster",
+    "phonetic": "",
+    "meaning": "灾难，灾祸",
+    "example": ""
+  },
+  {
+    "word": "therefore",
+    "phonetic": "",
+    "meaning": "因此，由此，所以",
+    "example": ""
+  },
+  {
+    "word": "instead",
+    "phonetic": "",
+    "meaning": "代替……；而不是……",
+    "example": ""
+  },
+  {
+    "word": "instead of",
+    "phonetic": "",
+    "meaning": "代替……；而不是……",
+    "example": ""
+  },
+  {
+    "word": "although",
+    "phonetic": "",
+    "meaning": "虽然，尽管",
+    "example": ""
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "",
+    "meaning": "浴室，卫生间",
+    "example": ""
+  },
+  {
+    "word": "truly",
+    "phonetic": "",
+    "meaning": "真实地，确实地",
+    "example": ""
+  },
+  {
+    "word": "difference",
+    "phonetic": "",
+    "meaning": "差别，差异",
+    "example": ""
+  },
+  {
+    "word": "wise",
+    "phonetic": "",
+    "meaning": "明智的，明断的",
+    "example": ""
+  },
+  {
+    "word": "present perfect tense",
+    "phonetic": "",
+    "meaning": "现在完成式",
+    "example": ""
+  },
+  {
+    "word": "underline",
+    "phonetic": "",
+    "meaning": "在······之下划线",
+    "example": ""
+  },
+  {
+    "word": "row",
+    "phonetic": "",
+    "meaning": "一排，一行，一列",
+    "example": ""
+  },
+  {
+    "word": "reach",
+    "phonetic": "",
+    "meaning": "伸；伸手（以触碰或提起某物）",
+    "example": ""
+  },
+  {
+    "word": "height",
+    "phonetic": "",
+    "meaning": "身高；高，高度",
+    "example": ""
+  },
+  {
+    "word": "willing",
+    "phonetic": "",
+    "meaning": "愿意（乐意）（做某事）的",
+    "example": ""
+  },
+  {
+    "word": "literature",
+    "phonetic": "",
+    "meaning": "文学；文学作品",
+    "example": ""
+  },
+  {
+    "word": "search",
+    "phonetic": "",
+    "meaning": "寻找；搜寻",
+    "example": ""
+  },
+  {
+    "word": "value",
+    "phonetic": "",
+    "meaning": "价值",
+    "example": ""
+  },
+  {
+    "word": "wizard",
+    "phonetic": "",
+    "meaning": "男巫",
+    "example": ""
+  },
+  {
+    "word": "friendship",
+    "phonetic": "",
+    "meaning": "友谊",
+    "example": ""
+  },
+  {
+    "word": "basic",
+    "phonetic": "",
+    "meaning": "基础的，基本的",
+    "example": ""
+  },
+  {
+    "word": "message",
+    "phonetic": "",
+    "meaning": "主题思想",
+    "example": ""
+  },
+  {
+    "word": "setting",
+    "phonetic": "",
+    "meaning": "（书、影片等中情节发生的）背景",
+    "example": ""
+  },
+  {
+    "word": "realise",
+    "phonetic": "",
+    "meaning": "知道，明白",
+    "example": ""
+  },
+  {
+    "word": "impossible",
+    "phonetic": "",
+    "meaning": "不可能发生的；办不到的",
+    "example": ""
+  },
+  {
+    "word": "nothing",
+    "phonetic": "",
+    "meaning": "没有任何东西；没有事",
+    "example": ""
+  },
+  {
+    "word": "silver",
+    "phonetic": "",
+    "meaning": "银制的，银质的",
+    "example": ""
+  },
+  {
+    "word": "silver screen",
+    "phonetic": "",
+    "meaning": "电影业（尤指好莱坞）",
+    "example": ""
+  },
+  {
+    "word": "doubt",
+    "phonetic": "",
+    "meaning": "怀疑",
+    "example": ""
+  },
+  {
+    "word": "fear",
+    "phonetic": "",
+    "meaning": "害怕，恐惧；担忧",
+    "example": ""
+  },
+  {
+    "word": "succeed",
+    "phonetic": "",
+    "meaning": "成功，达成",
+    "example": ""
+  },
+  {
+    "word": "excellent",
+    "phonetic": "",
+    "meaning": "卓越的；极好的",
+    "example": ""
+  },
+  {
+    "word": "second",
+    "phonetic": "",
+    "meaning": "秒",
+    "example": ""
+  },
+  {
+    "word": "satisfy",
+    "phonetic": "",
+    "meaning": "使（某人）满意",
+    "example": ""
+  },
+  {
+    "word": "risky",
+    "phonetic": "",
+    "meaning": "有危险的，有风险的",
+    "example": ""
+  },
+  {
+    "word": "zero",
+    "phonetic": "",
+    "meaning": "零",
+    "example": ""
+  },
+  {
+    "word": "Olympics",
+    "phonetic": "",
+    "meaning": "奥林匹克运动会，奥运会",
+    "example": ""
+  },
+  {
+    "word": "athlete",
+    "phonetic": "",
+    "meaning": "运动员；田径运动员",
+    "example": ""
+  },
+  {
+    "word": "selfish",
+    "phonetic": "",
+    "meaning": "自私的，自私自利的（含贬义）",
+    "example": ""
+  },
+  {
+    "word": "giant",
+    "phonetic": "",
+    "meaning": "（儿童故事中的）巨人",
+    "example": ""
+  },
+  {
+    "word": "shout",
+    "phonetic": "",
+    "meaning": "大声说，喊叫，呼喊",
+    "example": ""
+  },
+  {
+    "word": "gate",
+    "phonetic": "",
+    "meaning": "（栅栏或围墙上的）大门",
+    "example": ""
+  },
+  {
+    "word": "since",
+    "phonetic": "",
+    "meaning": "自从……以来；自从……之后",
+    "example": ""
+  },
+  {
+    "word": "nor",
+    "phonetic": "",
+    "meaning": "也不",
+    "example": ""
+  },
+  {
+    "word": "hole",
+    "phonetic": "",
+    "meaning": "洞，孔，坑",
+    "example": ""
+  },
+  {
+    "word": "afraid",
+    "phonetic": "",
+    "meaning": "害怕的，恐惧的",
+    "example": ""
+  },
+  {
+    "word": "adaptation",
+    "phonetic": "",
+    "meaning": "（书或戏剧的）改编版",
+    "example": ""
+  },
+  {
+    "word": "unhappiness",
+    "phonetic": "",
+    "meaning": "不幸",
+    "example": ""
+  },
+  {
+    "word": "climax",
+    "phonetic": "",
+    "meaning": "高潮，顶点",
+    "example": ""
+  },
+  {
+    "word": "return",
+    "phonetic": "",
+    "meaning": "返回，回来，回去",
+    "example": ""
+  },
+  {
+    "word": "lively",
+    "phonetic": "",
+    "meaning": "充满活力的，生气勃勃的",
+    "example": ""
+  },
+  {
+    "word": "theirs",
+    "phonetic": "",
+    "meaning": "他们的，她们的（用于指代属于前面所提之人的东西）",
+    "example": ""
+  },
+  {
+    "word": "grade",
+    "phonetic": "",
+    "meaning": "年级",
+    "example": ""
+  },
+  {
+    "word": "article",
+    "phonetic": "",
+    "meaning": "（报刊的）文章，论文",
+    "example": ""
+  },
+  {
+    "word": "priceless",
+    "phonetic": "",
+    "meaning": "极其贵重的；无价的",
+    "example": ""
+  },
+  {
+    "word": "differently",
+    "phonetic": "",
+    "meaning": "不同地",
+    "example": ""
+  },
+  {
+    "word": "recently",
+    "phonetic": "",
+    "meaning": "最近，近来，不久前",
+    "example": ""
+  },
+  {
+    "word": "allow",
+    "phonetic": "",
+    "meaning": "允许，容许，准许",
+    "example": ""
+  },
+  {
+    "word": "attend",
+    "phonetic": "",
+    "meaning": "参加，出席，到场",
+    "example": ""
+  },
+  {
+    "word": "roller coaster",
+    "phonetic": "",
+    "meaning": "过山车",
+    "example": ""
+  },
+  {
+    "word": "whom",
+    "phonetic": "",
+    "meaning": "谁，什么人",
+    "example": ""
+  },
+  {
+    "word": "cheerful",
+    "phonetic": "",
+    "meaning": "高兴的",
+    "example": ""
+  },
+  {
+    "word": "uncertain",
+    "phonetic": "",
+    "meaning": "不确定的，无把握的",
+    "example": ""
+  },
+  {
+    "word": "suggestion",
+    "phonetic": "",
+    "meaning": "建议，提议",
+    "example": ""
+  },
+  {
+    "word": "comfort",
+    "phonetic": "",
+    "meaning": "安慰",
+    "example": ""
+  },
+  {
+    "word": "skating",
+    "phonetic": "",
+    "meaning": "滑冰，溜冰",
+    "example": ""
+  },
+  {
+    "word": "narrow",
+    "phonetic": "",
+    "meaning": "狭窄的",
+    "example": ""
+  },
+  {
+    "word": "lane",
+    "phonetic": "",
+    "meaning": "……巷（常用于路名中）",
+    "example": ""
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "",
+    "meaning": "可能，大概，也许",
+    "example": ""
+  },
+  {
+    "word": "argue",
+    "phonetic": "",
+    "meaning": "争论，争吵",
+    "example": ""
+  },
+  {
+    "word": "divide",
+    "phonetic": "",
+    "meaning": "（把……）分开",
+    "example": ""
+  },
+  {
+    "word": "dividing line",
+    "phonetic": "",
+    "meaning": "分界线，界限",
+    "example": ""
+  },
+  {
+    "word": "agreement",
+    "phonetic": "",
+    "meaning": "（意见的）一致，相合",
+    "example": ""
+  },
+  {
+    "word": "relative",
+    "phonetic": "",
+    "meaning": "家人；亲戚",
+    "example": ""
+  },
+  {
+    "word": "poem",
+    "phonetic": "",
+    "meaning": "诗；韵文",
+    "example": ""
+  },
+  {
+    "word": "inside",
+    "phonetic": "",
+    "meaning": "在（容器或其他封闭的空间）里面；往里面",
+    "example": ""
+  },
+  {
+    "word": "neighbour",
+    "phonetic": "",
+    "meaning": "邻居，邻人",
+    "example": ""
+  },
+  {
+    "word": "drift",
+    "phonetic": "",
+    "meaning": "随意移动，漂泊；摇摆不定；漫无目的地行动",
+    "example": ""
+  },
+  {
+    "word": "ashamed",
+    "phonetic": "",
+    "meaning": "（因自己所做的事而）羞耻的，内疚的，惭愧的",
+    "example": ""
+  },
+  {
+    "word": "deeply",
+    "phonetic": "",
+    "meaning": "非常，很深地",
+    "example": ""
+  },
+  {
+    "word": "pass",
+    "phonetic": "",
+    "meaning": "过去，流逝",
+    "example": ""
+  },
+  {
+    "word": "whenever",
+    "phonetic": "",
+    "meaning": "每当",
+    "example": ""
+  },
+  {
+    "word": "fair",
+    "phonetic": "",
+    "meaning": "展览会",
+    "example": ""
+  },
+  {
+    "word": "block",
+    "phonetic": "",
+    "meaning": "一块（指木头、石头等有直边的硬物）",
+    "example": ""
+  },
+  {
+    "word": "artificial",
+    "phonetic": "",
+    "meaning": "人造的，人工的",
+    "example": ""
+  },
+  {
+    "word": "hook",
+    "phonetic": "",
+    "meaning": "挂钩，吊钩",
+    "example": ""
+  },
+  {
+    "word": "cost",
+    "phonetic": "",
+    "meaning": "价格为，需支付（某一数量的钱）36",
+    "example": ""
+  },
+  {
+    "word": "lend",
+    "phonetic": "",
+    "meaning": "帮助（某人）做事（尤指需要体力的事）；（给某人）搭把手",
+    "example": ""
+  },
+  {
+    "word": "3-D",
+    "phonetic": "",
+    "meaning": "三维的，立体的(three-dimensional)",
+    "example": ""
+  },
+  {
+    "word": "printer",
+    "phonetic": "",
+    "meaning": "（与计算机连接的）打印机",
+    "example": ""
+  },
+  {
+    "word": "brain",
+    "phonetic": "",
+    "meaning": "脑，大脑",
+    "example": ""
+  },
+  {
+    "word": "signal",
+    "phonetic": "",
+    "meaning": "信号；暗号",
+    "example": ""
+  },
+  {
+    "word": "weigh",
+    "phonetic": "",
+    "meaning": "重，重量是……",
+    "example": ""
+  },
+  {
+    "word": "kilogram",
+    "phonetic": "",
+    "meaning": "千克，公斤",
+    "example": ""
+  },
+  {
+    "word": "fix",
+    "phonetic": "",
+    "meaning": "解决（问题）",
+    "example": ""
+  },
+  {
+    "word": "invention",
+    "phonetic": "",
+    "meaning": "发明（物）（如机器、工具、仪器等）",
+    "example": ""
+  },
+  {
+    "word": "download",
+    "phonetic": "",
+    "meaning": "下载（信息或程序）37",
+    "example": ""
+  },
+  {
+    "word": "apply",
+    "phonetic": "",
+    "meaning": "应用，运用",
+    "example": ""
+  },
+  {
+    "word": "smart",
+    "phonetic": "",
+    "meaning": "智能的",
+    "example": ""
+  },
+  {
+    "word": "machine",
+    "phonetic": "",
+    "meaning": "机器",
+    "example": ""
+  },
+  {
+    "word": "warn",
+    "phonetic": "",
+    "meaning": "警告，告诫；提醒",
+    "example": ""
+  },
+  {
+    "word": "congratulation",
+    "phonetic": "",
+    "meaning": "恭喜，祝贺",
+    "example": ""
+  },
+  {
+    "word": "advertisement",
+    "phonetic": "",
+    "meaning": "广告；启事",
+    "example": ""
+  },
+  {
+    "word": "everyday",
+    "phonetic": "",
+    "meaning": "日常的；平常的；每天的",
+    "example": ""
+  },
+  {
+    "word": "trouble",
+    "phonetic": "",
+    "meaning": "使忧虑，使苦恼",
+    "example": ""
+  },
+  {
+    "word": "imaginative",
+    "phonetic": "",
+    "meaning": "富有想象力的；创新的",
+    "example": ""
+  },
+  {
+    "word": "completely",
+    "phonetic": "",
+    "meaning": "完全地",
+    "example": ""
+  },
+  {
+    "word": "penicillin",
+    "phonetic": "",
+    "meaning": "青霉素，盘尼西林",
+    "example": ""
+  },
+  {
+    "word": "unexpected",
+    "phonetic": "",
+    "meaning": "想不到的",
+    "example": ""
+  },
+  {
+    "word": "ticket",
+    "phonetic": "",
+    "meaning": "票，入场券",
+    "example": ""
+  },
+  {
+    "word": "quality",
+    "phonetic": "",
+    "meaning": "品性",
+    "example": ""
+  },
+  {
+    "word": "widely",
+    "phonetic": "",
+    "meaning": "广泛地",
+    "example": ""
+  },
+  {
+    "word": "glue",
+    "phonetic": "",
+    "meaning": "胶，胶水",
+    "example": ""
+  },
+  {
+    "word": "perfect",
+    "phonetic": "",
+    "meaning": "完美的",
+    "example": ""
+  },
+  {
+    "word": "freeze",
+    "phonetic": "",
+    "meaning": "（使）结冰、（使）冻结",
+    "example": ""
+  },
+  {
+    "word": "ice lolly",
+    "phonetic": "",
+    "meaning": "冰棍，冰棒",
+    "example": ""
+  },
+  {
+    "word": "address",
+    "phonetic": "",
+    "meaning": "对……发表演说",
+    "example": ""
+  },
+  {
+    "word": "curiosity",
+    "phonetic": "",
+    "meaning": "好奇心",
+    "example": ""
+  },
+  {
+    "word": "talent",
+    "phonetic": "",
+    "meaning": "天资，天赋，才能",
+    "example": ""
+  },
+  {
+    "word": "passionately",
+    "phonetic": "",
+    "meaning": "热情地，热烈地44",
+    "example": ""
+  },
+  {
+    "word": "electricity",
+    "phonetic": "",
+    "meaning": "电",
+    "example": ""
+  },
+  {
+    "word": "experiment",
+    "phonetic": "",
+    "meaning": "（科学）实验",
+    "example": ""
+  },
+  {
+    "word": "lightning",
+    "phonetic": "",
+    "meaning": "闪电",
+    "example": ""
+  },
+  {
+    "word": "rod",
+    "phonetic": "",
+    "meaning": "杆；竿；棒",
+    "example": ""
+  },
+  {
+    "word": "lightning rod",
+    "phonetic": "",
+    "meaning": "避雷针",
+    "example": ""
+  },
+  {
+    "word": "pioneer",
+    "phonetic": "",
+    "meaning": "先驱，先锋，创始人",
+    "example": ""
+  },
+  {
+    "word": "exploration",
+    "phonetic": "",
+    "meaning": "探索；探险；勘探；勘查",
+    "example": ""
+  },
+  {
+    "word": "test",
+    "phonetic": "",
+    "meaning": "验证；检验",
+    "example": ""
+  },
+  {
+    "word": "despite",
+    "phonetic": "",
+    "meaning": "尽管，虽然，任凭",
+    "example": ""
+  },
+  {
+    "word": "failure",
+    "phonetic": "",
+    "meaning": "失败",
+    "example": ""
+  },
+  {
+    "word": "risk",
+    "phonetic": "",
+    "meaning": "冒险举动",
+    "example": ""
+  },
+  {
+    "word": "detector",
+    "phonetic": "",
+    "meaning": "探测器，检测器",
+    "example": ""
+  },
+  {
+    "word": "keyhole",
+    "phonetic": "",
+    "meaning": "锁眼，钥匙孔",
+    "example": ""
+  },
+  {
+    "word": "forever",
+    "phonetic": "",
+    "meaning": "永远",
+    "example": ""
+  },
+  {
+    "word": "smartphone",
+    "phonetic": "",
+    "meaning": "智能手机",
+    "example": ""
+  },
+  {
+    "word": "code",
+    "phonetic": "",
+    "meaning": "编码，编号，标记",
+    "example": ""
+  },
+  {
+    "word": "wallet",
+    "phonetic": "",
+    "meaning": "（装钞票等的）钱包，皮夹子53",
+    "example": ""
+  },
+  {
+    "word": "payment",
+    "phonetic": "",
+    "meaning": "支付，付款",
+    "example": ""
+  },
+  {
+    "word": "system",
+    "phonetic": "",
+    "meaning": "系统",
+    "example": ""
+  },
+  {
+    "word": "cash",
+    "phonetic": "",
+    "meaning": "现款，现金",
+    "example": ""
+  },
+  {
+    "word": "app",
+    "phonetic": "",
+    "meaning": "应用程序，应用软件",
+    "example": ""
+  },
+  {
+    "word": "delivery",
+    "phonetic": "",
+    "meaning": "递送，交付；递送的物品",
+    "example": ""
+  },
+  {
+    "word": "except",
+    "phonetic": "",
+    "meaning": "除······之外",
+    "example": ""
+  },
+  {
+    "word": "convenient",
+    "phonetic": "",
+    "meaning": "方便的，便利的；合宜的",
+    "example": ""
+  },
+  {
+    "word": "development",
+    "phonetic": "",
+    "meaning": "进步，发展",
+    "example": ""
+  },
+  {
+    "word": "mobile",
+    "phonetic": "",
+    "meaning": "非固定的，移动式的",
+    "example": ""
+  },
+  {
+    "word": "anywhere",
+    "phonetic": "",
+    "meaning": "任何地方，无论何处，随便哪里",
+    "example": ""
+  },
+  {
+    "word": "via",
+    "phonetic": "",
+    "meaning": "通过",
+    "example": ""
+  },
+  {
+    "word": "progress",
+    "phonetic": "",
+    "meaning": "进步，进展",
+    "example": ""
+  },
+  {
+    "word": "offline",
+    "phonetic": "",
+    "meaning": "未联网的，不在线的",
+    "example": ""
+  },
+  {
+    "word": "simply",
+    "phonetic": "",
+    "meaning": "只是，仅仅",
+    "example": ""
+  },
+  {
+    "word": "advantage",
+    "phonetic": "",
+    "meaning": "好处，优点",
+    "example": ""
+  },
+  {
+    "word": "era",
+    "phonetic": "",
+    "meaning": "时代，年代",
+    "example": ""
+  },
+  {
+    "word": "native",
+    "phonetic": "",
+    "meaning": "本地人；久居某地的人",
+    "example": ""
+  },
+  {
+    "word": "generation",
+    "phonetic": "",
+    "meaning": "一代（人）",
+    "example": ""
+  },
+  {
+    "word": "attitude",
+    "phonetic": "",
+    "meaning": "看法，态度",
+    "example": ""
+  },
+  {
+    "word": "disagreement",
+    "phonetic": "",
+    "meaning": "意见不合，分歧，争论",
+    "example": ""
+  },
+  {
+    "word": "device",
+    "phonetic": "",
+    "meaning": "设备，仪器",
+    "example": ""
+  },
+  {
+    "word": "bored",
+    "phonetic": "",
+    "meaning": "厌烦的，不感兴趣的",
+    "example": ""
+  },
+  {
+    "word": "campfire",
+    "phonetic": "",
+    "meaning": "营火，篝火",
+    "example": ""
+  },
+  {
+    "word": "wisely",
+    "phonetic": "",
+    "meaning": "明智地",
+    "example": ""
+  },
+  {
+    "word": "function",
+    "phonetic": "",
+    "meaning": "功能，作用",
+    "example": ""
+  },
+  {
+    "word": "disadvantage",
+    "phonetic": "",
+    "meaning": "缺点",
+    "example": ""
+  },
+  {
+    "word": "throw",
+    "phonetic": "",
+    "meaning": "投，扔，抛，掷",
+    "example": ""
+  },
+  {
+    "word": "anyone",
+    "phonetic": "",
+    "meaning": "有人，任何人",
+    "example": ""
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "",
+    "meaning": "卧室",
+    "example": ""
+  },
+  {
+    "word": "neighbourhood",
+    "phonetic": "",
+    "meaning": "社区，住宅小区；四邻，街坊",
+    "example": ""
+  },
+  {
+    "word": "opposite",
+    "phonetic": "",
+    "meaning": "在······的对面",
+    "example": ""
+  },
+  {
+    "word": "packet",
+    "phonetic": "",
+    "meaning": "（装商品的）小包，小盒，小袋",
+    "example": ""
+  },
+  {
+    "word": "picnic",
+    "phonetic": "",
+    "meaning": "野餐",
+    "example": ""
+  },
+  {
+    "word": "smelly",
+    "phonetic": "",
+    "meaning": "有臭味的",
+    "example": ""
+  },
+  {
+    "word": "noise",
+    "phonetic": "",
+    "meaning": "噪声；嘈杂声",
+    "example": ""
+  },
+  {
+    "word": "reduce",
+    "phonetic": "",
+    "meaning": "缩小；减少；降低",
+    "example": ""
+  },
+  {
+    "word": "seat",
+    "phonetic": "",
+    "meaning": "座，座位",
+    "example": ""
+  },
+  {
+    "word": "passenger",
+    "phonetic": "",
+    "meaning": "（车辆、飞机、船舶等的）乘客，旅客",
+    "example": ""
+  },
+  {
+    "word": "fool",
+    "phonetic": "",
+    "meaning": "蠢人，傻子，笨蛋",
+    "example": ""
+  },
+  {
+    "word": "sign",
+    "phonetic": "",
+    "meaning": "标记；指示牌，标牌",
+    "example": ""
+  },
+  {
+    "word": "responsibility",
+    "phonetic": "",
+    "meaning": "责任",
+    "example": ""
+  },
+  {
+    "word": "belt",
+    "phonetic": "",
+    "meaning": "腰带，皮带",
+    "example": ""
+  },
+  {
+    "word": "seat belt",
+    "phonetic": "",
+    "meaning": "汽车或飞机上的）安全带",
+    "example": ""
+  },
+  {
+    "word": "station",
+    "phonetic": "",
+    "meaning": "车站",
+    "example": ""
+  },
+  {
+    "word": "flowerpot",
+    "phonetic": "",
+    "meaning": "花盆",
+    "example": ""
+  },
+  {
+    "word": "honesty",
+    "phonetic": "",
+    "meaning": "诚实，正直；坦诚",
+    "example": ""
+  },
+  {
+    "word": "respect",
+    "phonetic": "",
+    "meaning": "尊重",
+    "example": ""
+  },
+  {
+    "word": "spread",
+    "phonetic": "",
+    "meaning": "传播",
+    "example": ""
+  },
+  {
+    "word": "society",
+    "phonetic": "",
+    "meaning": "社会",
+    "example": ""
+  },
+  {
+    "word": "clear",
+    "phonetic": "",
+    "meaning": "清楚的，明确的",
+    "example": ""
+  },
+  {
+    "word": "flag",
+    "phonetic": "",
+    "meaning": "旗，旗帜",
+    "example": ""
+  },
+  {
+    "word": "slide",
+    "phonetic": "",
+    "meaning": "（使）滑行，（使）滑动",
+    "example": ""
+  },
+  {
+    "word": "case",
+    "phonetic": "",
+    "meaning": "事例",
+    "example": ""
+  },
+  {
+    "word": "urgent",
+    "phonetic": "",
+    "meaning": "紧急的，急迫的",
+    "example": ""
+  },
+  {
+    "word": "guest",
+    "phonetic": "",
+    "meaning": "嘉宾，宾客",
+    "example": ""
+  },
+  {
+    "word": "experienced",
+    "phonetic": "",
+    "meaning": "经验丰富的，有经验的",
+    "example": ""
+  },
+  {
+    "word": "lawyer",
+    "phonetic": "",
+    "meaning": "律师",
+    "example": ""
+  },
+  {
+    "word": "whether",
+    "phonetic": "",
+    "meaning": "是否",
+    "example": ""
+  },
+  {
+    "word": "argument",
+    "phonetic": "",
+    "meaning": "论点，论据",
+    "example": ""
+  },
+  {
+    "word": "netizen",
+    "phonetic": "",
+    "meaning": "网民",
+    "example": ""
+  },
+  {
+    "word": "citizen",
+    "phonetic": "",
+    "meaning": "市民，城镇居民；公民",
+    "example": ""
+  },
+  {
+    "word": "click",
+    "phonetic": "",
+    "meaning": "点击（鼠标）",
+    "example": ""
+  },
+  {
+    "word": "private",
+    "phonetic": "",
+    "meaning": "（感情、消息或意见）个人的，秘密的",
+    "example": ""
+  },
+  {
+    "word": "password",
+    "phonetic": "",
+    "meaning": "（使用计算机系统或程序所用的）密码",
+    "example": ""
+  },
+  {
+    "word": "careless",
+    "phonetic": "",
+    "meaning": "不小心的，粗心的，疏忽的",
+    "example": ""
+  },
+  {
+    "word": "aware",
+    "phonetic": "",
+    "meaning": "意识到的，明白的，知道的77",
+    "example": ""
+  },
+  {
+    "word": "stranger",
+    "phonetic": "",
+    "meaning": "陌生人",
+    "example": ""
+  },
+  {
+    "word": "cheat",
+    "phonetic": "",
+    "meaning": "欺诈，欺骗",
+    "example": ""
+  },
+  {
+    "word": "enemy",
+    "phonetic": "",
+    "meaning": "敌人",
+    "example": ""
+  },
+  {
+    "word": "cyberbullying",
+    "phonetic": "",
+    "meaning": "网络欺凌",
+    "example": ""
+  },
+  {
+    "word": "lost",
+    "phonetic": "",
+    "meaning": "丢失的，遗失的",
+    "example": ""
+  },
+  {
+    "word": "scared",
+    "phonetic": "",
+    "meaning": "害怕的，恐惧的",
+    "example": ""
+  },
+  {
+    "word": "shut",
+    "phonetic": "",
+    "meaning": "（使）关（合）上，（使）关闭",
+    "example": ""
+  },
+  {
+    "word": "coach",
+    "phonetic": "",
+    "meaning": "公共马车，四轮大马车",
+    "example": ""
+  },
+  {
+    "word": "shocking",
+    "phonetic": "",
+    "meaning": "惊人的，骇人的，令人难以置信的",
+    "example": ""
+  },
+  {
+    "word": "straight",
+    "phonetic": "",
+    "meaning": "笔直地，成直线地",
+    "example": ""
+  },
+  {
+    "word": "flood",
+    "phonetic": "",
+    "meaning": "洪水，水灾",
+    "example": ""
+  },
+  {
+    "word": "thick",
+    "phonetic": "",
+    "meaning": "浓密的；混浊的",
+    "example": ""
+  },
+  {
+    "word": "smoke",
+    "phonetic": "",
+    "meaning": "（燃烧产生的）烟",
+    "example": ""
+  },
+  {
+    "word": "ash",
+    "phonetic": "",
+    "meaning": "灰，灰烬",
+    "example": ""
+  },
+  {
+    "word": "shower",
+    "phonetic": "",
+    "meaning": "一大批，一阵（在空中洒落或出现的小而轻的东西）",
+    "example": ""
+  },
+  {
+    "word": "erupt",
+    "phonetic": "",
+    "meaning": "（火山）爆发，喷发",
+    "example": ""
+  },
+  {
+    "word": "volcano",
+    "phonetic": "",
+    "meaning": "火山",
+    "example": ""
+  },
+  {
+    "word": "historical",
+    "phonetic": "",
+    "meaning": "（有关）历史的",
+    "example": ""
+  },
+  {
+    "word": "hurricane",
+    "phonetic": "",
+    "meaning": "飓风",
+    "example": ""
+  },
+  {
+    "word": "airline",
+    "phonetic": "",
+    "meaning": "航空公司",
+    "example": ""
+  },
+  {
+    "word": "rainstorm",
+    "phonetic": "",
+    "meaning": "暴风雨",
+    "example": ""
+  },
+  {
+    "word": "service",
+    "phonetic": "",
+    "meaning": "服务",
+    "example": ""
+  },
+  {
+    "word": "motherland",
+    "phonetic": "",
+    "meaning": "祖国",
+    "example": ""
+  },
+  {
+    "word": "orchestra",
+    "phonetic": "",
+    "meaning": "（大型的）管弦乐",
+    "example": ""
+  },
+  {
+    "word": "warning",
+    "phonetic": "",
+    "meaning": "警告，警示)",
+    "example": ""
+  },
+  {
+    "word": "community",
+    "phonetic": "",
+    "meaning": "社区",
+    "example": ""
+  },
+  {
+    "word": "alarm",
+    "phonetic": "",
+    "meaning": "警报器",
+    "example": ""
+  },
+  {
+    "word": "increase",
+    "phonetic": "",
+    "meaning": "增加；增大；提高",
+    "example": ""
+  },
+  {
+    "word": "coast",
+    "phonetic": "",
+    "meaning": "海岸",
+    "example": ""
+  },
+  {
+    "word": "tsunami",
+    "phonetic": "",
+    "meaning": "海啸",
+    "example": ""
+  },
+  {
+    "word": "safety",
+    "phonetic": "",
+    "meaning": "安全",
+    "example": ""
+  },
+  {
+    "word": "net",
+    "phonetic": "",
+    "meaning": "因特网",
+    "example": ""
+  },
+  {
+    "word": "upcoming",
+    "phonetic": "",
+    "meaning": "即将来临的，即将发生的",
+    "example": ""
+  },
+  {
+    "word": "operate",
+    "phonetic": "",
+    "meaning": "使用，操作",
+    "example": ""
+  },
+  {
+    "word": "drawback",
+    "phonetic": "",
+    "meaning": "缺点，毛病",
+    "example": ""
+  },
+  {
+    "word": "life-saving",
+    "phonetic": "",
+    "meaning": "挽救生命的，保命的",
+    "example": ""
+  },
+  {
+    "word": "drone",
+    "phonetic": "",
+    "meaning": "无人遥控飞机",
+    "example": ""
+  },
+  {
+    "word": "iron",
+    "phonetic": "",
+    "meaning": "铁",
+    "example": ""
+  },
+  {
+    "word": "fashion",
+    "phonetic": "",
+    "meaning": "时尚",
+    "example": ""
+  },
+  {
+    "word": "slim",
+    "phonetic": "",
+    "meaning": "苗条的，修长的",
+    "example": ""
+  },
+  {
+    "word": "bleed",
+    "phonetic": "",
+    "meaning": "流血，出血",
+    "example": ""
+  },
+  {
+    "word": "uncomfortable",
+    "phonetic": "",
+    "meaning": "不舒服的",
+    "example": ""
+  },
+  {
+    "word": "shadow",
+    "phonetic": "",
+    "meaning": "坏影响，阴影",
+    "example": ""
+  },
+  {
+    "word": "herself",
+    "phonetic": "",
+    "meaning": "她自己",
+    "example": ""
+  },
+  {
+    "word": "torch",
+    "phonetic": "",
+    "meaning": "火把；火炬",
+    "example": ""
+  },
+  {
+    "word": "university",
+    "phonetic": "",
+    "meaning": "大学",
+    "example": ""
+  },
+  {
+    "word": "heroine",
+    "phonetic": "",
+    "meaning": "女英雄",
+    "example": ""
+  },
+  {
+    "word": "victim",
+    "phonetic": "",
+    "meaning": "（恶劣情况的）受害者；（疾病的）患者",
+    "example": ""
+  },
+  {
+    "word": "spiderman",
+    "phonetic": "",
+    "meaning": "蜘蛛人”(指高空作业人员)",
+    "example": ""
+  },
+  {
+    "word": "wet",
+    "phonetic": "",
+    "meaning": "湿的，潮的，潮湿的",
+    "example": ""
+  },
+  {
+    "word": "drop",
+    "phonetic": "",
+    "meaning": "液体的)滴",
+    "example": ""
+  },
+  {
+    "word": "sweat",
+    "phonetic": "",
+    "meaning": "汗，汗水",
+    "example": ""
+  },
+  {
+    "word": "watermelon",
+    "phonetic": "",
+    "meaning": "西瓜",
+    "example": ""
+  },
+  {
+    "word": "remind",
+    "phonetic": "",
+    "meaning": "使想起(故人或旧事)",
+    "example": ""
+  },
+  {
+    "word": "newborn",
+    "phonetic": "",
+    "meaning": "新生的",
+    "example": ""
+  },
+  {
+    "word": "brush",
+    "phonetic": "",
+    "meaning": "刷子;毛刷",
+    "example": ""
+  },
+  {
+    "word": "speech",
+    "phonetic": "",
+    "meaning": "演说，演讲",
+    "example": ""
+  },
+  {
+    "word": "challenging",
+    "phonetic": "",
+    "meaning": "富于挑战性的;困难而有趣的",
+    "example": ""
+  },
+  {
+    "word": "context",
+    "phonetic": "",
+    "meaning": "上下文，语境",
+    "example": ""
+  },
+  {
+    "word": "company",
+    "phonetic": "",
+    "meaning": "公司",
+    "example": ""
+  },
+  {
+    "word": "interview",
+    "phonetic": "",
+    "meaning": "面试，面谈",
+    "example": ""
+  },
+  {
+    "word": "communication",
+    "phonetic": "",
+    "meaning": "信息,交流;沟通",
+    "example": ""
+  },
+  {
+    "word": "skill",
+    "phonetic": "",
+    "meaning": "技能，技巧，技艺",
+    "example": ""
+  },
+  {
+    "word": "personality",
+    "phonetic": "",
+    "meaning": "个性，性格",
+    "example": ""
+  },
+  {
+    "word": "require",
+    "phonetic": "",
+    "meaning": "需要(某物)",
+    "example": ""
+  },
+  {
+    "word": "organize",
+    "phonetic": "",
+    "meaning": "组织，策划，安排",
+    "example": ""
+  },
+  {
+    "word": "throughout",
+    "phonetic": "",
+    "meaning": "在整个期间,自始至终",
+    "example": ""
+  },
+  {
+    "word": "benefit",
+    "phonetic": "",
+    "meaning": "好处，益处，裨益",
+    "example": ""
+  },
+  {
+    "word": "leadership",
+    "phonetic": "",
+    "meaning": "领导才能，领导素质",
+    "example": ""
+  },
+  {
+    "word": "training",
+    "phonetic": "",
+    "meaning": "训练，培训",
+    "example": ""
+  },
+  {
+    "word": "cashier",
+    "phonetic": "",
+    "meaning": "出纳员",
+    "example": ""
+  },
+  {
+    "word": "necessary",
+    "phonetic": "",
+    "meaning": "必要的，必需的,必不可少的",
+    "example": ""
+  },
+  {
+    "word": "replace",
+    "phonetic": "",
+    "meaning": "以……替换，更换",
+    "example": ""
+  },
+  {
+    "word": "human",
+    "phonetic": "",
+    "meaning": "人的，人类的",
+    "example": ""
+  },
+  {
+    "word": "pilot",
+    "phonetic": "",
+    "meaning": "飞机或飞行器的)驾驶员,飞行员",
+    "example": ""
+  },
+  {
+    "word": "autopilot",
+    "phonetic": "",
+    "meaning": "自动驾驶仪",
+    "example": ""
+  },
+  {
+    "word": "tourism",
+    "phonetic": "",
+    "meaning": "旅游业，观光业",
+    "example": ""
+  },
+  {
+    "word": "surely",
+    "phonetic": "",
+    "meaning": "确实地，无疑地",
+    "example": ""
+  },
+  {
+    "word": "provide",
+    "phonetic": "",
+    "meaning": "提供，供应，供给",
+    "example": ""
+  },
+  {
+    "word": "low",
+    "phonetic": "",
+    "meaning": "数量、水平或价值)少的、低的",
+    "example": ""
+  },
+  {
+    "word": "beyond",
+    "phonetic": "",
+    "meaning": "在更远处;往更远处",
+    "example": ""
+  },
+  {
+    "word": "virtual",
+    "phonetic": "",
+    "meaning": "虚拟的，模拟的",
+    "example": ""
+  },
+  {
+    "word": "reality",
+    "phonetic": "",
+    "meaning": "真实;现实",
+    "example": ""
+  },
+  {
+    "word": "fashionable",
+    "phonetic": "",
+    "meaning": "时髦的,流行的",
+    "example": ""
+  },
+  {
+    "word": "market",
+    "phonetic": "",
+    "meaning": "市场",
+    "example": ""
+  },
+  {
+    "word": "pm",
+    "phonetic": "",
+    "meaning": "下午(用于表示钟点的数字之后)",
+    "example": ""
+  },
+  {
+    "word": "promise",
+    "phonetic": "",
+    "meaning": "许诺，保证，答应；n.保证，承诺，诺言",
+    "example": ""
+  },
+  {
+    "word": "tonight",
+    "phonetic": "",
+    "meaning": "在)今晚",
+    "example": ""
+  },
+  {
+    "word": "interrupt",
+    "phonetic": "",
+    "meaning": "打断(某人的)讲话;中断(某人的)行动;打扰",
+    "example": ""
+  },
+  {
+    "word": "realise",
+    "phonetic": "",
+    "meaning": "知道;明白;认识到;顿悟",
+    "example": ""
+  },
+  {
+    "word": "lamp",
+    "phonetic": "",
+    "meaning": "灯",
+    "example": ""
+  },
+  {
+    "word": "blouse",
+    "phonetic": "",
+    "meaning": "女士宽松短衫，女衬衫",
+    "example": ""
+  },
+  {
+    "word": "pale",
+    "phonetic": "",
+    "meaning": "苍白的",
+    "example": ""
+  },
+  {
+    "word": "attach",
+    "phonetic": "",
+    "meaning": "系;绑;贴",
+    "example": ""
+  },
+  {
+    "word": "wrist",
+    "phonetic": "",
+    "meaning": "手腕",
+    "example": ""
+  },
+  {
+    "word": "policewoman",
+    "phonetic": "",
+    "meaning": "女警察",
+    "example": ""
+  },
+  {
+    "word": "elderly",
+    "phonetic": "",
+    "meaning": "年老的，渐老的(委婉用法)",
+    "example": ""
+  },
+  {
+    "word": "plot",
+    "phonetic": "",
+    "meaning": "情节",
+    "example": ""
+  },
+  {
+    "word": "point",
+    "phonetic": "",
+    "meaning": "要点，重点，中心意思,主要含义",
+    "example": ""
+  },
+  {
+    "word": "lazy",
+    "phonetic": "",
+    "meaning": "懒洋洋度过的",
+    "example": ""
+  },
+  {
+    "word": "sofa",
+    "phonetic": "",
+    "meaning": "长沙发",
+    "example": ""
+  },
+  {
+    "word": "term",
+    "phonetic": "",
+    "meaning": "学期",
+    "example": ""
+  },
+  {
+    "word": "conversation",
+    "phonetic": "",
+    "meaning": "谈话,交谈，会话",
+    "example": ""
+  },
+  {
+    "word": "disagreement",
+    "phonetic": "",
+    "meaning": "意见不和,分歧，争论",
+    "example": ""
+  },
+  {
+    "word": "peer",
+    "phonetic": "",
+    "meaning": "同龄人",
+    "example": ""
+  },
+  {
+    "word": "pressure",
+    "phonetic": "",
+    "meaning": "工作或生活中的)压力",
+    "example": ""
+  },
+  {
+    "word": "disappointed",
+    "phonetic": "",
+    "meaning": "失望的,沮丧的",
+    "example": ""
+  },
+  {
+    "word": "fail",
+    "phonetic": "",
+    "meaning": "失败，未做到",
+    "example": ""
+  },
+  {
+    "word": "heartbreaking",
+    "phonetic": "",
+    "meaning": "使人心碎的",
+    "example": ""
+  },
+  {
+    "word": "skiing",
+    "phonetic": "",
+    "meaning": "滑雪运动",
+    "example": ""
+  },
+  {
+    "word": "completely",
+    "phonetic": "",
+    "meaning": "完全地,全部地，彻底地",
+    "example": ""
+  },
+  {
+    "word": "upon",
+    "phonetic": "",
+    "meaning": "在…上面",
+    "example": ""
+  },
+  {
+    "word": "fall upon",
+    "phonetic": "",
+    "meaning": "落在(某人)身上",
+    "example": ""
+  },
+  {
+    "word": "clearly",
+    "phonetic": "",
+    "meaning": "清楚地，明白地",
+    "example": ""
+  },
+  {
+    "word": "director",
+    "phonetic": "",
+    "meaning": "导演",
+    "example": ""
+  },
+  {
+    "word": "drama",
+    "phonetic": "",
+    "meaning": "戏剧",
+    "example": ""
+  },
+  {
+    "word": "leader",
+    "phonetic": "",
+    "meaning": "领导者",
+    "example": ""
+  },
+  {
+    "word": "role",
+    "phonetic": "",
+    "meaning": "角色",
+    "example": ""
+  },
+  {
+    "word": "freeze",
+    "phonetic": "",
+    "meaning": "突然停止;呆住",
+    "example": ""
+  },
+  {
+    "word": "silence",
+    "phonetic": "",
+    "meaning": "沉默，缄默",
+    "example": ""
+  },
+  {
+    "word": "awful",
+    "phonetic": "",
+    "meaning": "糟糕的，恶劣的;讨厌的",
+    "example": ""
+  },
+  {
+    "word": "advise",
+    "phonetic": "",
+    "meaning": "建议",
+    "example": ""
+  },
+  {
+    "word": "yours",
+    "phonetic": "",
+    "meaning": "你的",
+    "example": ""
+  },
+  {
+    "word": "teamwork",
+    "phonetic": "",
+    "meaning": "合作，协作，配合",
+    "example": ""
+  },
+  {
+    "word": "strength",
+    "phonetic": "",
+    "meaning": "优点，长处，优势",
+    "example": ""
+  },
+  {
+    "word": "weakness",
+    "phonetic": "",
+    "meaning": "弱点，缺点，不足",
+    "example": ""
+  },
+  {
+    "word": "queen",
+    "phonetic": "",
+    "meaning": "女王",
+    "example": ""
+  },
+  {
+    "word": "vote",
+    "phonetic": "",
+    "meaning": "投票，表决",
+    "example": ""
+  },
+  {
+    "word": "meeting",
+    "phonetic": "",
+    "meaning": "会议，集会",
+    "example": ""
+  },
+  {
+    "word": "captain",
+    "phonetic": "",
+    "meaning": "队长，组长",
+    "example": ""
+  },
+  {
+    "word": "camp",
+    "phonetic": "",
+    "meaning": "扎营，宿营，露营",
+    "example": ""
+  },
+  {
+    "word": "go camping",
+    "phonetic": "",
+    "meaning": "尤指到山上或森林里)去露营",
+    "example": ""
+  },
+  {
+    "word": "tape",
+    "phonetic": "",
+    "meaning": "划分地界或捆扎东西等用的)带子，线带",
+    "example": ""
+  },
+  {
+    "word": "voluntary adj",
+    "phonetic": "",
+    "meaning": "志愿的",
+    "example": ""
+  },
+  {
+    "word": "cooperation",
+    "phonetic": "",
+    "meaning": "合作，协作",
+    "example": ""
+  },
+  {
+    "word": "shy",
+    "phonetic": "",
+    "meaning": "羞怯的，腼腆的(尤指在陌生人面前)",
+    "example": ""
+  },
+  {
+    "word": "confidence",
+    "phonetic": "",
+    "meaning": "自信，信心",
+    "example": ""
+  },
+  {
+    "word": "noon",
+    "phonetic": "",
+    "meaning": "正午，中午",
+    "example": ""
+  },
+  {
+    "word": "climber",
+    "phonetic": "",
+    "meaning": "登山者，登山运动员",
+    "example": ""
+  },
+  {
+    "word": "roof",
+    "phonetic": "",
+    "meaning": "顶，顶部",
+    "example": ""
+  },
+  {
+    "word": "the roof of the world",
+    "phonetic": "",
+    "meaning": "世界屋脊",
+    "example": ""
+  },
+  {
+    "word": "thirty-metre-high adj",
+    "phonetic": "",
+    "meaning": "三十米高的",
+    "example": ""
+  },
+  {
+    "word": "ladder",
+    "phonetic": "",
+    "meaning": "梯子",
+    "example": ""
+  },
+  {
+    "word": "teammate",
+    "phonetic": "",
+    "meaning": "队友",
+    "example": ""
+  },
+  {
+    "word": "lower",
+    "phonetic": "",
+    "meaning": "把(某物)移低，降下",
+    "example": ""
+  },
+  {
+    "word": "painful",
+    "phonetic": "",
+    "meaning": "令人痛苦的",
+    "example": ""
+  },
+  {
+    "word": "rope",
+    "phonetic": "",
+    "meaning": "绳，粗绳，绳索，缆",
+    "example": ""
+  },
+  {
+    "word": "effort",
+    "phonetic": "",
+    "meaning": "努力",
+    "example": ""
+  },
+  {
+    "word": "make every effort",
+    "phonetic": "",
+    "meaning": "尽一切努力",
+    "example": ""
+  },
+  {
+    "word": "base",
+    "phonetic": "",
+    "meaning": "基地，根据地，总部，大本营",
+    "example": ""
+  },
+  {
+    "word": "base camp",
+    "phonetic": "",
+    "meaning": "登山)大本营",
+    "example": ""
+  },
+  {
+    "word": "mountaineering",
+    "phonetic": "",
+    "meaning": "登山运动",
+    "example": ""
+  },
+  {
+    "word": "excuse",
+    "phonetic": "",
+    "meaning": "原谅",
+    "example": ""
+  },
+  {
+    "word": "excuse me",
+    "phonetic": "",
+    "meaning": "劳驾(用于礼貌地引起他人注意，尤其是发问时)",
+    "example": ""
+  },
+  {
+    "word": "purple",
+    "phonetic": "",
+    "meaning": "紫色的",
+    "example": ""
+  },
+  {
+    "word": "crayon",
+    "phonetic": "",
+    "meaning": "彩色蜡笔",
+    "example": ""
+  },
+  {
+    "word": "five-year-old",
+    "phonetic": "",
+    "meaning": "五岁的",
+    "example": ""
+  },
+  {
+    "word": "sunshine",
+    "phonetic": "",
+    "meaning": "阳光",
+    "example": ""
+  },
+  {
+    "word": "virus",
+    "phonetic": "",
+    "meaning": "病毒",
+    "example": ""
+  },
+  {
+    "word": "afford",
+    "phonetic": "",
+    "meaning": "买得起，付得起",
+    "example": ""
+  },
+  {
+    "word": "disappointment",
+    "phonetic": "",
+    "meaning": "失望,扫兴，沮丧",
+    "example": ""
+  },
+  {
+    "word": "X-ray",
+    "phonetic": "",
+    "meaning": "光检查",
+    "example": ""
+  },
+  {
+    "word": "treatment",
+    "phonetic": "",
+    "meaning": "治疗，诊治;疗法",
+    "example": ""
+  },
+  {
+    "word": "pocket",
+    "phonetic": "",
+    "meaning": "衣袋，口袋",
+    "example": ""
+  },
+  {
+    "word": "pocket money",
+    "phonetic": "",
+    "meaning": "零花钱",
+    "example": ""
+  },
+  {
+    "word": "illness",
+    "phonetic": "",
+    "meaning": "病，疾病",
+    "example": ""
+  },
+  {
+    "word": "wheelchair",
+    "phonetic": "",
+    "meaning": "轮椅",
+    "example": ""
+  },
+  {
+    "word": "public",
+    "phonetic": "",
+    "meaning": "公众的，大众的",
+    "example": ""
+  },
+  {
+    "word": "go public",
+    "phonetic": "",
+    "meaning": "公开，公之于众",
+    "example": ""
+  },
+  {
+    "word": "mention",
+    "phonetic": "",
+    "meaning": "提到，说起，谈到",
+    "example": ""
+  },
+  {
+    "word": "directly",
+    "phonetic": "",
+    "meaning": "直接地",
+    "example": ""
+  },
+  {
+    "word": "solution",
+    "phonetic": "",
+    "meaning": "解决，解决方法",
+    "example": ""
+  },
+  {
+    "word": "bottle",
+    "phonetic": "",
+    "meaning": "瓶子",
+    "example": ""
+  },
+  {
+    "word": "a bottle of",
+    "phonetic": "",
+    "meaning": "一瓶",
+    "example": ""
+  },
+  {
+    "word": "exam",
+    "phonetic": "",
+    "meaning": "考试",
+    "example": ""
+  },
+  {
+    "word": "dialogue",
+    "phonetic": "",
+    "meaning": "对话，对白",
+    "example": ""
+  },
+  {
+    "word": "flu",
+    "phonetic": "",
+    "meaning": "流行性感冒，流感",
+    "example": ""
+  },
+  {
+    "word": "homeless",
+    "phonetic": "",
+    "meaning": "无家可归的",
+    "example": ""
+  },
+  {
+    "word": "soldier",
+    "phonetic": "",
+    "meaning": "士兵，军人",
+    "example": ""
+  },
+  {
+    "word": "fireman",
+    "phonetic": "",
+    "meaning": "消防队员",
+    "example": ""
+  },
+  {
+    "word": "against",
+    "phonetic": "",
+    "meaning": "反对",
+    "example": ""
+  },
+  {
+    "word": "graduate",
+    "phonetic": "",
+    "meaning": "大学毕业",
+    "example": ""
+  },
+  {
+    "word": "college",
+    "phonetic": "",
+    "meaning": "大学;学院",
+    "example": ""
+  },
+  {
+    "word": "goodwill",
+    "phonetic": "",
+    "meaning": "好意，亲善，友善",
+    "example": ""
+  },
+  {
+    "word": "warmth",
+    "phonetic": "",
+    "meaning": "温暖",
+    "example": ""
+  },
+  {
+    "word": "means",
+    "phonetic": "",
+    "meaning": "手段;方法;工具",
+    "example": ""
+  },
+  {
+    "word": "by no means",
+    "phonetic": "",
+    "meaning": "绝不，一点儿都不",
+    "example": ""
+  },
+  {
+    "word": "lucky",
+    "phonetic": "",
+    "meaning": "运气好的，幸运的",
+    "example": ""
+  },
+  {
+    "word": "dinosaur",
+    "phonetic": "",
+    "meaning": "恐龙",
+    "example": ""
+  },
+  {
+    "word": "feather",
+    "phonetic": "",
+    "meaning": "羽毛，翎",
+    "example": ""
+  },
+  {
+    "word": "feather-covered",
+    "phonetic": "",
+    "meaning": "羽毛覆盖的",
+    "example": ""
+  },
+  {
+    "word": "lizard",
+    "phonetic": "",
+    "meaning": "蜥蜴",
+    "example": ""
+  },
+  {
+    "word": "amber",
+    "phonetic": "",
+    "meaning": "琥珀",
+    "example": ""
+  },
+  {
+    "word": "whether",
+    "phonetic": "",
+    "meaning": "是否(用于表示选择或对某事不确定)",
+    "example": ""
+  },
+  {
+    "word": "species",
+    "phonetic": "",
+    "meaning": "物种",
+    "example": ""
+  },
+  {
+    "word": "unknown",
+    "phonetic": "",
+    "meaning": "不知道的，未知的",
+    "example": ""
+  },
+  {
+    "word": "northern",
+    "phonetic": "",
+    "meaning": "北部的",
+    "example": ""
+  },
+  {
+    "word": "African",
+    "phonetic": "",
+    "meaning": "非洲的，非洲人的",
+    "example": ""
+  },
+  {
+    "word": "belief",
+    "phonetic": "",
+    "meaning": "观点",
+    "example": ""
+  },
+  {
+    "word": "fully",
+    "phonetic": "",
+    "meaning": "完全地;充分地;彻底地",
+    "example": ""
+  },
+  {
+    "word": "unlock",
+    "phonetic": "",
+    "meaning": "解锁",
+    "example": ""
+  },
+  {
+    "word": "unlock the secrets of sth",
+    "phonetic": "",
+    "meaning": "揭开某事的秘密",
+    "example": ""
+  },
+  {
+    "word": "finding",
+    "phonetic": "",
+    "meaning": "发现,(调查、研究等的)结果",
+    "example": ""
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "",
+    "meaning": "报纸",
+    "example": ""
+  },
+  {
+    "word": "writing",
+    "phonetic": "",
+    "meaning": "写作，著书",
+    "example": ""
+  },
+  {
+    "word": "style",
+    "phonetic": "",
+    "meaning": "风格",
+    "example": ""
+  },
+  {
+    "word": "method",
+    "phonetic": "",
+    "meaning": "方法，办法",
+    "example": ""
+  },
+  {
+    "word": "alive",
+    "phonetic": "",
+    "meaning": "变得兴味盎然，生动起来",
+    "example": ""
+  },
+  {
+    "word": "board",
+    "phonetic": "",
+    "meaning": "布告牌，公告牌",
+    "example": ""
+  },
+  {
+    "word": "model",
+    "phonetic": "",
+    "meaning": "模型",
+    "example": ""
+  },
+  {
+    "word": "planet",
+    "phonetic": "",
+    "meaning": "行星",
+    "example": ""
+  },
+  {
+    "word": "true",
+    "phonetic": "",
+    "meaning": "符合事实的，真的，真实的",
+    "example": ""
+  },
+  {
+    "word": "clear",
+    "phonetic": "",
+    "meaning": "清除;清理",
+    "example": ""
+  },
+  {
+    "word": "upload",
+    "phonetic": "",
+    "meaning": "上载，上传",
+    "example": ""
+  },
+  {
+    "word": "whale",
+    "phonetic": "",
+    "meaning": "鲸",
+    "example": ""
+  },
+  {
+    "word": "boiling",
+    "phonetic": "",
+    "meaning": "很热的，滚热的",
+    "example": ""
+  },
+  {
+    "word": "chemical",
+    "phonetic": "",
+    "meaning": "化学物质",
+    "example": ""
+  },
+  {
+    "word": "react",
+    "phonetic": "",
+    "meaning": "起化学反应",
+    "example": ""
+  },
+  {
+    "word": "endless",
+    "phonetic": "",
+    "meaning": "无数的，无限的",
+    "example": ""
+  },
+  {
+    "word": "country",
+    "phonetic": "",
+    "meaning": "国、国家",
+    "example": ""
+  },
+  {
+    "word": "sight",
+    "phonetic": "",
+    "meaning": "视力，视觉",
+    "example": ""
+  },
+  {
+    "word": "anybody",
+    "phonetic": "",
+    "meaning": "任何人",
+    "example": ""
+  },
+  {
+    "word": "magnifier",
+    "phonetic": "",
+    "meaning": "放大镜",
+    "example": ""
+  },
+  {
+    "word": "wealth",
+    "phonetic": "",
+    "meaning": "财富",
+    "example": ""
+  },
+  {
+    "word": "state",
+    "phonetic": "",
+    "meaning": "国家",
+    "example": ""
+  },
+  {
+    "word": "prize",
+    "phonetic": "",
+    "meaning": "奖品，奖赏",
+    "example": ""
+  },
+  {
+    "word": "hardly",
+    "phonetic": "",
+    "meaning": "几乎不",
+    "example": ""
+  },
+  {
+    "word": "belong",
+    "phonetic": "",
+    "meaning": "应在(某处)",
+    "example": ""
+  },
+  {
+    "word": "belong to",
+    "phonetic": "",
+    "meaning": "属于",
+    "example": ""
+  },
+  {
+    "word": "granddaughter",
+    "phonetic": "",
+    "meaning": "孙女;外孙女",
+    "example": ""
+  },
+  {
+    "word": "softly",
+    "phonetic": "",
+    "meaning": "轻柔地，柔和地",
+    "example": ""
+  },
+  {
+    "word": "sweetly",
+    "phonetic": "",
+    "meaning": "悦耳动听地，好听地",
+    "example": ""
+  },
+  {
+    "word": "villager",
+    "phonetic": "",
+    "meaning": "村民",
+    "example": ""
+  },
+  {
+    "word": "wheat",
+    "phonetic": "",
+    "meaning": "小麦",
+    "example": ""
+  },
+  {
+    "word": "childhood",
+    "phonetic": "",
+    "meaning": "童年，儿童时代",
+    "example": ""
+  },
+  {
+    "word": "countryside",
+    "phonetic": "",
+    "meaning": "乡下，农村",
+    "example": ""
+  },
+  {
+    "word": "province",
+    "phonetic": "",
+    "meaning": "省",
+    "example": ""
+  },
+  {
+    "word": "especially",
+    "phonetic": "",
+    "meaning": "尤其",
+    "example": ""
+  },
+  {
+    "word": "wisdom",
+    "phonetic": "",
+    "meaning": "智慧，知识，学问",
+    "example": ""
+  },
+  {
+    "word": "below",
+    "phonetic": "",
+    "meaning": "在的下面",
+    "example": ""
+  },
+  {
+    "word": "arrival",
+    "phonetic": "",
+    "meaning": "到来",
+    "example": ""
+  },
+  {
+    "word": "calendar",
+    "phonetic": "",
+    "meaning": "历法",
+    "example": ""
+  },
+  {
+    "word": "webpage",
+    "phonetic": "",
+    "meaning": "网页",
+    "example": ""
+  },
+  {
+    "word": "energetic",
+    "phonetic": "",
+    "meaning": "精力充沛的;充满活力的",
+    "example": ""
+  },
+  {
+    "word": "safely",
+    "phonetic": "",
+    "meaning": "安全地，无危害地",
+    "example": ""
+  },
+  {
+    "word": "bee-keeping",
+    "phonetic": "",
+    "meaning": "养蜂",
+    "example": ""
+  },
+  {
+    "word": "accord",
+    "phonetic": "",
+    "meaning": "与某事物相符(一致)",
+    "example": ""
+  },
+  {
+    "word": "according to",
+    "phonetic": "",
+    "meaning": "据……所示，按……所说",
+    "example": ""
+  },
+  {
+    "word": "energy",
+    "phonetic": "",
+    "meaning": "能源",
+    "example": ""
+  },
+  {
+    "word": "material",
+    "phonetic": "",
+    "meaning": "材料",
+    "example": ""
+  },
+  {
+    "word": "desert",
+    "phonetic": "",
+    "meaning": "沙漠，荒漠",
+    "example": ""
+  },
+  {
+    "word": "charge",
+    "phonetic": "",
+    "meaning": "使)充电",
+    "example": ""
+  },
+  {
+    "word": "environment",
+    "phonetic": "",
+    "meaning": "生态环境",
+    "example": ""
+  },
+  {
+    "word": "resource",
+    "phonetic": "",
+    "meaning": "资源(指土地、矿产等)",
+    "example": ""
+  },
+  {
+    "word": "natural resources",
+    "phonetic": "",
+    "meaning": "自然资源",
+    "example": ""
+  },
+  {
+    "word": "probably",
+    "phonetic": "",
+    "meaning": "很可能，大概",
+    "example": ""
+  },
+  {
+    "word": "west",
+    "phonetic": "",
+    "meaning": "西部",
+    "example": ""
+  },
+  {
+    "word": "east",
+    "phonetic": "",
+    "meaning": "东部",
+    "example": ""
+  },
+  {
+    "word": "mid-summer",
+    "phonetic": "",
+    "meaning": "仲夏",
+    "example": ""
+  },
+  {
+    "word": "crazy",
+    "phonetic": "",
+    "meaning": "疯狂的",
+    "example": ""
+  },
+  {
+    "word": "rainfall",
+    "phonetic": "",
+    "meaning": "雨量",
+    "example": ""
+  },
+  {
+    "word": "survive",
+    "phonetic": "",
+    "meaning": "活下来;幸存",
+    "example": ""
+  },
+  {
+    "word": "underground",
+    "phonetic": "",
+    "meaning": "地(面)下的",
+    "example": ""
+  },
+  {
+    "word": "canal",
+    "phonetic": "",
+    "meaning": "运河",
+    "example": ""
+  },
+  {
+    "word": "amazingly",
+    "phonetic": "",
+    "meaning": "惊人地;了不起地",
+    "example": ""
+  },
+  {
+    "word": "among",
+    "phonetic": "",
+    "meaning": "在……(人员)中,是……之一",
+    "example": ""
+  },
+  {
+    "word": "shortage",
+    "phonetic": "",
+    "meaning": "短缺，不足，缺乏",
+    "example": ""
+  },
+  {
+    "word": "increase",
+    "phonetic": "",
+    "meaning": "增加、增多;增长",
+    "example": ""
+  },
+  {
+    "word": "Jake",
+    "phonetic": "",
+    "meaning": "杰克",
+    "example": ""
+  },
+  {
+    "word": "Julie",
+    "phonetic": "",
+    "meaning": "朱莉",
+    "example": ""
+  },
+  {
+    "word": "Betty",
+    "phonetic": "",
+    "meaning": "贝蒂",
+    "example": ""
+  },
+  {
+    "word": "Samantha",
+    "phonetic": "",
+    "meaning": "萨曼莎",
+    "example": ""
+  },
+  {
+    "word": "Colin",
+    "phonetic": "",
+    "meaning": "科林",
+    "example": ""
+  },
+  {
+    "word": "Kate",
+    "phonetic": "",
+    "meaning": "凯特",
+    "example": ""
+  },
+  {
+    "word": "Hannah",
+    "phonetic": "",
+    "meaning": "汉纳",
+    "example": ""
+  },
+  {
+    "word": "White",
+    "phonetic": "",
+    "meaning": "怀特",
+    "example": ""
+  },
+  {
+    "word": "Lisa",
+    "phonetic": "",
+    "meaning": "莉萨",
+    "example": ""
+  },
+  {
+    "word": "Snow White",
+    "phonetic": "",
+    "meaning": "白雪公主",
+    "example": ""
+  },
+  {
+    "word": "Simon",
+    "phonetic": "",
+    "meaning": "西蒙",
+    "example": ""
+  },
+  {
+    "word": "Donna",
+    "phonetic": "",
+    "meaning": "唐娜",
+    "example": ""
+  },
+  {
+    "word": "Morgan",
+    "phonetic": "",
+    "meaning": "摩根",
+    "example": ""
+  },
+  {
+    "word": "Amy",
+    "phonetic": "",
+    "meaning": "埃米",
+    "example": ""
+  },
+  {
+    "word": "Leah",
+    "phonetic": "",
+    "meaning": "利娅",
+    "example": ""
+  },
+  {
+    "word": "Andy",
+    "phonetic": "",
+    "meaning": "安迪",
+    "example": ""
+  },
+  {
+    "word": "Brown",
+    "phonetic": "",
+    "meaning": "布朗",
+    "example": ""
+  },
+  {
+    "word": "Daniel",
+    "phonetic": "",
+    "meaning": "丹尼尔",
+    "example": ""
+  },
+  {
+    "word": "Olivia Jones",
+    "phonetic": "",
+    "meaning": "奥利维娅·琼斯",
+    "example": ""
+  },
+  {
+    "word": "Beethoven",
+    "phonetic": "",
+    "meaning": "贝多芬",
+    "example": ""
+  },
+  {
+    "word": "the Second Step",
+    "phonetic": "",
+    "meaning": "珠峰)第二台阶",
+    "example": ""
+  },
+  {
+    "word": "North Ridge",
+    "phonetic": "",
+    "meaning": "北坡",
+    "example": ""
+  },
+  {
+    "word": "Southeast Asia",
+    "phonetic": "",
+    "meaning": "东南亚",
+    "example": ""
+  },
+  {
+    "word": "Northern Europe",
+    "phonetic": "",
+    "meaning": "北欧",
+    "example": ""
+  },
+  {
+    "word": "Africa",
+    "phonetic": "",
+    "meaning": "非洲",
+    "example": ""
+  },
+  {
+    "word": "Amazon Rainforest",
+    "phonetic": "",
+    "meaning": "亚马孙热带雨林",
+    "example": ""
+  },
+  {
+    "word": "New Zealand",
+    "phonetic": "",
+    "meaning": "新西兰",
+    "example": ""
+  },
+  {
+    "word": "the flaming Mountains",
+    "phonetic": "",
+    "meaning": "火焰山",
+    "example": ""
+  },
+  {
+    "word": "Turpan",
+    "phonetic": "",
+    "meaning": "吐鲁番",
+    "example": ""
+  },
+  {
+    "word": "the Xinjiang Uygur Autonomous Region",
+    "phonetic": "",
+    "meaning": "新疆维吾尔自治区",
+    "example": ""
+  },
+  {
+    "word": "the Students' Union",
+    "phonetic": "",
+    "meaning": "学生会",
+    "example": ""
+  },
+  {
+    "word": "VR(virtual reality)",
+    "phonetic": "",
+    "meaning": "虚拟现实",
+    "example": ""
+  },
+  {
+    "word": "Um",
+    "phonetic": "",
+    "meaning": "嗯(说话时表示犹豫)",
+    "example": ""
+  },
+  {
+    "word": "Snow White",
+    "phonetic": "",
+    "meaning": "白雪公主》",
+    "example": ""
+  },
+  {
+    "word": "sci-f",
+    "phonetic": "",
+    "meaning": "科幻小说(science fiction)",
+    "example": ""
+  },
+  {
+    "word": "prof",
+    "phonetic": "",
+    "meaning": "教授(professor)",
+    "example": ""
+  },
+  {
+    "word": "Pluto",
+    "phonetic": "",
+    "meaning": "冥王星",
+    "example": ""
+  },
+  {
+    "word": "the State Natural Science Award",
+    "phonetic": "",
+    "meaning": "国家自然科学奖",
+    "example": ""
+  },
+  {
+    "word": "Pastoral Symphony",
+    "phonetic": "",
+    "meaning": "田园交响曲》",
+    "example": ""
+  },
+  {
+    "word": "Grain in Ear",
+    "phonetic": "",
+    "meaning": "芒种",
+    "example": ""
+  },
+  {
+    "word": "the 24 Solar Terms",
+    "phonetic": "",
+    "meaning": "二十四节气",
+    "example": ""
+  },
+  {
+    "word": "Start of Spring",
+    "phonetic": "",
+    "meaning": "立春",
+    "example": ""
+  },
+  {
+    "word": "Start of Winter",
+    "phonetic": "",
+    "meaning": "立冬",
+    "example": ""
+  },
+  {
+    "word": "Major Snow",
+    "phonetic": "",
+    "meaning": "大雪",
+    "example": ""
+  },
+  {
+    "word": "Minor Heat",
+    "phonetic": "",
+    "meaning": "小暑",
+    "example": ""
+  },
+  {
+    "word": "End of Heat",
+    "phonetic": "",
+    "meaning": "处暑",
+    "example": ""
+  },
+  {
+    "word": "goji berry",
+    "phonetic": "",
+    "meaning": "枸杞",
+    "example": ""
+  },
+  {
+    "word": "Journey to the West",
+    "phonetic": "",
+    "meaning": "西游记》",
+    "example": ""
+  },
+  {
+    "word": "karez",
+    "phonetic": "",
+    "meaning": "坎儿井",
+    "example": ""
+  },
+  {
+    "word": "lady",
+    "phonetic": "",
+    "meaning": "女士，女子",
+    "example": ""
+  },
+  {
+    "word": "gentleman",
+    "phonetic": "",
+    "meaning": "先生",
+    "example": ""
+  },
+  {
+    "word": "puppet",
+    "phonetic": "",
+    "meaning": "牵线）木偶；布袋木偶，手偶",
+    "example": ""
+  },
+  {
+    "word": "performer",
+    "phonetic": "",
+    "meaning": "表演者",
+    "example": ""
+  },
+  {
+    "word": "finger",
+    "phonetic": "",
+    "meaning": "手指",
+    "example": ""
+  },
+  {
+    "word": "teenager",
+    "phonetic": "",
+    "meaning": "青少年",
+    "example": ""
+  },
+  {
+    "word": "old-fashioned",
+    "phonetic": "",
+    "meaning": "老式的，过时的",
+    "example": ""
+  },
+  {
+    "word": "puppetry",
+    "phonetic": "",
+    "meaning": "木偶表演艺术",
+    "example": ""
+  },
+  {
+    "word": "unless",
+    "phonetic": "",
+    "meaning": "除非……",
+    "example": ""
+  },
+  {
+    "word": "performance",
+    "phonetic": "",
+    "meaning": "表演；演出",
+    "example": ""
+  },
+  {
+    "word": "blood",
+    "phonetic": "",
+    "meaning": "血，血液",
+    "example": ""
+  },
+  {
+    "word": "perform",
+    "phonetic": "",
+    "meaning": "表演，演出",
+    "example": ""
+  },
+  {
+    "word": "edge",
+    "phonetic": "",
+    "meaning": "边缘",
+    "example": ""
+  },
+  {
+    "word": "on the edge of one's seat",
+    "phonetic": "",
+    "meaning": "极为激动",
+    "example": ""
+  },
+  {
+    "word": "viewer",
+    "phonetic": "",
+    "meaning": "观看者",
+    "example": ""
+  },
+  {
+    "word": "creativity",
+    "phonetic": "",
+    "meaning": "独创性，创造性，创造力",
+    "example": ""
+  },
+  {
+    "word": "artist",
+    "phonetic": "",
+    "meaning": "艺术家",
+    "example": ""
+  },
+  {
+    "word": "group",
+    "phonetic": "",
+    "meaning": "组，群；团体",
+    "example": ""
+  },
+  {
+    "word": "creator",
+    "phonetic": "",
+    "meaning": "创作者；创造者",
+    "example": ""
+  },
+  {
+    "word": "kill",
+    "phonetic": "",
+    "meaning": "弄死，杀死",
+    "example": ""
+  },
+  {
+    "word": "scarecrow",
+    "phonetic": "",
+    "meaning": "稻草人",
+    "example": ""
+  },
+  {
+    "word": "educator",
+    "phonetic": "",
+    "meaning": "教育家",
+    "example": ""
+  },
+  {
+    "word": "youth",
+    "phonetic": "",
+    "meaning": "青年，年轻人",
+    "example": ""
+  },
+  {
+    "word": "inspire",
+    "phonetic": "",
+    "meaning": "鼓舞，激励",
+    "example": ""
+  },
+  {
+    "word": "lie",
+    "phonetic": "",
+    "meaning": "存在，在于",
+    "example": ""
+  },
+  {
+    "word": "intelligent",
+    "phonetic": "",
+    "meaning": "有智慧的，聪明的，悟性强的",
+    "example": ""
+  },
+  {
+    "word": "wealthy",
+    "phonetic": "",
+    "meaning": "富有的；富裕的",
+    "example": ""
+  },
+  {
+    "word": "independent",
+    "phonetic": "",
+    "meaning": "独立的；自主的",
+    "example": ""
+  },
+  {
+    "word": "burst",
+    "phonetic": "",
+    "meaning": "冲；闯；（使）爆裂",
+    "example": ""
+  },
+  {
+    "word": "hidden",
+    "phonetic": "",
+    "meaning": "隐藏的，隐蔽的",
+    "example": ""
+  },
+  {
+    "word": "scaled",
+    "phonetic": "",
+    "meaning": "有鳞的",
+    "example": ""
+  },
+  {
+    "word": "claw",
+    "phonetic": "",
+    "meaning": "爪",
+    "example": ""
+  },
+  {
+    "word": "wildly",
+    "phonetic": "",
+    "meaning": "激动地",
+    "example": ""
+  },
+  {
+    "word": "roar",
+    "phonetic": "",
+    "meaning": "吼叫，呼啸",
+    "example": ""
+  },
+  {
+    "word": "valley",
+    "phonetic": "",
+    "meaning": "谷；山谷",
+    "example": ""
+  },
+  {
+    "word": "scare",
+    "phonetic": "",
+    "meaning": "使惊恐，吓唬",
+    "example": ""
+  },
+  {
+    "word": "eagle",
+    "phonetic": "",
+    "meaning": "雕",
+    "example": ""
+  },
+  {
+    "word": "wing",
+    "phonetic": "",
+    "meaning": "翅膀，翼",
+    "example": ""
+  },
+  {
+    "word": "dust",
+    "phonetic": "",
+    "meaning": "灰尘，尘埃",
+    "example": ""
+  },
+  {
+    "word": "tender",
+    "phonetic": "",
+    "meaning": "幼嫩的；幼嫩的，易损坏的",
+    "example": ""
+  },
+  {
+    "word": "bud",
+    "phonetic": "",
+    "meaning": "苞，蓓蕾",
+    "example": ""
+  },
+  {
+    "word": "vast",
+    "phonetic": "",
+    "meaning": "广大无边的，极大的",
+    "example": ""
+  },
+  {
+    "word": "grand",
+    "phonetic": "",
+    "meaning": "宏伟的，壮丽的",
+    "example": ""
+  },
+  {
+    "word": "tin",
+    "phonetic": "",
+    "meaning": "罐头；金属盒",
+    "example": ""
+  },
+  {
+    "word": "spare",
+    "phonetic": "",
+    "meaning": "备用的；多余的，闲置的",
+    "example": ""
+  },
+  {
+    "word": "piggy bank",
+    "phonetic": "",
+    "meaning": "储蓄罐",
+    "example": ""
+  },
+  {
+    "word": "size",
+    "phonetic": "",
+    "meaning": "大小，尺寸",
+    "example": ""
+  },
+  {
+    "word": "dreamland",
+    "phonetic": "",
+    "meaning": "梦境，理想世界",
+    "example": ""
+  },
+  {
+    "word": "manage",
+    "phonetic": "",
+    "meaning": "终于做成，设法做到",
+    "example": ""
+  },
+  {
+    "word": "laptop",
+    "phonetic": "",
+    "meaning": "笔记本电脑，便携式电脑",
+    "example": ""
+  },
+  {
+    "word": "budget",
+    "phonetic": "",
+    "meaning": "编制预算",
+    "example": ""
+  },
+  {
+    "word": "exactly",
+    "phonetic": "",
+    "meaning": "正是，一点不错",
+    "example": ""
+  },
+  {
+    "word": "rate",
+    "phonetic": "",
+    "meaning": "对……做评估，评价",
+    "example": ""
+  },
+  {
+    "word": "pleasure",
+    "phonetic": "",
+    "meaning": "愉快，快乐；满足",
+    "example": ""
+  },
+  {
+    "word": "inference",
+    "phonetic": "",
+    "meaning": "推论，推断的结果",
+    "example": ""
+  },
+  {
+    "word": "account",
+    "phonetic": "",
+    "meaning": "账户",
+    "example": ""
+  },
+  {
+    "word": "saving",
+    "phonetic": "",
+    "meaning": "积蓄；存钱",
+    "example": ""
+  },
+  {
+    "word": "habit",
+    "phonetic": "",
+    "meaning": "习惯",
+    "example": ""
+  },
+  {
+    "word": "unlike",
+    "phonetic": "",
+    "meaning": "不像……，和……不同",
+    "example": ""
+  },
+  {
+    "word": "date",
+    "phonetic": "",
+    "meaning": "日期，日子",
+    "example": ""
+  },
+  {
+    "word": "sale",
+    "phonetic": "",
+    "meaning": "出售，销售",
+    "example": ""
+  },
+  {
+    "word": "on sale",
+    "phonetic": "",
+    "meaning": "有售；廉价销售",
+    "example": ""
+  },
+  {
+    "word": "T-shirt",
+    "phonetic": "",
+    "meaning": "恤（衫）",
+    "example": ""
+  },
+  {
+    "word": "quick",
+    "phonetic": "",
+    "meaning": "快的；快速的",
+    "example": ""
+  },
+  {
+    "word": "website",
+    "phonetic": "",
+    "meaning": "网站",
+    "example": ""
+  },
+  {
+    "word": "organiser",
+    "phonetic": "",
+    "meaning": "组织者，安排者",
+    "example": ""
+  },
+  {
+    "word": "dollar",
+    "phonetic": "",
+    "meaning": "美元",
+    "example": ""
+  },
+  {
+    "word": "cent",
+    "phonetic": "",
+    "meaning": "分",
+    "example": ""
+  },
+  {
+    "word": "penny",
+    "phonetic": "",
+    "meaning": "便士（美国、加拿大的）一分钱硬币",
+    "example": ""
+  },
+  {
+    "word": "exception",
+    "phonetic": "",
+    "meaning": "例外，除外",
+    "example": ""
+  },
+  {
+    "word": "couple",
+    "phonetic": "",
+    "meaning": "一对夫妇；一对情侣",
+    "example": ""
+  },
+  {
+    "word": "treasure",
+    "phonetic": "",
+    "meaning": "珍宝，珍品",
+    "example": ""
+  },
+  {
+    "word": "Christmas Eve",
+    "phonetic": "",
+    "meaning": "圣诞前夕，平安夜",
+    "example": ""
+  },
+  {
+    "word": "certainly",
+    "phonetic": "",
+    "meaning": "当然",
+    "example": ""
+  },
+  {
+    "word": "chain",
+    "phonetic": "",
+    "meaning": "链子，链条",
+    "example": ""
+  },
+  {
+    "word": "expensive",
+    "phonetic": "",
+    "meaning": "昂贵的，花钱多的",
+    "example": ""
+  },
+  {
+    "word": "comb",
+    "phonetic": "",
+    "meaning": "梳子；梳状饰物；发插",
+    "example": ""
+  },
+  {
+    "word": "remains",
+    "phonetic": "",
+    "meaning": "遗迹",
+    "example": ""
+  },
+  {
+    "word": "kingdom",
+    "phonetic": "",
+    "meaning": "王国",
+    "example": ""
+  },
+  {
+    "word": "northwest",
+    "phonetic": "",
+    "meaning": "西北，西北方",
+    "example": ""
+  },
+  {
+    "word": "archaeologist",
+    "phonetic": "",
+    "meaning": "考古学家",
+    "example": ""
+  },
+  {
+    "word": "centre",
+    "phonetic": "",
+    "meaning": "中心",
+    "example": ""
+  },
+  {
+    "word": "period",
+    "phonetic": "",
+    "meaning": "时期",
+    "example": ""
+  },
+  {
+    "word": "valuable",
+    "phonetic": "",
+    "meaning": "宝贵的，有价值的",
+    "example": ""
+  },
+  {
+    "word": "imagination",
+    "phonetic": "",
+    "meaning": "想象力",
+    "example": ""
+  },
+  {
+    "word": "amaze",
+    "phonetic": "",
+    "meaning": "使大为惊奇，使惊愕",
+    "example": ""
+  },
+  {
+    "word": "dig into sth",
+    "phonetic": "",
+    "meaning": "探究，探寻",
+    "example": ""
+  },
+  {
+    "word": "luck",
+    "phonetic": "",
+    "meaning": "好运，幸运",
+    "example": ""
+  },
+  {
+    "word": "researcher",
+    "phonetic": "",
+    "meaning": "研究者；调查员",
+    "example": ""
+  },
+  {
+    "word": "detailed",
+    "phonetic": "",
+    "meaning": "详尽的，详细的",
+    "example": ""
+  },
+  {
+    "word": "cartoon",
+    "phonetic": "",
+    "meaning": "卡通（片），动画片",
+    "example": ""
+  },
+  {
+    "word": "tomb",
+    "phonetic": "",
+    "meaning": "坟墓，冢",
+    "example": ""
+  },
+  {
+    "word": "matchbox",
+    "phonetic": "",
+    "meaning": "火柴盒",
+    "example": ""
+  },
+  {
+    "word": "archaeological",
+    "phonetic": "",
+    "meaning": "考古的",
+    "example": ""
+  },
+  {
+    "word": "statue",
+    "phonetic": "",
+    "meaning": "雕像，塑像",
+    "example": ""
+  },
+  {
+    "word": "moai",
+    "phonetic": "",
+    "meaning": "摩埃石像",
+    "example": ""
+  },
+  {
+    "word": "mystery",
+    "phonetic": "",
+    "meaning": "神秘事物，谜",
+    "example": ""
+  },
+  {
+    "word": "possibility",
+    "phonetic": "",
+    "meaning": "可能，可能性",
+    "example": ""
+  },
+  {
+    "word": "pretty",
+    "phonetic": "",
+    "meaning": "漂亮的，好看的",
+    "example": ""
+  },
+  {
+    "word": "besides",
+    "phonetic": "",
+    "meaning": "除……之外",
+    "example": ""
+  },
+  {
+    "word": "multimedia",
+    "phonetic": "",
+    "meaning": "多媒体的",
+    "example": ""
+  },
+  {
+    "word": "version",
+    "phonetic": "",
+    "meaning": "版本",
+    "example": ""
+  },
+  {
+    "word": "palace",
+    "phonetic": "",
+    "meaning": "王宫；宫殿",
+    "example": ""
+  },
+  {
+    "word": "background",
+    "phonetic": "",
+    "meaning": "背景",
+    "example": ""
+  },
+  {
+    "word": "fever",
+    "phonetic": "",
+    "meaning": "狂热，兴奋",
+    "example": ""
+  },
+  {
+    "word": "pride",
+    "phonetic": "",
+    "meaning": "自豪，骄傲",
+    "example": ""
+  },
+  {
+    "word": "bat",
+    "phonetic": "",
+    "meaning": "蝙蝠",
+    "example": ""
+  },
+  {
+    "word": "fridge",
+    "phonetic": "",
+    "meaning": "冰箱，冰柜",
+    "example": ""
+  },
+  {
+    "word": "magnet",
+    "phonetic": "",
+    "meaning": "磁铁",
+    "example": ""
+  },
+  {
+    "word": "central",
+    "phonetic": "",
+    "meaning": "中心的；重要的，主要的",
+    "example": ""
+  },
+  {
+    "word": "fearless",
+    "phonetic": "",
+    "meaning": "无畏的，不怕的",
+    "example": ""
+  },
+  {
+    "word": "bravely",
+    "phonetic": "",
+    "meaning": "勇敢地，无畏地",
+    "example": ""
+  },
+  {
+    "word": "footprint",
+    "phonetic": "",
+    "meaning": "足迹",
+    "example": ""
+  },
+  {
+    "word": "northeast",
+    "phonetic": "",
+    "meaning": "东北，东北方",
+    "example": ""
+  },
+  {
+    "word": "death",
+    "phonetic": "",
+    "meaning": "死，死亡",
+    "example": ""
+  },
+  {
+    "word": "gentle",
+    "phonetic": "",
+    "meaning": "温和的，温柔的",
+    "example": ""
+  },
+  {
+    "word": "fighter",
+    "phonetic": "",
+    "meaning": "斗士，奋斗者",
+    "example": ""
+  },
+  {
+    "word": "pity",
+    "phonetic": "",
+    "meaning": "可惜，遗憾",
+    "example": ""
+  },
+  {
+    "word": "war",
+    "phonetic": "",
+    "meaning": "战争",
+    "example": ""
+  },
+  {
+    "word": "fixed",
+    "phonetic": "",
+    "meaning": "固定的；不变的",
+    "example": ""
+  },
+  {
+    "word": "unchanging",
+    "phonetic": "",
+    "meaning": "不变的，恒定的",
+    "example": ""
+  },
+  {
+    "word": "entry",
+    "phonetic": "",
+    "meaning": "日记的）一则",
+    "example": ""
+  },
+  {
+    "word": "battle",
+    "phonetic": "",
+    "meaning": "战斗，战役",
+    "example": ""
+  },
+  {
+    "word": "temperature",
+    "phonetic": "",
+    "meaning": "温度，气温",
+    "example": ""
+  },
+  {
+    "word": "selfless",
+    "phonetic": "",
+    "meaning": "忘我的，无私的",
+    "example": ""
+  },
+  {
+    "word": "heroic",
+    "phonetic": "",
+    "meaning": "英雄的，英勇的",
+    "example": ""
+  },
+  {
+    "word": "loyal",
+    "phonetic": "",
+    "meaning": "忠贞的，忠实的，忠诚的",
+    "example": ""
+  },
+  {
+    "word": "recommend",
+    "phonetic": "",
+    "meaning": "劝告，建议",
+    "example": ""
+  },
+  {
+    "word": "dreamer",
+    "phonetic": "",
+    "meaning": "做梦的人",
+    "example": ""
+  },
+  {
+    "word": "burning",
+    "phonetic": "",
+    "meaning": "火热的；灼热的",
+    "example": ""
+  },
+  {
+    "word": "countless",
+    "phonetic": "",
+    "meaning": "无数的，数不尽的",
+    "example": ""
+  },
+  {
+    "word": "president",
+    "phonetic": "",
+    "meaning": "国家主席；总统",
+    "example": ""
+  },
+  {
+    "word": "republic",
+    "phonetic": "",
+    "meaning": "共和国",
+    "example": ""
+  },
+  {
+    "word": "productive",
+    "phonetic": "",
+    "meaning": "多产的",
+    "example": ""
+  },
+  {
+    "word": "type",
+    "phonetic": "",
+    "meaning": "类型，种类",
+    "example": ""
+  },
+  {
+    "word": "soil",
+    "phonetic": "",
+    "meaning": "土壤，土地，泥土",
+    "example": ""
+  },
+  {
+    "word": "socialist",
+    "phonetic": "",
+    "meaning": "社会主义的",
+    "example": ""
+  },
+  {
+    "word": "drop",
+    "phonetic": "",
+    "meaning": "降低",
+    "example": ""
+  },
+  {
+    "word": "tourist",
+    "phonetic": "",
+    "meaning": "游客",
+    "example": ""
+  },
+  {
+    "word": "ecosystem",
+    "phonetic": "",
+    "meaning": "生态系统",
+    "example": ""
+  },
+  {
+    "word": "balance",
+    "phonetic": "",
+    "meaning": "使）平稳，（使）保持平衡；平衡",
+    "example": ""
+  },
+  {
+    "word": "smog",
+    "phonetic": "",
+    "meaning": "烟雾",
+    "example": ""
+  },
+  {
+    "word": "admire",
+    "phonetic": "",
+    "meaning": "欣赏，观赏",
+    "example": ""
+  },
+  {
+    "word": "mark",
+    "phonetic": "",
+    "meaning": "痕迹；标记",
+    "example": ""
+  },
+  {
+    "word": "farmland",
+    "phonetic": "",
+    "meaning": "农田，耕地",
+    "example": ""
+  },
+  {
+    "word": "rapid",
+    "phonetic": "",
+    "meaning": "快速的，迅速的",
+    "example": ""
+  },
+  {
+    "word": "till",
+    "phonetic": "",
+    "meaning": "直到",
+    "example": ""
+  },
+  {
+    "word": "cancel",
+    "phonetic": "",
+    "meaning": "取消",
+    "example": ""
+  },
+  {
+    "word": "permit",
+    "phonetic": "",
+    "meaning": "允许；使成为可能",
+    "example": ""
+  },
+  {
+    "word": "organisation",
+    "phonetic": "",
+    "meaning": "组织，团体，机构",
+    "example": ""
+  },
+  {
+    "word": "harm",
+    "phonetic": "",
+    "meaning": "损害；危害；伤害",
+    "example": ""
+  },
+  {
+    "word": "punishment",
+    "phonetic": "",
+    "meaning": "惩罚手段；处罚",
+    "example": ""
+  },
+  {
+    "word": "global",
+    "phonetic": "",
+    "meaning": "全球的，全世界的",
+    "example": ""
+  },
+  {
+    "word": "overfishing",
+    "phonetic": "",
+    "meaning": "过度捕捞",
+    "example": ""
+  },
+  {
+    "word": "greenhouse",
+    "phonetic": "",
+    "meaning": "温室，暖房",
+    "example": ""
+  },
+  {
+    "word": "gas",
+    "phonetic": "",
+    "meaning": "气，气体",
+    "example": ""
+  },
+  {
+    "word": "control",
+    "phonetic": "",
+    "meaning": "控制，限制",
+    "example": ""
+  },
+  {
+    "word": "rubbish",
+    "phonetic": "",
+    "meaning": "垃圾，废弃物",
+    "example": ""
+  },
+  {
+    "word": "cartoonist",
+    "phonetic": "",
+    "meaning": "漫画家；动画家",
+    "example": ""
+  },
+  {
+    "word": "logging",
+    "phonetic": "",
+    "meaning": "伐木",
+    "example": ""
+  },
+  {
+    "word": "alarm",
+    "phonetic": "",
+    "meaning": "警报；警报器",
+    "example": ""
+  },
+  {
+    "word": "foreigner",
+    "phonetic": "",
+    "meaning": "外国人",
+    "example": ""
+  },
+  {
+    "word": "logo",
+    "phonetic": "",
+    "meaning": "标识，标志，徽标",
+    "example": ""
+  },
+  {
+    "word": "endangered",
+    "phonetic": "",
+    "meaning": "濒危的，濒于灭绝的",
+    "example": ""
+  },
+  {
+    "word": "vulnerable",
+    "phonetic": "",
+    "meaning": "脆弱的；易受伤害的",
+    "example": ""
+  },
+  {
+    "word": "worldwide",
+    "phonetic": "",
+    "meaning": "世界各地",
+    "example": ""
+  },
+  {
+    "word": "protection",
+    "phonetic": "",
+    "meaning": "保护",
+    "example": ""
+  },
+  {
+    "word": "environmental",
+    "phonetic": "",
+    "meaning": "自然环境的",
+    "example": ""
+  },
+  {
+    "word": "population",
+    "phonetic": "",
+    "meaning": "人口；动植物的总数",
+    "example": ""
+  },
+  {
+    "word": "undoubtedly",
+    "phonetic": "",
+    "meaning": "毫无疑问地，确定无疑地",
+    "example": ""
+  },
+  {
+    "word": "survival",
+    "phonetic": "",
+    "meaning": "继续生存；幸存",
+    "example": ""
+  },
+  {
+    "word": "cheap",
+    "phonetic": "",
+    "meaning": "便宜的，廉价的",
+    "example": ""
+  },
+  {
+    "word": "toothbrush",
+    "phonetic": "",
+    "meaning": "牙刷",
+    "example": ""
+  },
+  {
+    "word": "glove",
+    "phonetic": "",
+    "meaning": "手套",
+    "example": ""
+  },
+  {
+    "word": "silently",
+    "phonetic": "",
+    "meaning": "默不作声地；无声地",
+    "example": ""
+  },
+  {
+    "word": "former",
+    "phonetic": "",
+    "meaning": "以前的，从前的",
+    "example": ""
+  },
+  {
+    "word": "tie",
+    "phonetic": "",
+    "meaning": "系，扎，拴，捆",
+    "example": ""
+  },
+  {
+    "word": "bin",
+    "phonetic": "",
+    "meaning": "垃圾箱，垃圾桶",
+    "example": ""
+  },
+  {
+    "word": "average",
+    "phonetic": "",
+    "meaning": "平均数",
+    "example": ""
+  },
+  {
+    "word": "on average",
+    "phonetic": "",
+    "meaning": "平均来看",
+    "example": ""
+  },
+  {
+    "word": "tiny",
+    "phonetic": "",
+    "meaning": "极小的",
+    "example": ""
+  },
+  {
+    "word": "nowhere",
+    "phonetic": "",
+    "meaning": "什么地方都不；无处",
+    "example": ""
+  },
+  {
+    "word": "plastic-free",
+    "phonetic": "",
+    "meaning": "无塑料的",
+    "example": ""
+  },
+  {
+    "word": "highlight",
+    "phonetic": "",
+    "meaning": "突出，强调",
+    "example": ""
+  },
+  {
+    "word": "setback",
+    "phonetic": "",
+    "meaning": "阻碍，挫折",
+    "example": ""
+  },
+  {
+    "word": "formation",
+    "phonetic": "",
+    "meaning": "构成，组成",
+    "example": ""
+  },
+  {
+    "word": "pollute",
+    "phonetic": "",
+    "meaning": "污染",
+    "example": ""
+  },
+  {
+    "word": "electronic",
+    "phonetic": "",
+    "meaning": "电子的，用电子操作的；电子器件的",
+    "example": ""
+  },
+  {
+    "word": "fog",
+    "phonetic": "",
+    "meaning": "雾",
+    "example": ""
+  },
+  {
+    "word": "industry",
+    "phonetic": "",
+    "meaning": "工业，制造业",
+    "example": ""
+  },
+  {
+    "word": "capital",
+    "phonetic": "",
+    "meaning": "首都",
+    "example": ""
+  },
+  {
+    "word": "coal",
+    "phonetic": "",
+    "meaning": "煤",
+    "example": ""
+  },
+  {
+    "word": "worst",
+    "phonetic": "",
+    "meaning": "最坏的；最差的",
+    "example": ""
+  },
+  {
+    "word": "location",
+    "phonetic": "",
+    "meaning": "地点，位置",
+    "example": ""
+  },
+  {
+    "word": "negative",
+    "phonetic": "",
+    "meaning": "有害的；不良的",
+    "example": ""
+  },
+  {
+    "word": "furthermore",
+    "phonetic": "",
+    "meaning": "此外；而且；不仅如此",
+    "example": ""
+  },
+  {
+    "word": "recycle",
+    "phonetic": "",
+    "meaning": "再利用，回收利用",
+    "example": ""
+  },
+  {
+    "word": "upgrade",
+    "phonetic": "",
+    "meaning": "升级改造",
+    "example": ""
+  },
+  {
+    "word": "loudly",
+    "phonetic": "",
+    "meaning": "响亮地，大声地",
+    "example": ""
+  },
+  {
+    "word": "village",
+    "phonetic": "",
+    "meaning": "乡村，村庄",
+    "example": ""
+  },
+  {
+    "word": "noisy",
+    "phonetic": "",
+    "meaning": "喧闹的；吵闹的",
+    "example": ""
+  },
+  {
+    "word": "reporter",
+    "phonetic": "",
+    "meaning": "记者",
+    "example": ""
+  },
+  {
+    "word": "depth",
+    "phonetic": "",
+    "meaning": "深，深度",
+    "example": ""
+  },
+  {
+    "word": "weight",
+    "phonetic": "",
+    "meaning": "重物",
+    "example": ""
+  },
+  {
+    "word": "businessman",
+    "phonetic": "",
+    "meaning": "商人；企业家",
+    "example": ""
+  },
+  {
+    "word": "truck",
+    "phonetic": "",
+    "meaning": "货车，卡车",
+    "example": ""
+  },
+  {
+    "word": "industrial",
+    "phonetic": "",
+    "meaning": "工业的",
+    "example": ""
+  },
+  {
+    "word": "litter",
+    "phonetic": "",
+    "meaning": "垃圾，废弃物",
+    "example": ""
+  },
+  {
+    "word": "peace",
+    "phonetic": "",
+    "meaning": "和平；平静，安宁",
+    "example": ""
+  },
+  {
+    "word": "business",
+    "phonetic": "",
+    "meaning": "商业",
+    "example": ""
+  },
+  {
+    "word": "translation",
+    "phonetic": "",
+    "meaning": "翻译，翻译作品，译文",
+    "example": ""
+  },
+  {
+    "word": "praise",
+    "phonetic": "",
+    "meaning": "称赞，赞扬",
+    "example": ""
+  },
+  {
+    "word": "translator",
+    "phonetic": "",
+    "meaning": "翻译（者），译员",
+    "example": ""
+  },
+  {
+    "word": "Japanese",
+    "phonetic": "",
+    "meaning": "日本的",
+    "example": ""
+  },
+  {
+    "word": "force",
+    "phonetic": "",
+    "meaning": "军队",
+    "example": ""
+  },
+  {
+    "word": "air force",
+    "phonetic": "",
+    "meaning": "空军",
+    "example": ""
+  },
+  {
+    "word": "army",
+    "phonetic": "",
+    "meaning": "陆军",
+    "example": ""
+  },
+  {
+    "word": "translate",
+    "phonetic": "",
+    "meaning": "翻译，译",
+    "example": ""
+  },
+  {
+    "word": "borrow",
+    "phonetic": "",
+    "meaning": "借用",
+    "example": ""
+  },
+  {
+    "word": "awaken",
+    "phonetic": "",
+    "meaning": "激发起，唤起",
+    "example": ""
+  },
+  {
+    "word": "classic",
+    "phonetic": "",
+    "meaning": "经典的",
+    "example": ""
+  },
+  {
+    "word": "standard",
+    "phonetic": "",
+    "meaning": "标准的，规范的",
+    "example": ""
+  },
+  {
+    "word": "original",
+    "phonetic": "",
+    "meaning": "原先的",
+    "example": ""
+  },
+  {
+    "word": "language",
+    "phonetic": "",
+    "meaning": "语言，语言文字",
+    "example": ""
+  },
+  {
+    "word": "poet",
+    "phonetic": "",
+    "meaning": "诗人",
+    "example": ""
+  },
+  {
+    "word": "flight",
+    "phonetic": "",
+    "meaning": "飞行，飞翔",
+    "example": ""
+  },
+  {
+    "word": "path",
+    "phonetic": "",
+    "meaning": "小径，小道",
+    "example": ""
+  },
+  {
+    "word": "fisherman",
+    "phonetic": "",
+    "meaning": "钓鱼者",
+    "example": ""
+  },
+  {
+    "word": "afloat",
+    "phonetic": "",
+    "meaning": "漂浮的",
+    "example": ""
+  },
+  {
+    "word": "steal",
+    "phonetic": "",
+    "meaning": "偷，窃取",
+    "example": ""
+  },
+  {
+    "word": "count",
+    "phonetic": "",
+    "meaning": "重要，有价值",
+    "example": ""
+  },
+  {
+    "word": "master",
+    "phonetic": "",
+    "meaning": "大师",
+    "example": ""
+  },
+  {
+    "word": "perfectly",
+    "phonetic": "",
+    "meaning": "完美地",
+    "example": ""
+  },
+  {
+    "word": "lifetime",
+    "phonetic": "",
+    "meaning": "一生，终生",
+    "example": ""
+  },
+  {
+    "word": "characteristic",
+    "phonetic": "",
+    "meaning": "特征，特性",
+    "example": ""
+  },
+  {
+    "word": "daughter",
+    "phonetic": "",
+    "meaning": "女儿",
+    "example": ""
+  },
+  {
+    "word": "prepare",
+    "phonetic": "",
+    "meaning": "（为......）做准备",
+    "example": ""
+  },
+  {
+    "word": "slasher",
+    "phonetic": "",
+    "meaning": "斜杠族，斜杠青年",
+    "example": ""
+  },
+  {
+    "word": "auto-loving",
+    "phonetic": "",
+    "meaning": "热爱汽车的",
+    "example": ""
+  },
+  {
+    "word": "host",
+    "phonetic": "",
+    "meaning": "节目主持人",
+    "example": ""
+  },
+  {
+    "word": "guest",
+    "phonetic": "",
+    "meaning": "嘉宾",
+    "example": ""
+  },
+  {
+    "word": "outstanding",
+    "phonetic": "",
+    "meaning": "优秀的，出色的",
+    "example": ""
+  },
+  {
+    "word": "mechanic",
+    "phonetic": "",
+    "meaning": "技工，机械工，机修工",
+    "example": ""
+  },
+  {
+    "word": "apart",
+    "phonetic": "",
+    "meaning": "成零碎",
+    "example": ""
+  },
+  {
+    "word": "take... apart",
+    "phonetic": "",
+    "meaning": "拆开",
+    "example": ""
+  },
+  {
+    "word": "pardon",
+    "phonetic": "",
+    "meaning": "原谅",
+    "example": ""
+  },
+  {
+    "word": "would rather",
+    "phonetic": "",
+    "meaning": "宁愿，宁可",
+    "example": ""
+  },
+  {
+    "word": "butter",
+    "phonetic": "",
+    "meaning": "黄油",
+    "example": ""
+  },
+  {
+    "word": "trade",
+    "phonetic": "",
+    "meaning": "某一行业",
+    "example": ""
+  },
+  {
+    "word": "part-time",
+    "phonetic": "",
+    "meaning": "（工作）部分时间的，兼职的",
+    "example": ""
+  },
+  {
+    "word": "boss",
+    "phonetic": "",
+    "meaning": "老板，上司",
+    "example": ""
+  },
+  {
+    "word": "repair",
+    "phonetic": "",
+    "meaning": "修理；修补",
+    "example": ""
+  },
+  {
+    "word": "high-tech",
+    "phonetic": "",
+    "meaning": "高科技的",
+    "example": ""
+  },
+  {
+    "word": "be worth (doing) sth",
+    "phonetic": "",
+    "meaning": "值得做某事",
+    "example": ""
+  },
+  {
+    "word": "luckily",
+    "phonetic": "",
+    "meaning": "幸运地，幸好",
+    "example": ""
+  },
+  {
+    "word": "operation",
+    "phonetic": "",
+    "meaning": "运转，运行",
+    "example": ""
+  },
+  {
+    "word": "chief",
+    "phonetic": "",
+    "meaning": "首席的",
+    "example": ""
+  },
+  {
+    "word": "attend",
+    "phonetic": "",
+    "meaning": "参加",
+    "example": ""
+  },
+  {
+    "word": "telescope",
+    "phonetic": "",
+    "meaning": "望远镜",
+    "example": ""
+  },
+  {
+    "word": "radio telescope",
+    "phonetic": "",
+    "meaning": "射电望远镜",
+    "example": ""
+  },
+  {
+    "word": "pack",
+    "phonetic": "",
+    "meaning": "（把......）打包",
+    "example": ""
+  },
+  {
+    "word": "corner",
+    "phonetic": "",
+    "meaning": "角落",
+    "example": ""
+  },
+  {
+    "word": "perfect",
+    "phonetic": "",
+    "meaning": "最佳的，理想的",
+    "example": ""
+  },
+  {
+    "word": "accurate",
+    "phonetic": "",
+    "meaning": "精确的",
+    "example": ""
+  },
+  {
+    "word": "technological",
+    "phonetic": "",
+    "meaning": "技术的；科技的；工艺的",
+    "example": ""
+  },
+  {
+    "word": "single",
+    "phonetic": "",
+    "meaning": "唯一的",
+    "example": ""
+  },
+  {
+    "word": "universe",
+    "phonetic": "",
+    "meaning": "宇宙",
+    "example": ""
+  },
+  {
+    "word": "active",
+    "phonetic": "",
+    "meaning": "主动的",
+    "example": ""
+  },
+  {
+    "word": "active form",
+    "phonetic": "",
+    "meaning": "（动词的）主动式",
+    "example": ""
+  },
+  {
+    "word": "figure",
+    "phonetic": "",
+    "meaning": "人物",
+    "example": ""
+  },
+  {
+    "word": "skilled",
+    "phonetic": "",
+    "meaning": "有技能的，熟练的",
+    "example": ""
+  },
+  {
+    "word": "calculation",
+    "phonetic": "",
+    "meaning": "计算",
+    "example": ""
+  },
+  {
+    "word": "separate",
+    "phonetic": "",
+    "meaning": "（使）分开，（使）隔开",
+    "example": ""
+  },
+  {
+    "word": "co-worker",
+    "phonetic": "",
+    "meaning": "同事，同僚",
+    "example": ""
+  },
+  {
+    "word": "accuracy",
+    "phonetic": "",
+    "meaning": "正确，准确",
+    "example": ""
+  },
+  {
+    "word": "depend on sb",
+    "phonetic": "",
+    "meaning": "依靠，依赖",
+    "example": ""
+  },
+  {
+    "word": "publish",
+    "phonetic": "",
+    "meaning": "出版",
+    "example": ""
+  },
+  {
+    "word": "similarly",
+    "phonetic": "",
+    "meaning": "相似地，相像地",
+    "example": ""
+  },
+  {
+    "word": "talented",
+    "phonetic": "",
+    "meaning": "有天赋的，有才能的",
+    "example": ""
+  },
+  {
+    "word": "gun",
+    "phonetic": "",
+    "meaning": "枪",
+    "example": ""
+  },
+  {
+    "word": "shot",
+    "phonetic": "",
+    "meaning": "开枪",
+    "example": ""
+  },
+  {
+    "word": "bang",
+    "phonetic": "",
+    "meaning": "砰",
+    "example": ""
+  },
+  {
+    "word": "shoot",
+    "phonetic": "",
+    "meaning": "开（枪）；射击",
+    "example": ""
+  },
+  {
+    "word": "aim",
+    "phonetic": "",
+    "meaning": "力求达到",
+    "example": ""
+  },
+  {
+    "word": "champion",
+    "phonetic": "",
+    "meaning": "冠军，第一名",
+    "example": ""
+  },
+  {
+    "word": "repeat",
+    "phonetic": "",
+    "meaning": "重复",
+    "example": ""
+  },
+  {
+    "word": "history repeats itself",
+    "phonetic": "",
+    "meaning": "历史重演",
+    "example": ""
+  },
+  {
+    "word": "wife",
+    "phonetic": "",
+    "meaning": "妻子",
+    "example": ""
+  },
+  {
+    "word": "unlucky",
+    "phonetic": "",
+    "meaning": "不幸的",
+    "example": ""
+  },
+  {
+    "word": "winner",
+    "phonetic": "",
+    "meaning": "获胜者",
+    "example": ""
+  },
+  {
+    "word": "equally",
+    "phonetic": "",
+    "meaning": "相等地，相同地",
+    "example": ""
+  },
+  {
+    "word": "possibly",
+    "phonetic": "",
+    "meaning": "可能，也许，或许",
+    "example": ""
+  },
+  {
+    "word": "guard",
+    "phonetic": "",
+    "meaning": "保卫，守卫",
+    "example": ""
+  },
+  {
+    "word": "partner",
+    "phonetic": "",
+    "meaning": "搭档，同伴",
+    "example": ""
+  },
+  {
+    "word": "crane",
+    "phonetic": "",
+    "meaning": "鹤",
+    "example": ""
+  },
+  {
+    "word": "creation",
+    "phonetic": "",
+    "meaning": "创造物；作品",
+    "example": ""
+  },
+  {
+    "word": "chalk",
+    "phonetic": "",
+    "meaning": "粉笔",
+    "example": ""
+  },
+  {
+    "word": "disadvantage",
+    "phonetic": "",
+    "meaning": "缺点，劣势",
+    "example": ""
+  },
+  {
+    "word": "sculpture",
+    "phonetic": "",
+    "meaning": "雕像，雕刻品",
+    "example": ""
+  },
+  {
+    "word": "flip-flops",
+    "phonetic": "",
+    "meaning": "人字拖鞋",
+    "example": ""
+  },
+  {
+    "word": "garbage",
+    "phonetic": "",
+    "meaning": "垃圾",
+    "example": ""
+  },
+  {
+    "word": "musician",
+    "phonetic": "",
+    "meaning": "音乐家",
+    "example": ""
+  },
+  {
+    "word": "violin",
+    "phonetic": "",
+    "meaning": "小提琴",
+    "example": ""
+  },
+  {
+    "word": "drum",
+    "phonetic": "",
+    "meaning": "鼓",
+    "example": ""
+  },
+  {
+    "word": "fork",
+    "phonetic": "",
+    "meaning": "餐叉，叉子",
+    "example": ""
+  },
+  {
+    "word": "spoon",
+    "phonetic": "",
+    "meaning": "勺",
+    "example": ""
+  },
+  {
+    "word": "hairbrush",
+    "phonetic": "",
+    "meaning": "发梳，发刷",
+    "example": ""
+  },
+  {
+    "word": "classical",
+    "phonetic": "",
+    "meaning": "经典的；古典的",
+    "example": ""
+  },
+  {
+    "word": "pour",
+    "phonetic": "",
+    "meaning": "倾泻，大量涌出",
+    "example": ""
+  },
+  {
+    "word": "ton",
+    "phonetic": "",
+    "meaning": "英吨（合1,016千克）",
+    "example": ""
+  },
+  {
+    "word": "hopeless",
+    "phonetic": "",
+    "meaning": "没有希望（好转）的",
+    "example": ""
+  },
+  {
+    "word": "concert",
+    "phonetic": "",
+    "meaning": "音乐会",
+    "example": ""
+  },
+  {
+    "word": "confuse",
+    "phonetic": "",
+    "meaning": "使困惑",
+    "example": ""
+  },
+  {
+    "word": "spelling",
+    "phonetic": "",
+    "meaning": "（单词的）拼（写）法",
+    "example": ""
+  },
+  {
+    "word": "French fry",
+    "phonetic": "",
+    "meaning": "炸马铃薯条",
+    "example": ""
+  },
+  {
+    "word": "movie",
+    "phonetic": "",
+    "meaning": "电影",
+    "example": ""
+  },
+  {
+    "word": "apartment",
+    "phonetic": "",
+    "meaning": "一套住房，公寓套房",
+    "example": ""
+  },
+  {
+    "word": "mall",
+    "phonetic": "",
+    "meaning": "购物中心",
+    "example": ""
+  },
+  {
+    "word": "confusing",
+    "phonetic": "",
+    "meaning": "令人困惑的",
+    "example": ""
+  },
+  {
+    "word": "misunderstand",
+    "phonetic": "",
+    "meaning": "误解，误会",
+    "example": ""
+  },
+  {
+    "word": "trainer",
+    "phonetic": "",
+    "meaning": "教练（员）；运动鞋",
+    "example": ""
+  },
+  {
+    "word": "pronunciation",
+    "phonetic": "",
+    "meaning": "发音",
+    "example": ""
+  },
+  {
+    "word": "direct",
+    "phonetic": "",
+    "meaning": "坦率的，直言的",
+    "example": ""
+  },
+  {
+    "word": "straight-talking",
+    "phonetic": "",
+    "meaning": "直言不讳的",
+    "example": ""
+  },
+  {
+    "word": "separately",
+    "phonetic": "",
+    "meaning": "独立地，分开地",
+    "example": ""
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "",
+    "meaning": "词典，字典",
+    "example": ""
+  },
+  {
+    "word": "mostly",
+    "phonetic": "",
+    "meaning": "大部分",
+    "example": ""
+  },
+  {
+    "word": "Australian",
+    "phonetic": "",
+    "meaning": "澳大利亚的",
+    "example": ""
+  },
+  {
+    "word": "g'day",
+    "phonetic": "",
+    "meaning": "你好",
+    "example": ""
+  },
+  {
+    "word": "lekker",
+    "phonetic": "",
+    "meaning": "很棒的",
+    "example": ""
+  },
+  {
+    "word": "tackie",
+    "phonetic": "",
+    "meaning": "橡胶底帆布鞋",
+    "example": ""
+  },
+  {
+    "word": "idiom",
+    "phonetic": "",
+    "meaning": "习语，成语",
+    "example": ""
+  },
+  {
+    "word": "sick",
+    "phonetic": "",
+    "meaning": "生病的，患病的",
+    "example": ""
+  },
+  {
+    "word": "German",
+    "phonetic": "",
+    "meaning": "德国人",
+    "example": ""
+  },
+  {
+    "word": "tongue twister",
+    "phonetic": "",
+    "meaning": "绕口令",
+    "example": ""
+  },
+  {
+    "word": "Danish",
+    "phonetic": "",
+    "meaning": "丹麦的",
+    "example": ""
+  },
+  {
+    "word": "badminton",
+    "phonetic": "",
+    "meaning": "羽毛球运动",
+    "example": ""
+  },
+  {
+    "word": "video",
+    "phonetic": "",
+    "meaning": "录影，录像",
+    "example": ""
+  },
+  {
+    "word": "manner",
+    "phonetic": "",
+    "meaning": "态度；举止",
+    "example": ""
+  },
+  {
+    "word": "internationally",
+    "phonetic": "",
+    "meaning": "国际性地",
+    "example": ""
+  },
+  {
+    "word": "fishy",
+    "phonetic": "",
+    "meaning": "可疑的，靠不住的；鱼的",
+    "example": ""
+  },
+  {
+    "word": "creature",
+    "phonetic": "",
+    "meaning": "非植物生物；动物",
+    "example": ""
+  },
+  {
+    "word": "strange-looking",
+    "phonetic": "",
+    "meaning": "模样奇怪的",
+    "example": ""
+  },
+  {
+    "word": "state",
+    "phonetic": "",
+    "meaning": "陈述，说明",
+    "example": ""
+  },
+  {
+    "word": "jellyfish",
+    "phonetic": "",
+    "meaning": "水母，海蜇",
+    "example": ""
+  },
+  {
+    "word": "parrot",
+    "phonetic": "",
+    "meaning": "鹦鹉",
+    "example": ""
+  },
+  {
+    "word": "mermaid",
+    "phonetic": "",
+    "meaning": "美人鱼",
+    "example": ""
+  },
+  {
+    "word": "fin",
+    "phonetic": "",
+    "meaning": "鱼鳍",
+    "example": ""
+  },
+  {
+    "word": "long-standing",
+    "phonetic": "",
+    "meaning": "长久持续的",
+    "example": ""
+  },
+  {
+    "word": "imaginary",
+    "phonetic": "",
+    "meaning": "想象的，虚构的",
+    "example": ""
+  },
+  {
+    "word": "prepared",
+    "phonetic": "",
+    "meaning": "有准备的，准备好的",
+    "example": ""
+  },
+  {
+    "word": "misunderstanding",
+    "phonetic": "",
+    "meaning": "误解，误会",
+    "example": ""
+  },
+  {
+    "word": "birth",
+    "phonetic": "",
+    "meaning": "出生",
+    "example": ""
+  },
+  {
+    "word": "give birth",
+    "phonetic": "",
+    "meaning": "生孩子",
+    "example": ""
+  },
+  {
+    "word": "turtle",
+    "phonetic": "",
+    "meaning": "海龟",
+    "example": ""
+  },
+  {
+    "word": "chemical",
+    "phonetic": "",
+    "meaning": "化学的",
+    "example": ""
+  },
+  {
+    "word": "clean-up",
+    "phonetic": "",
+    "meaning": "清扫；扫除",
+    "example": ""
+  },
+  {
+    "word": "communicate",
+    "phonetic": "",
+    "meaning": "沟通",
+    "example": ""
+  },
+  {
+    "word": "dive",
+    "phonetic": "",
+    "meaning": "下潜",
+    "example": ""
+  },
+  {
+    "word": "greeting",
+    "phonetic": "",
+    "meaning": "问候，招呼",
+    "example": ""
+  },
+  {
+    "word": "octopus",
+    "phonetic": "",
+    "meaning": "章鱼",
+    "example": ""
+  },
+  {
+    "word": "camera",
+    "phonetic": "",
+    "meaning": "照相机",
+    "example": ""
+  },
+  {
+    "word": "deep-sea",
+    "phonetic": "",
+    "meaning": "深海的",
+    "example": ""
+  },
+  {
+    "word": "vessel",
+    "phonetic": "",
+    "meaning": "船；舰",
+    "example": ""
+  },
+  {
+    "word": "bottom",
+    "phonetic": "",
+    "meaning": "底部",
+    "example": ""
+  },
+  {
+    "word": "seabed",
+    "phonetic": "",
+    "meaning": "海床，海底",
+    "example": ""
+  },
+  {
+    "word": "expectation",
+    "phonetic": "",
+    "meaning": "预料，预期",
+    "example": ""
+  },
+  {
+    "word": "source",
+    "phonetic": "",
+    "meaning": "来源",
+    "example": ""
+  },
+  {
+    "word": "outer space",
+    "phonetic": "",
+    "meaning": "外太空",
+    "example": ""
+  },
+  {
+    "word": "uncover",
+    "phonetic": "",
+    "meaning": "发现",
+    "example": ""
+  },
+  {
+    "word": "never-ending",
+    "phonetic": "",
+    "meaning": "永无休止的",
+    "example": ""
+  },
+  {
+    "word": "footprint",
+    "phonetic": "",
+    "meaning": "脚印，足迹",
+    "example": ""
+  },
+  {
+    "word": "mile",
+    "phonetic": "",
+    "meaning": "英里（约1609米）",
+    "example": ""
+  },
+  {
+    "word": "baseball",
+    "phonetic": "",
+    "meaning": "棒球",
+    "example": ""
+  },
+  {
+    "word": "dirt",
+    "phonetic": "",
+    "meaning": "（泥）土",
+    "example": ""
+  },
+  {
+    "word": "goddess",
+    "phonetic": "",
+    "meaning": "女神",
+    "example": ""
+  },
+  {
+    "word": "rover",
+    "phonetic": "",
+    "meaning": "（地外天体）巡视器，探测车",
+    "example": ""
+  },
+  {
+    "word": "vacation",
+    "phonetic": "",
+    "meaning": "假期",
+    "example": ""
+  },
+  {
+    "word": "parachute",
+    "phonetic": "",
+    "meaning": "降落伞",
+    "example": ""
+  },
+  {
+    "word": "excitement",
+    "phonetic": "",
+    "meaning": "令人兴奋的事",
+    "example": ""
+  },
+  {
+    "word": "gravity",
+    "phonetic": "",
+    "meaning": "重力，引力",
+    "example": ""
+  },
+  {
+    "word": "high",
+    "phonetic": "",
+    "meaning": "高高地",
+    "example": ""
+  },
+  {
+    "word": "skydiving",
+    "phonetic": "",
+    "meaning": "特技跳伞运动，高空跳水式跳伞",
+    "example": ""
+  },
+  {
+    "word": "historic",
+    "phonetic": "",
+    "meaning": "历史上重要的，将载入史册的",
+    "example": ""
+  },
+  {
+    "word": "landmark",
+    "phonetic": "",
+    "meaning": "地标",
+    "example": ""
+  },
+  {
+    "word": "juggle",
+    "phonetic": "",
+    "meaning": "玩杂耍",
+    "example": ""
+  },
+  {
+    "word": "landing",
+    "phonetic": "",
+    "meaning": "着陆；降落",
+    "example": ""
+  },
+  {
+    "word": "comet",
+    "phonetic": "",
+    "meaning": "彗星",
+    "example": ""
+  },
+  {
+    "word": "spacecraft",
+    "phonetic": "",
+    "meaning": "航天器，宇宙飞船",
+    "example": ""
+  },
+  {
+    "word": "qualified",
+    "phonetic": "",
+    "meaning": "具有......的学历（资历）的",
+    "example": ""
+  },
+  {
+    "word": "coin",
+    "phonetic": "",
+    "meaning": "创造（新词或短语）",
+    "example": ""
+  },
+  {
+    "word": "taikonaut",
+    "phonetic": "",
+    "meaning": "（中国的）航天员，宇航员",
+    "example": ""
+  },
+  {
+    "word": "withstand",
+    "phonetic": "",
+    "meaning": "耐受，承受",
+    "example": ""
+  },
+  {
+    "word": "rocket",
+    "phonetic": "",
+    "meaning": "火箭",
+    "example": ""
+  },
+  {
+    "word": "press",
+    "phonetic": "",
+    "meaning": "按，压",
+    "example": ""
+  },
+  {
+    "word": "willingness",
+    "phonetic": "",
+    "meaning": "愿意，乐意",
+    "example": ""
+  },
+  {
+    "word": "hardship",
+    "phonetic": "",
+    "meaning": "艰苦",
+    "example": ""
+  },
+  {
+    "word": "mankind",
+    "phonetic": "",
+    "meaning": "人类",
+    "example": ""
+  },
+  {
+    "word": "proudly",
+    "phonetic": "",
+    "meaning": "自豪地",
+    "example": ""
+  },
+  {
+    "word": "destination",
+    "phonetic": "",
+    "meaning": "目的地，终点",
+    "example": ""
+  }
 ]

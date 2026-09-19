@@ -19,6 +19,9 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private val prefs by lazy { Prefs(this) }
 
+    // 今天到期要复习的单词下标队列
+    private var dueList: List<Int> = emptyList()
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -28,30 +31,51 @@ class MainActivity : AppCompatActivity() {
         requestNotifyPermission()
         ReminderScheduler.schedule(this, prefs.hour, prefs.minute)
 
-        showToday()
+        showDue()
         binding.btnDone.setOnClickListener { markDone() }
         binding.btnSettings.setOnClickListener { openTimePicker() }
     }
 
-    private fun showToday() {
-        val word = WordRepository.todayWord(this)
-        binding.tvWord.text = word.word
-        binding.tvPhonetic.text = word.phonetic ?: ""
-        binding.tvMeaning.text = word.meaning
-        binding.tvExample.text = word.example ?: ""
+    /** 重新计算今天到期的单词并展示第一个。 */
+    private fun showDue() {
+        val words = WordRepository.all(this)
+        dueList = Srs.dueIndices(this, words.size)
 
-        val today = LocalDate.now().toString()
-        val doneToday = prefs.lastCheckIn == today
-        binding.btnDone.isEnabled = !doneToday
-        binding.btnDone.text = if (doneToday) "今天已背 ✓" else "已背 ✓"
+        if (dueList.isEmpty()) {
+            binding.tvWord.text = "今日复习完成 🎉"
+            binding.tvPhonetic.text = ""
+            binding.tvMeaning.text = "今天的单词都复习过啦，明天见。"
+            binding.tvExample.text = ""
+            binding.btnDone.isEnabled = false
+            binding.btnDone.text = "已背 ✓"
+            binding.tvQueue.text = "今天没有待复习的单词"
+        } else {
+            renderCurrent(words)
+        }
 
-        binding.tvStreak.text = "连续 ${prefs.streak} 天 · 累计 ${prefs.total} 词"
+        binding.tvStreak.text = "连续 ${prefs.streak} 天 · 累计复习 ${prefs.total} 次"
         binding.tvDate.text = LocalDate.now().format(DateTimeFormatter.ofPattern("M月d日"))
     }
 
+    private fun renderCurrent(words: List<Word>) {
+        val idx = dueList[0]
+        val w = words[idx]
+        binding.tvWord.text = w.word
+        binding.tvPhonetic.text = w.phonetic ?: ""
+        binding.tvMeaning.text = w.meaning
+        binding.tvExample.text = w.example ?: ""
+        binding.btnDone.isEnabled = true
+        binding.btnDone.text = "已背 ✓"
+        binding.tvQueue.text = "今日待复习 ${dueList.size} 个 · 熟练等级 ${Srs.levelOf(this, idx)}"
+    }
+
     private fun markDone() {
-        prefs.checkIn()
-        showToday()
+        if (dueList.isEmpty()) return
+        val idx = dueList[0]
+        Srs.review(this, idx)   // 升级并推后下次复习
+        prefs.bumpTotal()       // 累计复习次数 +1
+        prefs.checkIn()         // 当天首次复习时更新连续天数
+        showDue()
     }
 
     private fun openTimePicker() {

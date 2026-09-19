@@ -10,9 +10,17 @@ import androidx.core.app.NotificationCompat
 class ReminderReceiver : BroadcastReceiver() {
 
     override fun onReceive(context: Context, intent: Intent) {
-        val word = WordRepository.todayWord(context)
+        val words = WordRepository.all(context)
+        val due = Srs.dueIndices(context, words.size)
         val nm = context.getSystemService(NotificationManager::class.java)
 
+        // 今天没有到期单词就不打扰（说明都复习完了）
+        if (due.isEmpty()) {
+            ReminderScheduler.schedule(context, Prefs(context).hour, Prefs(context).minute)
+            return
+        }
+
+        val first = words[due.first()]
         val open = PendingIntent.getActivity(
             context, 0,
             Intent(context, MainActivity::class.java),
@@ -21,11 +29,11 @@ class ReminderReceiver : BroadcastReceiver() {
 
         val n = NotificationCompat.Builder(context, MainActivity.CHANNEL_ID)
             .setSmallIcon(R.drawable.ic_notify)
-            .setContentTitle("📖 今日单词：${word.word}")
-            .setContentText(word.meaning)
+            .setContentTitle("📖 今日复习（${due.size} 词）：${first.word}")
+            .setContentText(first.meaning)
             .setStyle(
                 NotificationCompat.BigTextStyle()
-                    .bigText("${word.meaning}\n\n${word.example ?: ""}")
+                    .bigText("${first.meaning}\n\n${first.example ?: ""}")
             )
             .setContentIntent(open)
             .setAutoCancel(true)

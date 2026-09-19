@@ -83,7 +83,7 @@ class MainActivity : AppCompatActivity() {
             prefs.hour = h
             prefs.minute = m
             ReminderScheduler.schedule(this, h, m)
-            showToday()
+            showDue()
             android.widget.Toast.makeText(
                 this, "已设为 ${String.format("%02d:%02d", h, m)} 提醒",
                 android.widget.Toast.LENGTH_SHORT

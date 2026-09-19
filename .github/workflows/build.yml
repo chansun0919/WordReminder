@@ -18,11 +18,8 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - name: 安装 Android SDK
-        uses: android-actions/setup-android@v3
-
       - name: 同意 Android SDK 许可协议
-        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses
+        run: yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
 
       - name: 安装 Gradle 8.9 并启用缓存
         uses: gradle/actions/setup-gradle@v4

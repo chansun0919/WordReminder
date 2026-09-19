@@ -23,8 +23,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private val prefs by lazy { Prefs(this) }
 
-    // 今天到期要复习的单词下标队列
-    private var dueList: List<Int> = emptyList()
+    // 今天要背的单词队列：未背过的最多 10 个，按词库顺序从前往后（初一单词在最前）
+    private var queue: List<Int> = emptyList()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -35,33 +35,35 @@ class MainActivity : AppCompatActivity() {
         requestNotifyPermission()
         ReminderScheduler.schedule(this, prefs.hour, prefs.minute)
 
-        showDue()
+        showQueue()
         binding.btnDone.setOnClickListener { markDone() }
         binding.btnSettings.setOnClickListener { openTimePicker() }
+        binding.btnStats.setOnClickListener { startActivity(Intent(this, StatsActivity::class.java)) }
+        binding.btnLearned.setOnClickListener { startActivity(Intent(this, LearnedActivity::class.java)) }
 
         ensureExactAlarmPermission()
     }
 
-    /** 重新计算今天到期的单词并展示第一个。任何异常都兜底，不让界面崩溃。 */
-    private fun showDue() {
+    /** 重新计算今天要背的单词队列（未背过的最多 10 个）并展示第一个。 */
+    private fun showQueue() {
         try {
             val words = WordRepository.all(this)
-            dueList = Srs.dueIndices(this, words.size)
+            queue = buildQueue(words)
 
-        if (dueList.isEmpty()) {
-            binding.tvWord.text = "今日复习完成 🎉"
-            binding.tvPhonetic.text = ""
-            binding.tvMeaning.text = "今天的单词都复习过啦，明天见。"
-            binding.tvExample.text = ""
-            binding.btnDone.isEnabled = false
-            binding.btnDone.text = "已背 ✓"
-            binding.tvQueue.text = "今天没有待复习的单词"
-        } else {
-            renderCurrent(words)
-        }
+            if (queue.isEmpty()) {
+                binding.tvWord.text = "全部背完啦 🎉"
+                binding.tvPhonetic.text = ""
+                binding.tvMeaning.text = "词库里的单词都背过一遍了，可以去「已背单词」复习。"
+                binding.tvExample.text = ""
+                binding.btnDone.isEnabled = false
+                binding.btnDone.text = "已背 ✓"
+                binding.tvQueue.text = "已背 ${prefs.learnedCount()} / ${words.size} 个"
+            } else {
+                renderCurrent(words)
+            }
 
-        binding.tvStreak.text = "连续 ${prefs.streak} 天 · 累计复习 ${prefs.total} 次"
-        binding.tvDate.text = LocalDate.now().format(DateTimeFormatter.ofPattern("M月d日"))
+            binding.tvStreak.text = "连续 ${prefs.streak} 天 · 累计 ${prefs.total} 个 · 今天 ${prefs.todayCount()} 个"
+            binding.tvDate.text = LocalDate.now().format(DateTimeFormatter.ofPattern("M月d日"))
         } catch (t: Throwable) {
             t.printStackTrace()
             binding.tvWord.text = "加载出错"
@@ -73,8 +75,20 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    /** 取未背过的前 10 个（保持词库顺序，从第一个开始 = 初一单词）。 */
+    private fun buildQueue(words: List<Word>): List<Int> {
+        val out = mutableListOf<Int>()
+        for (i in words.indices) {
+            if (!prefs.isLearned(i)) {
+                out.add(i)
+                if (out.size >= 10) break
+            }
+        }
+        return out
+    }
+
     private fun renderCurrent(words: List<Word>) {
-        val idx = dueList[0]
+        val idx = queue[0]
         val w = words[idx]
         binding.tvWord.text = w.word
         binding.tvPhonetic.text = w.phonetic ?: ""
@@ -82,16 +96,20 @@ class MainActivity : AppCompatActivity() {
         binding.tvExample.text = w.example ?: ""
         binding.btnDone.isEnabled = true
         binding.btnDone.text = "已背 ✓"
-        binding.tvQueue.text = "今日待复习 ${dueList.size} 个 · 熟练等级 ${Srs.levelOf(this, idx)}"
+        val done = prefs.learnedCount()
+        binding.tvQueue.text = "本次 ${queue.size} 个待背 · 进度 $done / ${words.size}"
     }
 
     private fun markDone() {
-        if (dueList.isEmpty()) return
-        val idx = dueList[0]
-        Srs.review(this, idx)   // 升级并推后下次复习
-        prefs.bumpTotal()       // 累计复习次数 +1
-        prefs.checkIn()         // 当天首次复习时更新连续天数
-        showDue()
+        if (queue.isEmpty()) return
+        val idx = queue[0]
+        if (!prefs.isLearned(idx)) {
+            prefs.markLearned(idx)
+            prefs.recordToday()
+            prefs.bumpTotal()
+            prefs.checkIn()
+        }
+        showQueue()
     }
 
     private fun openTimePicker() {
@@ -99,7 +117,7 @@ class MainActivity : AppCompatActivity() {
             prefs.hour = h
             prefs.minute = m
             ReminderScheduler.schedule(this, h, m)
-            showDue()
+            showQueue()
             android.widget.Toast.makeText(
                 this, "已设为 ${String.format("%02d:%02d", h, m)} 提醒",
                 android.widget.Toast.LENGTH_SHORT
@@ -131,8 +149,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
-     * Android 12+ 的精确闹钟权限默认可能不授予侧载应用，导致提醒不精准。
-     * 未授予时弹窗引导用户去设置里开启（开启后下次排程即为精准闹钟）。
+     * Android 12+ 精确闹钟权限默认可能不授予侧载应用，导致提醒不精准。
+     * 未授予时弹窗引导用户去设置里开启。
      */
     private fun ensureExactAlarmPermission() {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {

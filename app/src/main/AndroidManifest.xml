@@ -23,6 +23,16 @@
             </intent-filter>
         </activity>
 
+        <!-- 近14天背诵情况 -->
+        <activity
+            android:name=".StatsActivity"
+            android:exported="false" />
+
+        <!-- 已背单词列表 -->
+        <activity
+            android:name=".LearnedActivity"
+            android:exported="false" />
+
         <!-- 每天定时触发，弹出通知 -->
         <receiver
             android:name=".ReminderReceiver"

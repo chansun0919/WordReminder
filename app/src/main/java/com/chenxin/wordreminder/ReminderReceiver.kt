@@ -11,16 +11,17 @@ class ReminderReceiver : BroadcastReceiver() {
 
     override fun onReceive(context: Context, intent: Intent) {
         val words = WordRepository.all(context)
-        val due = Srs.dueIndices(context, words.size)
+        val prefs = Prefs(context)
+        val queue = buildQueue(words, prefs)
         val nm = context.getSystemService(NotificationManager::class.java)
 
-        // 今天没有到期单词就不打扰（说明都复习完了）
-        if (due.isEmpty()) {
-            ReminderScheduler.schedule(context, Prefs(context).hour, Prefs(context).minute)
+        // 全部背完就不打扰
+        if (queue.isEmpty()) {
+            ReminderScheduler.schedule(context, prefs.hour, prefs.minute)
             return
         }
 
-        val first = words[due.first()]
+        val first = words[queue.first()]
         val open = PendingIntent.getActivity(
             context, 0,
             Intent(context, MainActivity::class.java),
@@ -29,7 +30,7 @@ class ReminderReceiver : BroadcastReceiver() {
 
         val n = NotificationCompat.Builder(context, MainActivity.CHANNEL_ID)
             .setSmallIcon(R.drawable.ic_notify)
-            .setContentTitle("📖 今日复习（${due.size} 词）：${first.word}")
+            .setContentTitle("📖 今日背单词（${queue.size} 个）：${first.word}")
             .setContentText(first.meaning)
             .setStyle(
                 NotificationCompat.BigTextStyle()
@@ -43,7 +44,18 @@ class ReminderReceiver : BroadcastReceiver() {
         nm.notify(1, n)
 
         // 排好明天的提醒（闹钟在息屏/省电下依然生效）
-        val prefs = Prefs(context)
         ReminderScheduler.schedule(context, prefs.hour, prefs.minute)
+    }
+
+    /** 未背过的前 10 个（从词库开头 = 初一单词）。 */
+    private fun buildQueue(words: List<Word>, prefs: Prefs): List<Int> {
+        val out = mutableListOf<Int>()
+        for (i in words.indices) {
+            if (!prefs.isLearned(i)) {
+                out.add(i)
+                if (out.size >= 10) break
+            }
+        }
+        return out
     }
 }

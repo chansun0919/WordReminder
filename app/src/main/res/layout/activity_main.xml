@@ -70,6 +70,22 @@
             android:text="设置提醒时间"
             style="?attr/materialButtonOutlinedStyle" />
 
+        <Button
+            android:id="@+id/btnStats"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="📊 近14天背诵情况"
+            style="?attr/materialButtonOutlinedStyle" />
+
+        <Button
+            android:id="@+id/btnLearned"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="📚 已背单词"
+            style="?attr/materialButtonOutlinedStyle" />
+
         <TextView
             android:id="@+id/tvStreak"
             android:layout_width="match_parent"

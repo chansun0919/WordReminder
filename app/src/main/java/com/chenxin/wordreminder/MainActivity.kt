@@ -144,7 +144,7 @@ class MainActivity : AppCompatActivity() {
                     .setPositiveButton("去设置") { _, _ ->
                         try {
                             startActivity(
-                                Intent(AlarmManager.ACTION_REQUEST_SCHEDULE_EXACT_ALARM)
+                                Intent("android.app.action.REQUEST_SCHEDULE_EXACT_ALARM")
                                     .setData(Uri.parse("package:$packageName"))
                             )
                         } catch (_: Exception) { /* 部分 ROM 无此页，忽略 */ }

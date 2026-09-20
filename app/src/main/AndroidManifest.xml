@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- 联网拉取表扬句子（每天一次） -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <!-- 开机后重新排程每日提醒 -->
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <!-- Android 13+ 发送通知需要 -->

@@ -47,13 +47,13 @@ class ReminderReceiver : BroadcastReceiver() {
         ReminderScheduler.schedule(context, prefs.hour, prefs.minute)
     }
 
-    /** 未背过的前 10 个（从词库开头 = 初一单词）。 */
+    /** 未背过的前 20 个（从词库开头 = 初一单词）。 */
     private fun buildQueue(words: List<Word>, prefs: Prefs): List<Int> {
         val out = mutableListOf<Int>()
         for (i in words.indices) {
             if (!prefs.isLearned(i)) {
                 out.add(i)
-                if (out.size >= 10) break
+                if (out.size >= 20) break
             }
         }
         return out

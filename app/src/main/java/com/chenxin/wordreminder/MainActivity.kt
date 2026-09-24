@@ -1,7 +1,6 @@
 package com.chenxin.wordreminder
 
 import android.Manifest
-import android.app.AlarmManager
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.content.Context
@@ -47,8 +46,9 @@ class MainActivity : AppCompatActivity() {
         binding.btnStats.setOnClickListener { startActivity(Intent(this, StatsActivity::class.java)) }
         binding.btnLearned.setOnClickListener { startActivity(Intent(this, LearnedActivity::class.java)) }
         binding.btnExit.setOnClickListener { finish() }
+        binding.btnTest.setOnClickListener { testReminder() }
+        binding.btnFix.setOnClickListener { showFixGuide() }
 
-        ensureExactAlarmPermission()
         refresh()
     }
 
@@ -240,24 +240,56 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun ensureExactAlarmPermission() {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S) {
-            val am = getSystemService(AlarmManager::class.java)
-            if (!am.canScheduleExactAlarms()) {
-                AlertDialog.Builder(this)
-                    .setTitle("开启精准提醒")
-                    .setMessage("为保证每天准时提醒，请在设置里允许本应用的「闹钟和提醒（精确闹钟）」权限。")
-                    .setPositiveButton("去设置") { _, _ ->
-                        try {
-                            startActivity(
-                                Intent("android.app.action.REQUEST_SCHEDULE_EXACT_ALARM")
-                                    .setData(Uri.parse("package:$packageName"))
-                            )
-                        } catch (_: Exception) { /* 部分 ROM 无此页，忽略 */ }
-                    }
-                    .setNegativeButton("稍后", null)
-                    .show()
+    // ---------- 测试提醒 & 系统限制引导 ----------
+    private fun testReminder() {
+        ReminderScheduler.scheduleTest(this, 60_000)
+        android.widget.Toast.makeText(
+            this, "已设置：1 分钟后弹提醒，请留意通知栏（状态栏会出现闹钟图标）",
+            android.widget.Toast.LENGTH_LONG
+        ).show()
+    }
+
+    private fun showFixGuide() {
+        AlertDialog.Builder(this)
+            .setTitle("提醒不弹？两步放开系统限制")
+            .setMessage(
+                "OPPO/vivo 等国产手机默认会掐掉后台闹钟和通知。请在弹出的设置页里把本应用放开：\n\n" +
+                    "1. 电池/耗电管理 → 允许后台活动，或设为「不优化/不受限制」\n" +
+                    "2. 通知管理 → 允许通知、允许锁屏显示、允许悬浮通知\n" +
+                    "3. 权限/应用管理 → 自启动、关联启动 → 允许\n\n" +
+                    "（不同 ROM 名称略有差异，看到类似开关就打开。放开后点上面的「测试提醒」验证。）"
+            )
+            .setPositiveButton("去应用设置") { _, _ -> openAppSettings() }
+            .setNeutralButton("去电池白名单") { _, _ -> requestIgnoreBattery() }
+            .setNegativeButton("稍后", null)
+            .show()
+    }
+
+    private fun openAppSettings() {
+        try {
+            startActivity(
+                android.content.Intent(
+                    android.provider.Settings.ACTION_APPLICATION_DETAILS_SETTINGS,
+                    Uri.parse("package:$packageName")
+                )
+            )
+        } catch (_: Exception) { /* 忽略 */ }
+    }
+
+    private fun requestIgnoreBattery() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+            try {
+                startActivity(
+                    android.content.Intent(
+                        android.provider.Settings.ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,
+                        Uri.parse("package:$packageName")
+                    )
+                )
+            } catch (_: Exception) {
+                openAppSettings()
             }
+        } else {
+            openAppSettings()
         }
     }
 
